@@ -1,6 +1,6 @@
 {
   "repository": "LuigiNeto01/Leet-Code-Challenges",
-  "updated_at": "2026-02-20T21:02:36Z",
+  "updated_at": "2026-02-20T23:43:20Z",
   "items": [
     {
       "question_id": "301",
@@ -18,6 +18,15 @@
       "difficulty": "medium",
       "path": "problems/medium/102_binary-tree-level-order-traversal.py",
       "committed_at": "2026-02-20T21:02:36Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "207",
+      "slug": "course-schedule",
+      "title": "Course Schedule",
+      "difficulty": "medium",
+      "path": "problems/medium/207_course-schedule.py",
+      "committed_at": "2026-02-20T23:43:20Z",
       "source": "autofeedr"
     }
   ]
