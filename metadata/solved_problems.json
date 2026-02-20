@@ -1,0 +1,15 @@
+{
+  "repository": "LuigiNeto01/Leet-Code-Challenges",
+  "updated_at": "2026-02-20T20:24:25Z",
+  "items": [
+    {
+      "question_id": "301",
+      "slug": "remove-invalid-parentheses",
+      "title": "Remove Invalid Parentheses",
+      "difficulty": "hard",
+      "path": "problems/hard/301_remove-invalid-parentheses.py",
+      "committed_at": "2026-02-20T20:24:25Z",
+      "source": "autofeedr"
+    }
+  ]
+}
