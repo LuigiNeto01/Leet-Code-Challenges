@@ -1,7 +1,16 @@
 {
   "repository": "LuigiNeto01/Leet-Code-Challenges",
-  "updated_at": "2026-02-22T18:47:09Z",
+  "updated_at": "2026-02-22T20:30:44Z",
   "items": [
+    {
+      "question_id": "232",
+      "slug": "implement-queue-using-stacks",
+      "title": "Implement Queue using Stacks",
+      "difficulty": "easy",
+      "path": "problems/easy/232_implement-queue-using-stacks.py",
+      "committed_at": "2026-02-22T20:30:44Z",
+      "source": "autofeedr"
+    },
     {
       "question_id": "94",
       "slug": "binary-tree-inorder-traversal",
