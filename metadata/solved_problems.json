@@ -1,7 +1,16 @@
 {
   "repository": "LuigiNeto01/Leet-Code-Challenges",
-  "updated_at": "2026-02-22T20:30:44Z",
+  "updated_at": "2026-02-22T23:43:49Z",
   "items": [
+    {
+      "question_id": "182",
+      "slug": "duplicate-emails",
+      "title": "Duplicate Emails",
+      "difficulty": "easy",
+      "path": "problems/easy/182_duplicate-emails.py",
+      "committed_at": "2026-02-22T23:43:49Z",
+      "source": "autofeedr"
+    },
     {
       "question_id": "232",
       "slug": "implement-queue-using-stacks",
