@@ -1,7 +1,16 @@
 {
   "repository": "LuigiNeto01/Leet-Code-Challenges",
-  "updated_at": "2026-02-20T23:43:20Z",
+  "updated_at": "2026-02-22T18:47:09Z",
   "items": [
+    {
+      "question_id": "94",
+      "slug": "binary-tree-inorder-traversal",
+      "title": "Binary Tree Inorder Traversal",
+      "difficulty": "easy",
+      "path": "problems/easy/94_binary-tree-inorder-traversal.py",
+      "committed_at": "2026-02-22T18:47:09Z",
+      "source": "autofeedr"
+    },
     {
       "question_id": "301",
       "slug": "remove-invalid-parentheses",
