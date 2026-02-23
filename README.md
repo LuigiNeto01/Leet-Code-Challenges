@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 10
+Total de questoes resolvidas: 11
 
 ### Easy
 
@@ -22,6 +22,11 @@ Total de questoes resolvidas: 10
   - Resolvido em: 18:47 - 22/02/26
 
 ### Medium
+
+- [#81 Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+  - Question ID: 81
+  - Arquivo: `problems/medium/81_search-in-rotated-sorted-array-ii.py`
+  - Resolvido em: 22:30 - 23/02/26
 
 - [#324 Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)
   - Question ID: 324
