@@ -1,8 +1,10 @@
-# LeetCode Progress
+# LeetCode Solutions
 
-Total de questoes resolvidas: 9
+## LeetCode Progress
 
-## Easy
+Total de questoes resolvidas: 10
+
+### Easy
 
 - [#182 Emails](https://leetcode.com/problems/duplicate-emails/)
   - Question ID: 182
@@ -19,7 +21,12 @@ Total de questoes resolvidas: 9
   - Arquivo: `problems/easy/94_binary-tree-inorder-traversal.py`
   - Resolvido em: 18:47 - 22/02/26
 
-## Medium
+### Medium
+
+- [#324 Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)
+  - Question ID: 324
+  - Arquivo: `problems/medium/324_wiggle-sort-ii.py`
+  - Resolvido em: 20:39 - 23/02/26
 
 - [#97 String](https://leetcode.com/problems/interleaving-string/)
   - Question ID: 97
@@ -41,7 +48,7 @@ Total de questoes resolvidas: 9
   - Arquivo: `problems/medium/102_binary-tree-level-order-traversal.py`
   - Resolvido em: 21:02 - 20/02/26
 
-## Hard
+### Hard
 
 - [#273 Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
   - Question ID: 273
