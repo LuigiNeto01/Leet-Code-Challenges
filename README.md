@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 12
+Total de questoes resolvidas: 13
 
 ### Easy
 
@@ -22,6 +22,11 @@ Total de questoes resolvidas: 12
   - Resolvido em: 18:47 - 22/02/26
 
 ### Medium
+
+- [#139 Word Break](https://leetcode.com/problems/word-break/)
+  - Question ID: 139
+  - Arquivo: `problems/medium/139_word-break.py`
+  - Resolvido em: 21:04 - 24/02/26
 
 - [#309 Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
   - Question ID: 309
