@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 11
+Total de questoes resolvidas: 12
 
 ### Easy
 
@@ -22,6 +22,11 @@ Total de questoes resolvidas: 11
   - Resolvido em: 18:47 - 22/02/26
 
 ### Medium
+
+- [#309 Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+  - Question ID: 309
+  - Arquivo: `problems/medium/309_best-time-to-buy-and-sell-stock-with-cooldown.py`
+  - Resolvido em: 14:01 - 24/02/26
 
 - [#81 Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
   - Question ID: 81
