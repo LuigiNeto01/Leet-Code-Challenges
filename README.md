@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 13
+Total de questoes resolvidas: 14
 
 ### Easy
 
@@ -22,6 +22,11 @@ Total de questoes resolvidas: 13
   - Resolvido em: 18:47 - 22/02/26
 
 ### Medium
+
+- [#435 Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+  - Question ID: 435
+  - Arquivo: `problems/medium/435_non-overlapping-intervals.py`
+  - Resolvido em: 13:00 - 25/02/26
 
 - [#139 Word Break](https://leetcode.com/problems/word-break/)
   - Question ID: 139
