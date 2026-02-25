@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 15
+Total de questoes resolvidas: 16
 
 ### Easy
 
@@ -22,6 +22,11 @@ Total de questoes resolvidas: 15
   - Resolvido em: 18:47 - 22/02/26
 
 ### Medium
+
+- [#11 Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+  - Question ID: 11
+  - Arquivo: `problems/medium/11_container-with-most-water.py`
+  - Resolvido em: 21:10 - 25/02/26
 
 - [#473 Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
   - Question ID: 473
