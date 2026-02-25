@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 14
+Total de questoes resolvidas: 15
 
 ### Easy
 
@@ -22,6 +22,11 @@ Total de questoes resolvidas: 14
   - Resolvido em: 18:47 - 22/02/26
 
 ### Medium
+
+- [#473 Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
+  - Question ID: 473
+  - Arquivo: `problems/medium/473_matchsticks-to-square.py`
+  - Resolvido em: 19:01 - 25/02/26
 
 - [#435 Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
   - Question ID: 435
