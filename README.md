@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 21
+Total de questoes resolvidas: 22
 
 ### Easy
 
@@ -27,6 +27,11 @@ Total de questoes resolvidas: 21
   - Resolvido em: 18:47 - 22/02/26
 
 ### Medium
+
+- [#165 Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
+  - Question ID: 165
+  - Arquivo: `problems/medium/165_compare-version-numbers.py`
+  - Resolvido em: 22:00 - 26/02/26
 
 - [#371 Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
   - Question ID: 371
