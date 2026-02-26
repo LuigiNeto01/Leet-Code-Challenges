@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 19
+Total de questoes resolvidas: 20
 
 ### Easy
+
+- [#492 Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)
+  - Question ID: 492
+  - Arquivo: `problems/easy/492_construct-the-rectangle.py`
+  - Resolvido em: 18:02 - 26/02/26
 
 - [#182 Emails](https://leetcode.com/problems/duplicate-emails/)
   - Question ID: 182
