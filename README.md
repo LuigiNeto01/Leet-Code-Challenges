@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 16
+Total de questoes resolvidas: 17
 
 ### Easy
 
@@ -79,6 +79,11 @@ Total de questoes resolvidas: 16
   - Resolvido em: 21:02 - 20/02/26
 
 ### Hard
+
+- [#327 Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)
+  - Question ID: 327
+  - Arquivo: `problems/hard/327_count-of-range-sum.py`
+  - Resolvido em: 11:31 - 26/02/26
 
 - [#273 Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
   - Question ID: 273
