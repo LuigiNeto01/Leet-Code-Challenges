@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 18
+Total de questoes resolvidas: 19
 
 ### Easy
 
@@ -22,6 +22,11 @@ Total de questoes resolvidas: 18
   - Resolvido em: 18:47 - 22/02/26
 
 ### Medium
+
+- [#442 Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+  - Question ID: 442
+  - Arquivo: `problems/medium/442_find-all-duplicates-in-an-array.py`
+  - Resolvido em: 17:53 - 26/02/26
 
 - [#365 Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)
   - Question ID: 365
