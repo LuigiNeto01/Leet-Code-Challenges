@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 17
+Total de questoes resolvidas: 18
 
 ### Easy
 
@@ -22,6 +22,11 @@ Total de questoes resolvidas: 17
   - Resolvido em: 18:47 - 22/02/26
 
 ### Medium
+
+- [#365 Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)
+  - Question ID: 365
+  - Arquivo: `problems/medium/365_water-and-jug-problem.py`
+  - Resolvido em: 15:30 - 26/02/26
 
 - [#11 Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
   - Question ID: 11
