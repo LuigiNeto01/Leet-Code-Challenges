@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 20
+Total de questoes resolvidas: 21
 
 ### Easy
 
@@ -27,6 +27,11 @@ Total de questoes resolvidas: 20
   - Resolvido em: 18:47 - 22/02/26
 
 ### Medium
+
+- [#371 Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+  - Question ID: 371
+  - Arquivo: `problems/medium/371_sum-of-two-integers.py`
+  - Resolvido em: 18:03 - 26/02/26
 
 - [#442 Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
   - Question ID: 442
