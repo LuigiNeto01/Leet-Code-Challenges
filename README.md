@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 24
+Total de questoes resolvidas: 25
 
 ### Easy
 
@@ -27,6 +27,11 @@ Total de questoes resolvidas: 24
   - Resolvido em: 18:47 - 22/02/26
 
 ### Medium
+
+- [#15 3Sum](https://leetcode.com/problems/3sum/)
+  - Question ID: 15
+  - Arquivo: `problems/medium/15_3sum.py`
+  - Resolvido em: 22:30 - 02/03/26
 
 - [#165 Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
   - Question ID: 165
