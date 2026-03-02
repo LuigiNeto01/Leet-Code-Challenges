@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 23
+Total de questoes resolvidas: 24
 
 ### Easy
 
@@ -104,6 +104,11 @@ Total de questoes resolvidas: 23
   - Resolvido em: 21:02 - 20/02/26
 
 ### Hard
+
+- [#736 Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/)
+  - Question ID: 736
+  - Arquivo: `problems/hard/736_parse-lisp-expression.py`
+  - Resolvido em: 19:10 - 02/03/26
 
 - [#432 All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)
   - Question ID: 432
