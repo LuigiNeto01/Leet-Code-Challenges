@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 22
+Total de questoes resolvidas: 23
 
 ### Easy
 
@@ -104,6 +104,11 @@ Total de questoes resolvidas: 22
   - Resolvido em: 21:02 - 20/02/26
 
 ### Hard
+
+- [#432 All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)
+  - Question ID: 432
+  - Arquivo: `problems/hard/432_all-oone-data-structure.py`
+  - Resolvido em: 18:04 - 02/03/26
 
 - [#327 Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)
   - Question ID: 327
