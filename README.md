@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 25
+Total de questoes resolvidas: 26
 
 ### Easy
 
@@ -27,6 +27,11 @@ Total de questoes resolvidas: 25
   - Resolvido em: 18:47 - 22/02/26
 
 ### Medium
+
+- [#78 Subsets](https://leetcode.com/problems/subsets/)
+  - Question ID: 78
+  - Arquivo: `problems/medium/78_subsets.py`
+  - Resolvido em: 14:01 - 03/03/26
 
 - [#15 3Sum](https://leetcode.com/problems/3sum/)
   - Question ID: 15
