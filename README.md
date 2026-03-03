@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 26
+Total de questoes resolvidas: 27
 
 ### Easy
 
@@ -114,6 +114,11 @@ Total de questoes resolvidas: 26
   - Resolvido em: 21:02 - 20/02/26
 
 ### Hard
+
+- [#135 Candy](https://leetcode.com/problems/candy/)
+  - Question ID: 135
+  - Arquivo: `problems/hard/135_candy.py`
+  - Resolvido em: 20:00 - 03/03/26
 
 - [#736 Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/)
   - Question ID: 736
