@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 29
+Total de questoes resolvidas: 30
 
 ### Easy
+
+- [#463 Island Perimeter](https://leetcode.com/problems/island-perimeter/)
+  - Question ID: 463
+  - Arquivo: `problems/easy/463_island-perimeter.py`
+  - Resolvido em: 23:35 - 04/03/26
 
 - [#292 Nim Game](https://leetcode.com/problems/nim-game/)
   - Question ID: 292
