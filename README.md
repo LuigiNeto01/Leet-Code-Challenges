@@ -2,9 +2,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 27
+Total de questoes resolvidas: 28
 
 ### Easy
+
+- [#292 Nim Game](https://leetcode.com/problems/nim-game/)
+  - Question ID: 292
+  - Arquivo: `problems/easy/292_nim-game.py`
+  - Resolvido em: 13:00 - 04/03/26
 
 - [#492 Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)
   - Question ID: 492
