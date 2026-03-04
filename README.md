@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 28
+Total de questoes resolvidas: 29
 
 ### Easy
 
@@ -32,6 +32,11 @@ Total de questoes resolvidas: 28
   - Resolvido em: 18:47 - 22/02/26
 
 ### Medium
+
+- [#53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+  - Question ID: 53
+  - Arquivo: `problems/medium/53_maximum-subarray.py`
+  - Resolvido em: 19:01 - 04/03/26
 
 - [#78 Subsets](https://leetcode.com/problems/subsets/)
   - Question ID: 78
