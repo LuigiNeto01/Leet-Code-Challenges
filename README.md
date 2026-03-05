@@ -61,13 +61,18 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 1
+Total de questoes resolvidas: 2
 
 ### Easy
 
 - Nenhuma questao registrada ainda.
 
 ### Medium
+
+- [#48 Rotate Image](https://leetcode.com/problems/rotate-image/)
+  - Question ID: 48
+  - Arquivo: `problems/medium/48_rotate-image.py`
+  - Resolvido em: 22:00 - 05/03/26
 
 - [#113 Path Sum II](https://leetcode.com/problems/path-sum-ii/)
   - Question ID: 113
