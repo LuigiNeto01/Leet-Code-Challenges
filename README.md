@@ -2,7 +2,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 30
+Total de questoes resolvidas: 31
 
 ### Easy
 
@@ -37,6 +37,11 @@ Total de questoes resolvidas: 30
   - Resolvido em: 18:47 - 22/02/26
 
 ### Medium
+
+- [#399 Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+  - Question ID: 399
+  - Arquivo: `problems/medium/399_evaluate-division.py`
+  - Resolvido em: 11:31 - 05/03/26
 
 - [#53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
   - Question ID: 53
