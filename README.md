@@ -58,3 +58,22 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 ---
 
 <p align="center">Feito com ❤️ por <a href="https://github.com/LuigiNeto01">LuigiNeto01</a></p>
+
+## LeetCode Progress
+
+Total de questoes resolvidas: 1
+
+### Easy
+
+- Nenhuma questao registrada ainda.
+
+### Medium
+
+- [#113 Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+  - Question ID: 113
+  - Arquivo: `problems/medium/113_path-sum-ii.py`
+  - Resolvido em: 18:03 - 05/03/26
+
+### Hard
+
+- Nenhuma questao registrada ainda.
