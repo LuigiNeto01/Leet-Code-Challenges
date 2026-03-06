@@ -61,13 +61,18 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 2
+Total de questoes resolvidas: 3
 
 ### Easy
 
 - Nenhuma questao registrada ainda.
 
 ### Medium
+
+- [#322 Coin Change](https://leetcode.com/problems/coin-change/)
+  - Question ID: 322
+  - Arquivo: `problems/medium/322_coin-change.py`
+  - Resolvido em: 12:30 - 06/03/26
 
 - [#48 Rotate Image](https://leetcode.com/problems/rotate-image/)
   - Question ID: 48
