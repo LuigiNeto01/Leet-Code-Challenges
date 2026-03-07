@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 5
+Total de questoes resolvidas: 6
 
 ### Easy
 
@@ -94,4 +94,7 @@ Total de questoes resolvidas: 5
 
 ### Hard
 
-- Nenhuma questao registrada ainda.
+- [#420 Strong Password Checker](https://leetcode.com/problems/strong-password-checker/)
+  - Question ID: 420
+  - Arquivo: `problems/hard/420_strong-password-checker.py`
+  - Resolvido em: 22:33 - 07/03/26
