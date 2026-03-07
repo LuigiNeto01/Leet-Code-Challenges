@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 4
+Total de questoes resolvidas: 5
 
 ### Easy
 
@@ -71,6 +71,11 @@ Total de questoes resolvidas: 4
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#164 Maximum Gap](https://leetcode.com/problems/maximum-gap/)
+  - Question ID: 164
+  - Arquivo: `problems/medium/164_maximum-gap.py`
+  - Resolvido em: 14:00 - 07/03/26
 
 - [#322 Coin Change](https://leetcode.com/problems/coin-change/)
   - Question ID: 322
