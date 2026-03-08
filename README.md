@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 8
+Total de questoes resolvidas: 9
 
 ### Easy
 
@@ -71,6 +71,11 @@ Total de questoes resolvidas: 8
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#474 Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
+  - Question ID: 474
+  - Arquivo: `problems/medium/474_ones-and-zeroes.py`
+  - Resolvido em: 19:00 - 08/03/26
 
 - [#114 Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
   - Question ID: 114
