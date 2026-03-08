@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 6
+Total de questoes resolvidas: 7
 
 ### Easy
 
@@ -71,6 +71,11 @@ Total de questoes resolvidas: 6
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#274 H-Index](https://leetcode.com/problems/h-index/)
+  - Question ID: 274
+  - Arquivo: `problems/medium/274_h-index.py`
+  - Resolvido em: 07:31 - 08/03/26
 
 - [#164 Maximum Gap](https://leetcode.com/problems/maximum-gap/)
   - Question ID: 164
