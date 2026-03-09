@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 10
+Total de questoes resolvidas: 11
 
 ### Easy
 
@@ -71,6 +71,11 @@ Total de questoes resolvidas: 10
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#7 Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+  - Question ID: 7
+  - Arquivo: `problems/medium/7_reverse-integer.py`
+  - Resolvido em: 17:01 - 09/03/26
 
 - [#454 4Sum II](https://leetcode.com/problems/4sum-ii/)
   - Question ID: 454
