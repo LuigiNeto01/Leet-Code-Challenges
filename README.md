@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 9
+Total de questoes resolvidas: 10
 
 ### Easy
 
@@ -71,6 +71,11 @@ Total de questoes resolvidas: 9
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#454 4Sum II](https://leetcode.com/problems/4sum-ii/)
+  - Question ID: 454
+  - Arquivo: `problems/medium/454_4sum-ii.py`
+  - Resolvido em: 10:01 - 09/03/26
 
 - [#474 Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
   - Question ID: 474
