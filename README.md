@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 11
+Total de questoes resolvidas: 12
 
 ### Easy
 
@@ -71,6 +71,11 @@ Total de questoes resolvidas: 11
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#162 Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+  - Question ID: 162
+  - Arquivo: `problems/medium/162_find-peak-element.py`
+  - Resolvido em: 22:30 - 09/03/26
 
 - [#7 Reverse Integer](https://leetcode.com/problems/reverse-integer/)
   - Question ID: 7
