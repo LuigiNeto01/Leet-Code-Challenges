@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 13
+Total de questoes resolvidas: 14
 
 ### Easy
+
+- [#228 Summary Ranges](https://leetcode.com/problems/summary-ranges/)
+  - Question ID: 228
+  - Arquivo: `problems/easy/228_summary-ranges.py`
+  - Resolvido em: 20:03 - 10/03/26
 
 - [#217 Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
   - Question ID: 217
