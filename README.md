@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 12
+Total de questoes resolvidas: 13
 
 ### Easy
 
@@ -123,6 +123,11 @@ Total de questoes resolvidas: 12
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#440 K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)
+  - Question ID: 440
+  - Arquivo: `problems/hard/440_k-th-smallest-in-lexicographical-order.py`
+  - Resolvido em: 14:01 - 10/03/26
 
 - [#420 Strong Password Checker](https://leetcode.com/problems/strong-password-checker/)
   - Question ID: 420
