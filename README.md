@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 14
+Total de questoes resolvidas: 15
 
 ### Easy
+
+- [#9 Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+  - Question ID: 9
+  - Arquivo: `problems/easy/9_palindrome-number.py`
+  - Resolvido em: 13:00 - 11/03/26
 
 - [#228 Summary Ranges](https://leetcode.com/problems/summary-ranges/)
   - Question ID: 228
