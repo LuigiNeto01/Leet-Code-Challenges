@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 16
+Total de questoes resolvidas: 17
 
 ### Easy
 
@@ -81,6 +81,11 @@ Total de questoes resolvidas: 16
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#187 Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
+  - Question ID: 187
+  - Arquivo: `problems/medium/187_repeated-dna-sequences.py`
+  - Resolvido em: 11:30 - 12/03/26
 
 - [#343 Integer Break](https://leetcode.com/problems/integer-break/)
   - Question ID: 343
