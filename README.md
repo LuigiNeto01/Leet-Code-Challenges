@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 17
+Total de questoes resolvidas: 18
 
 ### Easy
 
@@ -81,6 +81,11 @@ Total de questoes resolvidas: 17
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#199 Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+  - Question ID: 199
+  - Arquivo: `problems/medium/199_binary-tree-right-side-view.py`
+  - Resolvido em: 15:30 - 12/03/26
 
 - [#187 Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
   - Question ID: 187
