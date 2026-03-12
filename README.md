@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 19
+Total de questoes resolvidas: 20
 
 ### Easy
 
@@ -81,6 +81,11 @@ Total de questoes resolvidas: 19
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#63 Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+  - Question ID: 63
+  - Arquivo: `problems/medium/63_unique-paths-ii.py`
+  - Resolvido em: 22:01 - 12/03/26
 
 - [#77 Combinations](https://leetcode.com/problems/combinations/)
   - Question ID: 77
