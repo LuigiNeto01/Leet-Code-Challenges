@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 20
+Total de questoes resolvidas: 21
 
 ### Easy
+
+- [#1 Two Sum](https://leetcode.com/problems/two-sum/)
+  - Question ID: 1
+  - Arquivo: `problems/easy/1_two-sum.py`
+  - Resolvido em: 12:30 - 13/03/26
 
 - [#9 Palindrome Number](https://leetcode.com/problems/palindrome-number/)
   - Question ID: 9
