@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 21
+Total de questoes resolvidas: 22
 
 ### Easy
 
@@ -86,6 +86,11 @@ Total de questoes resolvidas: 21
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#452 Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+  - Question ID: 452
+  - Arquivo: `problems/medium/452_minimum-number-of-arrows-to-burst-balloons.py`
+  - Resolvido em: 15:31 - 19/03/26
 
 - [#63 Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
   - Question ID: 63
