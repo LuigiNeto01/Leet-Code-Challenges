@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 23
+Total de questoes resolvidas: 24
 
 ### Easy
 
@@ -86,6 +86,11 @@ Total de questoes resolvidas: 23
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#337 House Robber III](https://leetcode.com/problems/house-robber-iii/)
+  - Question ID: 337
+  - Arquivo: `problems/medium/337_house-robber-iii.py`
+  - Resolvido em: 22:00 - 19/03/26
 
 - [#452 Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
   - Question ID: 452
