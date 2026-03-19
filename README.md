@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 22
+Total de questoes resolvidas: 23
 
 ### Easy
 
@@ -168,6 +168,11 @@ Total de questoes resolvidas: 22
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#483 Smallest Good Base](https://leetcode.com/problems/smallest-good-base/)
+  - Question ID: 483
+  - Arquivo: `problems/hard/483_smallest-good-base.py`
+  - Resolvido em: 18:01 - 19/03/26
 
 - [#440 K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)
   - Question ID: 440
