@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 24
+Total de questoes resolvidas: 25
 
 ### Easy
+
+- [#145 Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+  - Question ID: 145
+  - Arquivo: `problems/easy/145_binary-tree-postorder-traversal.py`
+  - Resolvido em: 12:30 - 20/03/26
 
 - [#1 Two Sum](https://leetcode.com/problems/two-sum/)
   - Question ID: 1
