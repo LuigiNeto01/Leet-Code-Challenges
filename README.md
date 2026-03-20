@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 25
+Total de questoes resolvidas: 26
 
 ### Easy
 
@@ -91,6 +91,11 @@ Total de questoes resolvidas: 25
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#142 Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+  - Question ID: 142
+  - Arquivo: `problems/medium/142_linked-list-cycle-ii.py`
+  - Resolvido em: 20:30 - 20/03/26
 
 - [#337 House Robber III](https://leetcode.com/problems/house-robber-iii/)
   - Question ID: 337
