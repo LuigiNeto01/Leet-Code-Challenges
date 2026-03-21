@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 26
+Total de questoes resolvidas: 27
 
 ### Easy
 
@@ -183,6 +183,11 @@ Total de questoes resolvidas: 26
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#480 Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
+  - Question ID: 480
+  - Arquivo: `problems/hard/480_sliding-window-median.py`
+  - Resolvido em: 14:00 - 21/03/26
 
 - [#483 Smallest Good Base](https://leetcode.com/problems/smallest-good-base/)
   - Question ID: 483
