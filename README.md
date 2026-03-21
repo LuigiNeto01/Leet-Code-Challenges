@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 27
+Total de questoes resolvidas: 28
 
 ### Easy
 
@@ -91,6 +91,11 @@ Total de questoes resolvidas: 27
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#82 Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+  - Question ID: 82
+  - Arquivo: `problems/medium/82_remove-duplicates-from-sorted-list-ii.py`
+  - Resolvido em: 22:31 - 21/03/26
 
 - [#142 Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
   - Question ID: 142
