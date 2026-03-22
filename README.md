@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 28
+Total de questoes resolvidas: 29
 
 ### Easy
 
@@ -91,6 +91,11 @@ Total de questoes resolvidas: 28
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#395 Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
+  - Question ID: 395
+  - Arquivo: `problems/medium/395_longest-substring-with-at-least-k-repeating-characters.py`
+  - Resolvido em: 07:30 - 22/03/26
 
 - [#82 Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
   - Question ID: 82
