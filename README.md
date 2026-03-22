@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 29
+Total de questoes resolvidas: 30
 
 ### Easy
+
+- [#338 Counting Bits](https://leetcode.com/problems/counting-bits/)
+  - Question ID: 338
+  - Arquivo: `problems/easy/338_counting-bits.py`
+  - Resolvido em: 12:00 - 22/03/26
 
 - [#145 Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
   - Question ID: 145
