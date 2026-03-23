@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 32
+Total de questoes resolvidas: 33
 
 ### Easy
+
+- [#387 First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+  - Question ID: 387
+  - Arquivo: `problems/easy/387_first-unique-character-in-a-string.py`
+  - Resolvido em: 17:00 - 23/03/26
 
 - [#197 Rising Temperature](https://leetcode.com/problems/rising-temperature/)
   - Question ID: 197
