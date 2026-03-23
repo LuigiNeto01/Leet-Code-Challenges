@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 33
+Total de questoes resolvidas: 34
 
 ### Easy
 
@@ -106,6 +106,11 @@ Total de questoes resolvidas: 33
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#481 Magical String](https://leetcode.com/problems/magical-string/)
+  - Question ID: 481
+  - Arquivo: `problems/medium/481_magical-string.py`
+  - Resolvido em: 22:30 - 23/03/26
 
 - [#39 Combination Sum](https://leetcode.com/problems/combination-sum/)
   - Question ID: 39
