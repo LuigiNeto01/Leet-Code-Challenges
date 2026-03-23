@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 31
+Total de questoes resolvidas: 32
 
 ### Easy
+
+- [#197 Rising Temperature](https://leetcode.com/problems/rising-temperature/)
+  - Question ID: 197
+  - Arquivo: `problems/easy/197_rising-temperature.py`
+  - Resolvido em: 10:00 - 23/03/26
 
 - [#338 Counting Bits](https://leetcode.com/problems/counting-bits/)
   - Question ID: 338
