@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 37
+Total de questoes resolvidas: 38
 
 ### Easy
 
@@ -233,6 +233,11 @@ Total de questoes resolvidas: 37
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#466 Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/)
+  - Question ID: 466
+  - Arquivo: `problems/hard/466_count-the-repetitions.py`
+  - Resolvido em: 19:01 - 25/03/26
 
 - [#480 Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
   - Question ID: 480
