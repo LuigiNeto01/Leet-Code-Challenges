@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 36
+Total de questoes resolvidas: 37
 
 ### Easy
 
@@ -106,6 +106,11 @@ Total de questoes resolvidas: 36
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#393 UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
+  - Question ID: 393
+  - Arquivo: `problems/medium/393_utf-8-validation.py`
+  - Resolvido em: 13:00 - 25/03/26
 
 - [#227 Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
   - Question ID: 227
