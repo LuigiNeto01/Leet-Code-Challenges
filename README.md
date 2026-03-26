@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 39
+Total de questoes resolvidas: 40
 
 ### Easy
 
@@ -106,6 +106,11 @@ Total de questoes resolvidas: 39
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#29 Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
+  - Question ID: 29
+  - Arquivo: `problems/medium/29_divide-two-integers.py`
+  - Resolvido em: 15:30 - 26/03/26
 
 - [#128 Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
   - Question ID: 128
