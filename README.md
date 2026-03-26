@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 40
+Total de questoes resolvidas: 41
 
 ### Easy
+
+- [#283 Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+  - Question ID: 283
+  - Arquivo: `problems/easy/283_move-zeroes.py`
+  - Resolvido em: 18:01 - 26/03/26
 
 - [#387 First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
   - Question ID: 387
