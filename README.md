@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 41
+Total de questoes resolvidas: 42
 
 ### Easy
 
@@ -111,6 +111,11 @@ Total de questoes resolvidas: 41
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#103 Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+  - Question ID: 103
+  - Arquivo: `problems/medium/103_binary-tree-zigzag-level-order-traversal.py`
+  - Resolvido em: 22:00 - 26/03/26
 
 - [#29 Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
   - Question ID: 29
