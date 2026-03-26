@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 38
+Total de questoes resolvidas: 39
 
 ### Easy
 
@@ -106,6 +106,11 @@ Total de questoes resolvidas: 38
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#128 Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+  - Question ID: 128
+  - Arquivo: `problems/medium/128_longest-consecutive-sequence.py`
+  - Resolvido em: 11:30 - 26/03/26
 
 - [#393 UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
   - Question ID: 393
