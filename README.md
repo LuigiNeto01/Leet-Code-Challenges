@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 45
+Total de questoes resolvidas: 46
 
 ### Easy
 
@@ -116,6 +116,11 @@ Total de questoes resolvidas: 45
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#6 Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+  - Question ID: 6
+  - Arquivo: `problems/medium/6_zigzag-conversion.py`
+  - Resolvido em: 20:30 - 27/03/26
 
 - [#176 Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
   - Question ID: 176
