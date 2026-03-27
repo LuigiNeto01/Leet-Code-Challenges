@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 43
+Total de questoes resolvidas: 44
 
 ### Easy
 
@@ -258,6 +258,11 @@ Total de questoes resolvidas: 43
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#282 Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)
+  - Question ID: 282
+  - Arquivo: `problems/hard/282_expression-add-operators.py`
+  - Resolvido em: 13:35 - 27/03/26
 
 - [#466 Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/)
   - Question ID: 466
