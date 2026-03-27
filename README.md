@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 42
+Total de questoes resolvidas: 43
 
 ### Easy
 
@@ -111,6 +111,11 @@ Total de questoes resolvidas: 42
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#176 Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
+  - Question ID: 176
+  - Arquivo: `problems/medium/176_second-highest-salary.py`
+  - Resolvido em: 12:30 - 27/03/26
 
 - [#103 Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
   - Question ID: 103
