@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 44
+Total de questoes resolvidas: 45
 
 ### Easy
+
+- [#367 Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+  - Question ID: 367
+  - Arquivo: `problems/easy/367_valid-perfect-square.py`
+  - Resolvido em: 16:00 - 27/03/26
 
 - [#283 Move Zeroes](https://leetcode.com/problems/move-zeroes/)
   - Question ID: 283
