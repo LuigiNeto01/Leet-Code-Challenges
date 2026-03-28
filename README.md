@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 47
+Total de questoes resolvidas: 48
 
 ### Easy
+
+- [#28 Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+  - Question ID: 28
+  - Arquivo: `problems/easy/28_find-the-index-of-the-first-occurrence-in-a-string.py`
+  - Resolvido em: 22:32 - 28/03/26
 
 - [#234 Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
   - Question ID: 234
