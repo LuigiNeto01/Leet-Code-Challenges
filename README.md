@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 48
+Total de questoes resolvidas: 49
 
 ### Easy
 
@@ -126,6 +126,11 @@ Total de questoes resolvidas: 48
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#423 Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)
+  - Question ID: 423
+  - Arquivo: `problems/medium/423_reconstruct-original-digits-from-english.py`
+  - Resolvido em: 07:30 - 29/03/26
 
 - [#6 Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
   - Question ID: 6
