@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 49
+Total de questoes resolvidas: 50
 
 ### Easy
 
@@ -126,6 +126,11 @@ Total de questoes resolvidas: 49
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#209 Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+  - Question ID: 209
+  - Arquivo: `problems/medium/209_minimum-size-subarray-sum.py`
+  - Resolvido em: 12:01 - 29/03/26
 
 - [#423 Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)
   - Question ID: 423
