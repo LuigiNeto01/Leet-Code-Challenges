@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 50
+Total de questoes resolvidas: 51
 
 ### Easy
 
@@ -126,6 +126,11 @@ Total de questoes resolvidas: 50
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#143 Reorder List](https://leetcode.com/problems/reorder-list/)
+  - Question ID: 143
+  - Arquivo: `problems/medium/143_reorder-list.py`
+  - Resolvido em: 19:00 - 29/03/26
 
 - [#209 Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
   - Question ID: 209
