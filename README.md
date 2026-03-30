@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 53
+Total de questoes resolvidas: 54
 
 ### Easy
 
@@ -131,6 +131,11 @@ Total de questoes resolvidas: 53
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#8 String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+  - Question ID: 8
+  - Arquivo: `problems/medium/8_string-to-integer-atoi.py`
+  - Resolvido em: 22:34 - 30/03/26
 
 - [#93 Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
   - Question ID: 93
