@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 51
+Total de questoes resolvidas: 52
 
 ### Easy
+
+- [#482 License Key Formatting](https://leetcode.com/problems/license-key-formatting/)
+  - Question ID: 482
+  - Arquivo: `problems/easy/482_license-key-formatting.py`
+  - Resolvido em: 10:00 - 30/03/26
 
 - [#28 Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
   - Question ID: 28
