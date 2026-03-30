@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 52
+Total de questoes resolvidas: 53
 
 ### Easy
 
@@ -131,6 +131,11 @@ Total de questoes resolvidas: 52
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#93 Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
+  - Question ID: 93
+  - Arquivo: `problems/medium/93_restore-ip-addresses.py`
+  - Resolvido em: 17:01 - 30/03/26
 
 - [#143 Reorder List](https://leetcode.com/problems/reorder-list/)
   - Question ID: 143
