@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 55
+Total de questoes resolvidas: 56
 
 ### Easy
 
@@ -131,6 +131,11 @@ Total de questoes resolvidas: 55
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#453 Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
+  - Question ID: 453
+  - Arquivo: `problems/medium/453_minimum-moves-to-equal-array-elements.py`
+  - Resolvido em: 20:00 - 31/03/26
 
 - [#151 Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
   - Question ID: 151
