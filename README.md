@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 54
+Total de questoes resolvidas: 55
 
 ### Easy
 
@@ -131,6 +131,11 @@ Total de questoes resolvidas: 54
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#151 Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+  - Question ID: 151
+  - Arquivo: `problems/medium/151_reverse-words-in-a-string.py`
+  - Resolvido em: 14:02 - 31/03/26
 
 - [#8 String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
   - Question ID: 8
