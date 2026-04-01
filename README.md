@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 56
+Total de questoes resolvidas: 57
 
 ### Easy
 
@@ -131,6 +131,11 @@ Total de questoes resolvidas: 56
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#75 Sort Colors](https://leetcode.com/problems/sort-colors/)
+  - Question ID: 75
+  - Arquivo: `problems/medium/75_sort-colors.py`
+  - Resolvido em: 13:00 - 01/04/26
 
 - [#453 Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
   - Question ID: 453
