@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 61
+Total de questoes resolvidas: 62
 
 ### Easy
+
+- [#225 Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+  - Question ID: 225
+  - Arquivo: `problems/easy/225_implement-stack-using-queues.py`
+  - Resolvido em: 22:00 - 02/04/26
 
 - [#349 Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
   - Question ID: 349
