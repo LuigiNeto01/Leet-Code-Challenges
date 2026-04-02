@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 60
+Total de questoes resolvidas: 61
 
 ### Easy
+
+- [#349 Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+  - Question ID: 349
+  - Arquivo: `problems/easy/349_intersection-of-two-arrays.py`
+  - Resolvido em: 18:00 - 02/04/26
 
 - [#482 License Key Formatting](https://leetcode.com/problems/license-key-formatting/)
   - Question ID: 482
