@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 59
+Total de questoes resolvidas: 60
 
 ### Easy
 
@@ -131,6 +131,11 @@ Total de questoes resolvidas: 59
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#284 Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)
+  - Question ID: 284
+  - Arquivo: `problems/medium/284_peeking-iterator.py`
+  - Resolvido em: 15:30 - 02/04/26
 
 - [#79 Word Search](https://leetcode.com/problems/word-search/)
   - Question ID: 79
