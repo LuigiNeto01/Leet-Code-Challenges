@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 64
+Total de questoes resolvidas: 65
 
 ### Easy
 
@@ -141,6 +141,11 @@ Total de questoes resolvidas: 64
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#402 Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
+  - Question ID: 402
+  - Arquivo: `problems/medium/402_remove-k-digits.py`
+  - Resolvido em: 20:30 - 03/04/26
 
 - [#45 Jump Game II](https://leetcode.com/problems/jump-game-ii/)
   - Question ID: 45
