@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 62
+Total de questoes resolvidas: 63
 
 ### Easy
 
@@ -348,6 +348,11 @@ Total de questoes resolvidas: 62
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#84 Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+  - Question ID: 84
+  - Arquivo: `problems/hard/84_largest-rectangle-in-histogram.py`
+  - Resolvido em: 12:30 - 03/04/26
 
 - [#282 Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)
   - Question ID: 282
