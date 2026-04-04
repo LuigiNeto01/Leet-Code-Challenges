@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 66
+Total de questoes resolvidas: 67
 
 ### Easy
 
@@ -141,6 +141,11 @@ Total de questoes resolvidas: 66
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#238 Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+  - Question ID: 238
+  - Arquivo: `problems/medium/238_product-of-array-except-self.py`
+  - Resolvido em: 22:31 - 04/04/26
 
 - [#319 Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
   - Question ID: 319
