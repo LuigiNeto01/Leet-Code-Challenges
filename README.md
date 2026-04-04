@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 65
+Total de questoes resolvidas: 66
 
 ### Easy
 
@@ -141,6 +141,11 @@ Total de questoes resolvidas: 65
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#319 Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
+  - Question ID: 319
+  - Arquivo: `problems/medium/319_bulb-switcher.py`
+  - Resolvido em: 14:00 - 04/04/26
 
 - [#402 Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
   - Question ID: 402
