@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 69
+Total de questoes resolvidas: 70
 
 ### Easy
 
@@ -146,6 +146,11 @@ Total de questoes resolvidas: 69
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#90 Subsets II](https://leetcode.com/problems/subsets-ii/)
+  - Question ID: 90
+  - Arquivo: `problems/medium/90_subsets-ii.py`
+  - Resolvido em: 19:00 - 05/04/26
 
 - [#211 Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
   - Question ID: 211
