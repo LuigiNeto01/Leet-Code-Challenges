@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 67
+Total de questoes resolvidas: 68
 
 ### Easy
+
+- [#141 Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+  - Question ID: 141
+  - Arquivo: `problems/easy/141_linked-list-cycle.py`
+  - Resolvido em: 07:30 - 05/04/26
 
 - [#225 Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
   - Question ID: 225
