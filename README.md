@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 70
+Total de questoes resolvidas: 71
 
 ### Easy
 
@@ -146,6 +146,11 @@ Total de questoes resolvidas: 70
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#64 Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+  - Question ID: 64
+  - Arquivo: `problems/medium/64_minimum-path-sum.py`
+  - Resolvido em: 10:00 - 06/04/26
 
 - [#90 Subsets II](https://leetcode.com/problems/subsets-ii/)
   - Question ID: 90
