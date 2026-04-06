@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 72
+Total de questoes resolvidas: 73
 
 ### Easy
 
@@ -151,6 +151,11 @@ Total de questoes resolvidas: 72
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#117 Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
+  - Question ID: 117
+  - Arquivo: `problems/medium/117_populating-next-right-pointers-in-each-node-ii.py`
+  - Resolvido em: 22:31 - 06/04/26
 
 - [#64 Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
   - Question ID: 64
