@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 74
+Total de questoes resolvidas: 75
 
 ### Easy
+
+- [#242 Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+  - Question ID: 242
+  - Arquivo: `problems/easy/242_valid-anagram.py`
+  - Resolvido em: 20:00 - 07/04/26
 
 - [#27 Remove Element](https://leetcode.com/problems/remove-element/)
   - Question ID: 27
