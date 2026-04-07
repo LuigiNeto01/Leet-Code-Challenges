@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 73
+Total de questoes resolvidas: 74
 
 ### Easy
 
@@ -398,6 +398,11 @@ Total de questoes resolvidas: 73
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#354 Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
+  - Question ID: 354
+  - Arquivo: `problems/hard/354_russian-doll-envelopes.py`
+  - Resolvido em: 14:01 - 07/04/26
 
 - [#84 Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
   - Question ID: 84
