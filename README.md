@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 75
+Total de questoes resolvidas: 76
 
 ### Easy
+
+- [#169 Majority Element](https://leetcode.com/problems/majority-element/)
+  - Question ID: 169
+  - Arquivo: `problems/easy/169_majority-element.py`
+  - Resolvido em: 13:00 - 08/04/26
 
 - [#242 Valid Anagram](https://leetcode.com/problems/valid-anagram/)
   - Question ID: 242
