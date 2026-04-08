@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 76
+Total de questoes resolvidas: 77
 
 ### Easy
 
@@ -161,6 +161,11 @@ Total de questoes resolvidas: 76
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#447 Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)
+  - Question ID: 447
+  - Arquivo: `problems/medium/447_number-of-boomerangs.py`
+  - Resolvido em: 19:01 - 08/04/26
 
 - [#117 Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
   - Question ID: 117
