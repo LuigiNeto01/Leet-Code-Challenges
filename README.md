@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 80
+Total de questoes resolvidas: 81
 
 ### Easy
+
+- [#257 Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
+  - Question ID: 257
+  - Arquivo: `problems/easy/257_binary-tree-paths.py`
+  - Resolvido em: 22:00 - 09/04/26
 
 - [#169 Majority Element](https://leetcode.com/problems/majority-element/)
   - Question ID: 169
