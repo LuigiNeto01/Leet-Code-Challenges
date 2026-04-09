@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 79
+Total de questoes resolvidas: 80
 
 ### Easy
 
@@ -161,6 +161,11 @@ Total de questoes resolvidas: 79
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#230 Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+  - Question ID: 230
+  - Arquivo: `problems/medium/230_kth-smallest-element-in-a-bst.py`
+  - Resolvido em: 18:01 - 09/04/26
 
 - [#177 Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)
   - Question ID: 177
