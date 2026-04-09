@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 77
+Total de questoes resolvidas: 78
 
 ### Easy
 
@@ -161,6 +161,11 @@ Total de questoes resolvidas: 77
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#177 Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)
+  - Question ID: 177
+  - Arquivo: `problems/medium/177_nth-highest-salary.py`
+  - Resolvido em: 11:31 - 09/04/26
 
 - [#447 Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)
   - Question ID: 447
