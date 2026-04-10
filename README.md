@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 83
+Total de questoes resolvidas: 84
 
 ### Easy
 
@@ -166,6 +166,11 @@ Total de questoes resolvidas: 83
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#237 Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+  - Question ID: 237
+  - Arquivo: `problems/medium/237_delete-node-in-a-linked-list.py`
+  - Resolvido em: 20:30 - 10/04/26
 
 - [#382 Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
   - Question ID: 382
