@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 81
+Total de questoes resolvidas: 82
 
 ### Easy
 
@@ -428,6 +428,11 @@ Total de questoes resolvidas: 81
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#407 Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)
+  - Question ID: 407
+  - Arquivo: `problems/hard/407_trapping-rain-water-ii.py`
+  - Resolvido em: 12:31 - 10/04/26
 
 - [#52 N-Queens II](https://leetcode.com/problems/n-queens-ii/)
   - Question ID: 52
