@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 82
+Total de questoes resolvidas: 83
 
 ### Easy
 
@@ -166,6 +166,11 @@ Total de questoes resolvidas: 82
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#382 Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
+  - Question ID: 382
+  - Arquivo: `problems/medium/382_linked-list-random-node.py`
+  - Resolvido em: 16:00 - 10/04/26
 
 - [#230 Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
   - Question ID: 230
