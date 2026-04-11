@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 84
+Total de questoes resolvidas: 85
 
 ### Easy
 
@@ -166,6 +166,11 @@ Total de questoes resolvidas: 84
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#437 Path Sum III](https://leetcode.com/problems/path-sum-iii/)
+  - Question ID: 437
+  - Arquivo: `problems/medium/437_path-sum-iii.py`
+  - Resolvido em: 14:00 - 11/04/26
 
 - [#237 Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
   - Question ID: 237
