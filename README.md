@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 86
+Total de questoes resolvidas: 87
 
 ### Easy
+
+- [#374 Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+  - Question ID: 374
+  - Arquivo: `problems/easy/374_guess-number-higher-or-lower.py`
+  - Resolvido em: 07:30 - 12/04/26
 
 - [#257 Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
   - Question ID: 257
