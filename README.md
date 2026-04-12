@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 88
+Total de questoes resolvidas: 89
 
 ### Easy
+
+- [#389 Find the Difference](https://leetcode.com/problems/find-the-difference/)
+  - Question ID: 389
+  - Arquivo: `problems/easy/389_find-the-difference.py`
+  - Resolvido em: 19:00 - 12/04/26
 
 - [#70 Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
   - Question ID: 70
