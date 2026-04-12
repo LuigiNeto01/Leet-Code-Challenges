@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 87
+Total de questoes resolvidas: 88
 
 ### Easy
+
+- [#70 Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+  - Question ID: 70
+  - Arquivo: `problems/easy/70_climbing-stairs.py`
+  - Resolvido em: 12:02 - 12/04/26
 
 - [#374 Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
   - Question ID: 374
