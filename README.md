@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 91
+Total de questoes resolvidas: 92
 
 ### Easy
+
+- [#409 Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+  - Question ID: 409
+  - Arquivo: `problems/easy/409_longest-palindrome.py`
+  - Resolvido em: 22:30 - 13/04/26
 
 - [#219 Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
   - Question ID: 219
