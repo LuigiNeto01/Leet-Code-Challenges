@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 90
+Total de questoes resolvidas: 91
 
 ### Easy
+
+- [#219 Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+  - Question ID: 219
+  - Arquivo: `problems/easy/219_contains-duplicate-ii.py`
+  - Resolvido em: 17:02 - 13/04/26
 
 - [#389 Find the Difference](https://leetcode.com/problems/find-the-difference/)
   - Question ID: 389
