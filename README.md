@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 89
+Total de questoes resolvidas: 90
 
 ### Easy
 
@@ -181,6 +181,11 @@ Total de questoes resolvidas: 89
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#380 Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+  - Question ID: 380
+  - Arquivo: `problems/medium/380_insert-delete-getrandom-o1.py`
+  - Resolvido em: 10:01 - 13/04/26
 
 - [#304 Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
   - Question ID: 304
