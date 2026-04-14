@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 93
+Total de questoes resolvidas: 94
 
 ### Easy
 
@@ -191,6 +191,11 @@ Total de questoes resolvidas: 93
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#200 Number of Islands](https://leetcode.com/problems/number-of-islands/)
+  - Question ID: 200
+  - Arquivo: `problems/medium/200_number-of-islands.py`
+  - Resolvido em: 20:04 - 14/04/26
 
 - [#380 Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
   - Question ID: 380
