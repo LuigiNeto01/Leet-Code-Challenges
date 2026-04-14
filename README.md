@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 92
+Total de questoes resolvidas: 93
 
 ### Easy
 
@@ -478,6 +478,11 @@ Total de questoes resolvidas: 92
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#76 Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+  - Question ID: 76
+  - Arquivo: `problems/hard/76_minimum-window-substring.py`
+  - Resolvido em: 14:02 - 14/04/26
 
 - [#407 Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)
   - Question ID: 407
