@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 94
+Total de questoes resolvidas: 95
 
 ### Easy
 
@@ -191,6 +191,11 @@ Total de questoes resolvidas: 94
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#397 Integer Replacement](https://leetcode.com/problems/integer-replacement/)
+  - Question ID: 397
+  - Arquivo: `problems/medium/397_integer-replacement.py`
+  - Resolvido em: 13:01 - 15/04/26
 
 - [#200 Number of Islands](https://leetcode.com/problems/number-of-islands/)
   - Question ID: 200
