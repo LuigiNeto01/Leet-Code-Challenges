@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 99
+Total de questoes resolvidas: 100
 
 ### Easy
 
@@ -508,6 +508,11 @@ Total de questoes resolvidas: 99
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#25 Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+  - Question ID: 25
+  - Arquivo: `problems/hard/25_reverse-nodes-in-k-group.py`
+  - Resolvido em: 22:00 - 16/04/26
 
 - [#76 Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
   - Question ID: 76
