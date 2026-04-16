@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 97
+Total de questoes resolvidas: 98
 
 ### Easy
 
@@ -191,6 +191,11 @@ Total de questoes resolvidas: 97
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#215 Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+  - Question ID: 215
+  - Arquivo: `problems/medium/215_kth-largest-element-in-an-array.py`
+  - Resolvido em: 15:30 - 16/04/26
 
 - [#334 Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
   - Question ID: 334
