@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 98
+Total de questoes resolvidas: 99
 
 ### Easy
 
@@ -191,6 +191,11 @@ Total de questoes resolvidas: 98
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#107 Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+  - Question ID: 107
+  - Arquivo: `problems/medium/107_binary-tree-level-order-traversal-ii.py`
+  - Resolvido em: 18:02 - 16/04/26
 
 - [#215 Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
   - Question ID: 215
