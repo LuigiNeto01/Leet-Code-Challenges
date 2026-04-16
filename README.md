@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 96
+Total de questoes resolvidas: 97
 
 ### Easy
 
@@ -191,6 +191,11 @@ Total de questoes resolvidas: 96
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#334 Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+  - Question ID: 334
+  - Arquivo: `problems/medium/334_increasing-triplet-subsequence.py`
+  - Resolvido em: 11:30 - 16/04/26
 
 - [#355 Design Twitter](https://leetcode.com/problems/design-twitter/)
   - Question ID: 355
