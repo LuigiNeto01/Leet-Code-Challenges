@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 101
+Total de questoes resolvidas: 102
 
 ### Easy
 
@@ -196,6 +196,11 @@ Total de questoes resolvidas: 101
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#210 Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+  - Question ID: 210
+  - Arquivo: `problems/medium/210_course-schedule-ii.py`
+  - Resolvido em: 16:00 - 17/04/26
 
 - [#107 Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
   - Question ID: 107
