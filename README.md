@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 100
+Total de questoes resolvidas: 101
 
 ### Easy
+
+- [#485 Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+  - Question ID: 485
+  - Arquivo: `problems/easy/485_max-consecutive-ones.py`
+  - Resolvido em: 12:30 - 17/04/26
 
 - [#409 Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
   - Question ID: 409
