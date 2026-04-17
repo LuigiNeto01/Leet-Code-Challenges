@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 102
+Total de questoes resolvidas: 103
 
 ### Easy
 
@@ -518,6 +518,11 @@ Total de questoes resolvidas: 102
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#403 Frog Jump](https://leetcode.com/problems/frog-jump/)
+  - Question ID: 403
+  - Arquivo: `problems/hard/403_frog-jump.py`
+  - Resolvido em: 20:30 - 17/04/26
 
 - [#25 Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
   - Question ID: 25
