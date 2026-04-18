@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 104
+Total de questoes resolvidas: 105
 
 ### Easy
 
@@ -196,6 +196,11 @@ Total de questoes resolvidas: 104
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#498 Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
+  - Question ID: 498
+  - Arquivo: `problems/medium/498_diagonal-traverse.py`
+  - Resolvido em: 22:35 - 18/04/26
 
 - [#210 Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
   - Question ID: 210
