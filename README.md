@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 103
+Total de questoes resolvidas: 104
 
 ### Easy
 
@@ -518,6 +518,11 @@ Total de questoes resolvidas: 103
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#149 Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+  - Question ID: 149
+  - Arquivo: `problems/hard/149_max-points-on-a-line.py`
+  - Resolvido em: 14:00 - 18/04/26
 
 - [#403 Frog Jump](https://leetcode.com/problems/frog-jump/)
   - Question ID: 403
