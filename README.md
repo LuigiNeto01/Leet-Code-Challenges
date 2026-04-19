@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 107
+Total de questoes resolvidas: 108
 
 ### Easy
+
+- [#88 Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+  - Question ID: 88
+  - Arquivo: `problems/easy/88_merge-sorted-array.py`
+  - Resolvido em: 19:00 - 19/04/26
 
 - [#485 Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
   - Question ID: 485
