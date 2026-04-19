@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 106
+Total de questoes resolvidas: 107
 
 ### Easy
 
@@ -196,6 +196,11 @@ Total de questoes resolvidas: 106
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#376 Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
+  - Question ID: 376
+  - Arquivo: `problems/medium/376_wiggle-subsequence.py`
+  - Resolvido em: 12:02 - 19/04/26
 
 - [#372 Super Pow](https://leetcode.com/problems/super-pow/)
   - Question ID: 372
