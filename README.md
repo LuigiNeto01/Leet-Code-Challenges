@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 105
+Total de questoes resolvidas: 106
 
 ### Easy
 
@@ -196,6 +196,11 @@ Total de questoes resolvidas: 105
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#372 Super Pow](https://leetcode.com/problems/super-pow/)
+  - Question ID: 372
+  - Arquivo: `problems/medium/372_super-pow.py`
+  - Resolvido em: 07:30 - 19/04/26
 
 - [#498 Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
   - Question ID: 498
