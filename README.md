@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 109
+Total de questoes resolvidas: 110
 
 ### Easy
+
+- [#20 Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+  - Question ID: 20
+  - Arquivo: `problems/easy/20_valid-parentheses.py`
+  - Resolvido em: 22:30 - 20/04/26
 
 - [#88 Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
   - Question ID: 88
