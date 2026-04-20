@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 108
+Total de questoes resolvidas: 109
 
 ### Easy
 
@@ -201,6 +201,11 @@ Total de questoes resolvidas: 108
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#331 Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)
+  - Question ID: 331
+  - Arquivo: `problems/medium/331_verify-preorder-serialization-of-a-binary-tree.py`
+  - Resolvido em: 10:00 - 20/04/26
 
 - [#376 Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
   - Question ID: 376
