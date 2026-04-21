@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 110
+Total de questoes resolvidas: 111
 
 ### Easy
 
@@ -206,6 +206,11 @@ Total de questoes resolvidas: 110
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#328 Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+  - Question ID: 328
+  - Arquivo: `problems/medium/328_odd-even-linked-list.py`
+  - Resolvido em: 14:01 - 21/04/26
 
 - [#331 Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)
   - Question ID: 331
