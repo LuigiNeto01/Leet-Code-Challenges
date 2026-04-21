@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 111
+Total de questoes resolvidas: 112
 
 ### Easy
 
@@ -206,6 +206,11 @@ Total de questoes resolvidas: 111
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#150 Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+  - Question ID: 150
+  - Arquivo: `problems/medium/150_evaluate-reverse-polish-notation.py`
+  - Resolvido em: 20:00 - 21/04/26
 
 - [#328 Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
   - Question ID: 328
