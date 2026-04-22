@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 112
+Total de questoes resolvidas: 113
 
 ### Easy
 
@@ -206,6 +206,11 @@ Total de questoes resolvidas: 112
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#486 Predict the Winner](https://leetcode.com/problems/predict-the-winner/)
+  - Question ID: 486
+  - Arquivo: `problems/medium/486_predict-the-winner.py`
+  - Resolvido em: 13:00 - 22/04/26
 
 - [#150 Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
   - Question ID: 150
