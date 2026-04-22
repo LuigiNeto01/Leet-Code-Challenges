@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 113
+Total de questoes resolvidas: 114
 
 ### Easy
+
+- [#392 Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+  - Question ID: 392
+  - Arquivo: `problems/easy/392_is-subsequence.py`
+  - Resolvido em: 19:01 - 22/04/26
 
 - [#20 Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
   - Question ID: 20
