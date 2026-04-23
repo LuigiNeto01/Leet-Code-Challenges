@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 116
+Total de questoes resolvidas: 117
 
 ### Easy
+
+- [#191 Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+  - Question ID: 191
+  - Arquivo: `problems/easy/191_number-of-1-bits.py`
+  - Resolvido em: 18:01 - 23/04/26
 
 - [#392 Is Subsequence](https://leetcode.com/problems/is-subsequence/)
   - Question ID: 392
