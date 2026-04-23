@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 117
+Total de questoes resolvidas: 118
 
 ### Easy
 
@@ -216,6 +216,11 @@ Total de questoes resolvidas: 117
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#130 Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+  - Question ID: 130
+  - Arquivo: `problems/medium/130_surrounded-regions.py`
+  - Resolvido em: 22:00 - 23/04/26
 
 - [#915 Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)
   - Question ID: 915
