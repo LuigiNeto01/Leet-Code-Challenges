@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 115
+Total de questoes resolvidas: 116
 
 ### Easy
 
@@ -211,6 +211,11 @@ Total de questoes resolvidas: 115
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#915 Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)
+  - Question ID: 915
+  - Arquivo: `problems/medium/478_generate-random-point-in-a-circle.py`
+  - Resolvido em: 15:31 - 23/04/26
 
 - [#486 Predict the Winner](https://leetcode.com/problems/predict-the-winner/)
   - Question ID: 486
