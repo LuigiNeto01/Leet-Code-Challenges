@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 114
+Total de questoes resolvidas: 115
 
 ### Easy
 
@@ -568,6 +568,11 @@ Total de questoes resolvidas: 114
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#335 Self Crossing](https://leetcode.com/problems/self-crossing/)
+  - Question ID: 335
+  - Arquivo: `problems/hard/335_self-crossing.py`
+  - Resolvido em: 11:31 - 23/04/26
 
 - [#149 Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
   - Question ID: 149
