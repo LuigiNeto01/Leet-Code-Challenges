@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 118
+Total de questoes resolvidas: 119
 
 ### Easy
 
@@ -216,6 +216,11 @@ Total de questoes resolvidas: 118
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#221 Maximal Square](https://leetcode.com/problems/maximal-square/)
+  - Question ID: 221
+  - Arquivo: `problems/medium/221_maximal-square.py`
+  - Resolvido em: 12:34 - 24/04/26
 
 - [#130 Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
   - Question ID: 130
