@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 120
+Total de questoes resolvidas: 121
 
 ### Easy
 
@@ -593,6 +593,11 @@ Total de questoes resolvidas: 120
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#37 Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+  - Question ID: 37
+  - Arquivo: `problems/hard/37_sudoku-solver.py`
+  - Resolvido em: 22:31 - 25/04/26
 
 - [#335 Self Crossing](https://leetcode.com/problems/self-crossing/)
   - Question ID: 335
