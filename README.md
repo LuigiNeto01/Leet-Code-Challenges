@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 123
+Total de questoes resolvidas: 124
 
 ### Easy
 
@@ -603,6 +603,11 @@ Total de questoes resolvidas: 123
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#32 Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+  - Question ID: 32
+  - Arquivo: `problems/hard/32_longest-valid-parentheses.py`
+  - Resolvido em: 19:00 - 26/04/26
 
 - [#37 Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
   - Question ID: 37
