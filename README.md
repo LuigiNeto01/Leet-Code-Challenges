@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 121
+Total de questoes resolvidas: 122
 
 ### Easy
 
@@ -216,6 +216,11 @@ Total de questoes resolvidas: 121
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#456 132 Pattern](https://leetcode.com/problems/132-pattern/)
+  - Question ID: 456
+  - Arquivo: `problems/medium/456_132-pattern.py`
+  - Resolvido em: 07:33 - 26/04/26
 
 - [#43 Multiply Strings](https://leetcode.com/problems/multiply-strings/)
   - Question ID: 43
