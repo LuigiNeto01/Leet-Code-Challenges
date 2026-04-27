@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 124
+Total de questoes resolvidas: 125
 
 ### Easy
 
@@ -216,6 +216,11 @@ Total de questoes resolvidas: 124
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#368 Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
+  - Question ID: 368
+  - Arquivo: `problems/medium/368_largest-divisible-subset.py`
+  - Resolvido em: 10:00 - 27/04/26
 
 - [#62 Unique Paths](https://leetcode.com/problems/unique-paths/)
   - Question ID: 62
