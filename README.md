@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 125
+Total de questoes resolvidas: 126
 
 ### Easy
+
+- [#69 Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+  - Question ID: 69
+  - Arquivo: `problems/easy/69_sqrtx.py`
+  - Resolvido em: 17:00 - 27/04/26
 
 - [#191 Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
   - Question ID: 191
