@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 126
+Total de questoes resolvidas: 127
 
 ### Easy
+
+- [#476 Number Complement](https://leetcode.com/problems/number-complement/)
+  - Question ID: 476
+  - Arquivo: `problems/easy/476_number-complement.py`
+  - Resolvido em: 22:33 - 27/04/26
 
 - [#69 Sqrt(x)](https://leetcode.com/problems/sqrtx/)
   - Question ID: 69
