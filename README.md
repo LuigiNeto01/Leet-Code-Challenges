@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 127
+Total de questoes resolvidas: 128
 
 ### Easy
 
@@ -226,6 +226,11 @@ Total de questoes resolvidas: 127
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#318 Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
+  - Question ID: 318
+  - Arquivo: `problems/medium/318_maximum-product-of-word-lengths.py`
+  - Resolvido em: 14:01 - 28/04/26
 
 - [#368 Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
   - Question ID: 368
