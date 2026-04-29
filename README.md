@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 129
+Total de questoes resolvidas: 130
 
 ### Easy
 
@@ -226,6 +226,11 @@ Total de questoes resolvidas: 129
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#22 Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+  - Question ID: 22
+  - Arquivo: `problems/medium/22_generate-parentheses.py`
+  - Resolvido em: 19:01 - 29/04/26
 
 - [#318 Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
   - Question ID: 318
