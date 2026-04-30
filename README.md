@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 133
+Total de questoes resolvidas: 134
 
 ### Easy
 
@@ -638,6 +638,11 @@ Total de questoes resolvidas: 133
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#460 LFU Cache](https://leetcode.com/problems/lfu-cache/)
+  - Question ID: 460
+  - Arquivo: `problems/hard/460_lfu-cache.py`
+  - Resolvido em: 22:00 - 30/04/26
 
 - [#41 First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
   - Question ID: 41
