@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 131
+Total de questoes resolvidas: 132
 
 ### Easy
+
+- [#495 Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
+  - Question ID: 495
+  - Arquivo: `problems/easy/495_teemo-attacking.py`
+  - Resolvido em: 15:33 - 30/04/26
 
 - [#476 Number Complement](https://leetcode.com/problems/number-complement/)
   - Question ID: 476
