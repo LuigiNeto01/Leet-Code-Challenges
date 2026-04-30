@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 132
+Total de questoes resolvidas: 133
 
 ### Easy
+
+- [#83 Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+  - Question ID: 83
+  - Arquivo: `problems/easy/83_remove-duplicates-from-sorted-list.py`
+  - Resolvido em: 18:01 - 30/04/26
 
 - [#495 Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
   - Question ID: 495
