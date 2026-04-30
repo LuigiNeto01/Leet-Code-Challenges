@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 130
+Total de questoes resolvidas: 131
 
 ### Easy
 
@@ -628,6 +628,11 @@ Total de questoes resolvidas: 130
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#41 First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+  - Question ID: 41
+  - Arquivo: `problems/hard/41_first-missing-positive.py`
+  - Resolvido em: 11:30 - 30/04/26
 
 - [#239 Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
   - Question ID: 239
