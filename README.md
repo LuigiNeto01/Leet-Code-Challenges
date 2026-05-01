@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 136
+Total de questoes resolvidas: 137
 
 ### Easy
+
+- [#110 Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+  - Question ID: 110
+  - Arquivo: `problems/easy/110_balanced-binary-tree.py`
+  - Resolvido em: 20:30 - 01/05/26
 
 - [#83 Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
   - Question ID: 83
