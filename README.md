@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 135
+Total de questoes resolvidas: 136
 
 ### Easy
 
@@ -236,6 +236,11 @@ Total de questoes resolvidas: 135
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#116 Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+  - Question ID: 116
+  - Arquivo: `problems/medium/116_populating-next-right-pointers-in-each-node.py`
+  - Resolvido em: 16:00 - 01/05/26
 
 - [#166 Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
   - Question ID: 166
