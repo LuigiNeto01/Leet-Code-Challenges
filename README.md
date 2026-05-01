@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 134
+Total de questoes resolvidas: 135
 
 ### Easy
 
@@ -236,6 +236,11 @@ Total de questoes resolvidas: 134
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#166 Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
+  - Question ID: 166
+  - Arquivo: `problems/medium/166_fraction-to-recurring-decimal.py`
+  - Resolvido em: 12:33 - 01/05/26
 
 - [#22 Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
   - Question ID: 22
