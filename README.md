@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 138
+Total de questoes resolvidas: 139
 
 ### Easy
 
@@ -241,6 +241,11 @@ Total de questoes resolvidas: 138
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#12 Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+  - Question ID: 12
+  - Arquivo: `problems/medium/12_integer-to-roman.py`
+  - Resolvido em: 22:34 - 02/05/26
 
 - [#223 Rectangle Area](https://leetcode.com/problems/rectangle-area/)
   - Question ID: 223
