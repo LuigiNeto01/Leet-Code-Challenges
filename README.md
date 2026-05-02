@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 137
+Total de questoes resolvidas: 138
 
 ### Easy
 
@@ -241,6 +241,11 @@ Total de questoes resolvidas: 137
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#223 Rectangle Area](https://leetcode.com/problems/rectangle-area/)
+  - Question ID: 223
+  - Arquivo: `problems/medium/223_rectangle-area.py`
+  - Resolvido em: 14:00 - 02/05/26
 
 - [#116 Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
   - Question ID: 116
