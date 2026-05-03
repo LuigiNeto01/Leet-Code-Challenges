@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 139
+Total de questoes resolvidas: 140
 
 ### Easy
+
+- [#326 Power of Three](https://leetcode.com/problems/power-of-three/)
+  - Question ID: 326
+  - Arquivo: `problems/easy/326_power-of-three.py`
+  - Resolvido em: 07:30 - 03/05/26
 
 - [#110 Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
   - Question ID: 110
