@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 140
+Total de questoes resolvidas: 141
 
 ### Easy
 
@@ -668,6 +668,11 @@ Total de questoes resolvidas: 140
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#4 Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+  - Question ID: 4
+  - Arquivo: `problems/hard/4_median-of-two-sorted-arrays.py`
+  - Resolvido em: 12:01 - 03/05/26
 
 - [#460 LFU Cache](https://leetcode.com/problems/lfu-cache/)
   - Question ID: 460
