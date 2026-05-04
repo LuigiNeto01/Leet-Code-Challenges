@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 144
+Total de questoes resolvidas: 145
 
 ### Easy
+
+- [#404 Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
+  - Question ID: 404
+  - Arquivo: `problems/easy/404_sum-of-left-leaves.py`
+  - Resolvido em: 22:33 - 04/05/26
 
 - [#326 Power of Three](https://leetcode.com/problems/power-of-three/)
   - Question ID: 326
