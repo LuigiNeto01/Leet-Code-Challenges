@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 142
+Total de questoes resolvidas: 143
 
 ### Easy
 
@@ -246,6 +246,11 @@ Total de questoes resolvidas: 142
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#172 Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
+  - Question ID: 172
+  - Arquivo: `problems/medium/172_factorial-trailing-zeroes.py`
+  - Resolvido em: 10:00 - 04/05/26
 
 - [#12 Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
   - Question ID: 12
