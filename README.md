@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 143
+Total de questoes resolvidas: 144
 
 ### Easy
 
@@ -673,6 +673,11 @@ Total de questoes resolvidas: 143
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#115 Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+  - Question ID: 115
+  - Arquivo: `problems/hard/115_distinct-subsequences.py`
+  - Resolvido em: 17:00 - 04/05/26
 
 - [#42 Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
   - Question ID: 42
