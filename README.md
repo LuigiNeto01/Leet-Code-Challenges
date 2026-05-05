@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 145
+Total de questoes resolvidas: 146
 
 ### Easy
 
@@ -251,6 +251,11 @@ Total de questoes resolvidas: 145
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+  - Question ID: 33
+  - Arquivo: `problems/medium/33_search-in-rotated-sorted-array.py`
+  - Resolvido em: 14:03 - 05/05/26
 
 - [#172 Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
   - Question ID: 172
