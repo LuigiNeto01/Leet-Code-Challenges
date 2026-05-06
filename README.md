@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 147
+Total de questoes resolvidas: 148
 
 ### Easy
 
@@ -688,6 +688,11 @@ Total de questoes resolvidas: 147
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#124 Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+  - Question ID: 124
+  - Arquivo: `problems/hard/124_binary-tree-maximum-path-sum.py`
+  - Resolvido em: 13:02 - 06/05/26
 
 - [#115 Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
   - Question ID: 115
