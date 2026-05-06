@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 148
+Total de questoes resolvidas: 149
 
 ### Easy
 
@@ -251,6 +251,11 @@ Total de questoes resolvidas: 148
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#50 Pow(x, n)](https://leetcode.com/problems/powx-n/)
+  - Question ID: 50
+  - Arquivo: `problems/medium/50_powx-n.py`
+  - Resolvido em: 19:01 - 06/05/26
 
 - [#31 Next Permutation](https://leetcode.com/problems/next-permutation/)
   - Question ID: 31
