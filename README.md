@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 150
+Total de questoes resolvidas: 151
 
 ### Easy
+
+- [#434 Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)
+  - Question ID: 434
+  - Arquivo: `problems/easy/434_number-of-segments-in-a-string.py`
+  - Resolvido em: 15:30 - 07/05/26
 
 - [#404 Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
   - Question ID: 404
