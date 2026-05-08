@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 152
+Total de questoes resolvidas: 153
 
 ### Easy
 
@@ -256,6 +256,11 @@ Total de questoes resolvidas: 152
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#400 Nth Digit](https://leetcode.com/problems/nth-digit/)
+  - Question ID: 400
+  - Arquivo: `problems/medium/400_nth-digit.py`
+  - Resolvido em: 12:30 - 08/05/26
 
 - [#24 Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
   - Question ID: 24
