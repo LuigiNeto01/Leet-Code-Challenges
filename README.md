@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 153
+Total de questoes resolvidas: 154
 
 ### Easy
 
@@ -256,6 +256,11 @@ Total de questoes resolvidas: 153
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#289 Game of Life](https://leetcode.com/problems/game-of-life/)
+  - Question ID: 289
+  - Arquivo: `problems/medium/289_game-of-life.py`
+  - Resolvido em: 16:00 - 08/05/26
 
 - [#400 Nth Digit](https://leetcode.com/problems/nth-digit/)
   - Question ID: 400
