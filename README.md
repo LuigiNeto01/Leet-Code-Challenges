@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 154
+Total de questoes resolvidas: 155
 
 ### Easy
+
+- [#405 Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)
+  - Question ID: 405
+  - Arquivo: `problems/easy/405_convert-a-number-to-hexadecimal.py`
+  - Resolvido em: 20:30 - 08/05/26
 
 - [#434 Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)
   - Question ID: 434
