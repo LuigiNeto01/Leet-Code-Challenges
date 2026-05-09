@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 155
+Total de questoes resolvidas: 156
 
 ### Easy
 
@@ -261,6 +261,11 @@ Total de questoes resolvidas: 155
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#54 Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+  - Question ID: 54
+  - Arquivo: `problems/medium/54_spiral-matrix.py`
+  - Resolvido em: 22:31 - 09/05/26
 
 - [#289 Game of Life](https://leetcode.com/problems/game-of-life/)
   - Question ID: 289
