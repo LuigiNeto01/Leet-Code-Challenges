@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 157
+Total de questoes resolvidas: 158
 
 ### Easy
+
+- [#455 Assign Cookies](https://leetcode.com/problems/assign-cookies/)
+  - Question ID: 455
+  - Arquivo: `problems/easy/455_assign-cookies.py`
+  - Resolvido em: 12:01 - 10/05/26
 
 - [#383 Ransom Note](https://leetcode.com/problems/ransom-note/)
   - Question ID: 383
