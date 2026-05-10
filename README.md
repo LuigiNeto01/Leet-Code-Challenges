@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 156
+Total de questoes resolvidas: 157
 
 ### Easy
+
+- [#383 Ransom Note](https://leetcode.com/problems/ransom-note/)
+  - Question ID: 383
+  - Arquivo: `problems/easy/383_ransom-note.py`
+  - Resolvido em: 07:30 - 10/05/26
 
 - [#405 Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)
   - Question ID: 405
