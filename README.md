@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 158
+Total de questoes resolvidas: 159
 
 ### Easy
 
@@ -271,6 +271,11 @@ Total de questoes resolvidas: 158
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#287 Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+  - Question ID: 287
+  - Arquivo: `problems/medium/287_find-the-duplicate-number.py`
+  - Resolvido em: 19:03 - 10/05/26
 
 - [#54 Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
   - Question ID: 54
