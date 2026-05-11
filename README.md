@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 159
+Total de questoes resolvidas: 160
 
 ### Easy
 
@@ -743,6 +743,11 @@ Total de questoes resolvidas: 159
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#214 Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
+  - Question ID: 214
+  - Arquivo: `problems/hard/214_shortest-palindrome.py`
+  - Resolvido em: 10:00 - 11/05/26
 
 - [#124 Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
   - Question ID: 124
