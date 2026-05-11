@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 161
+Total de questoes resolvidas: 162
 
 ### Easy
 
@@ -271,6 +271,11 @@ Total de questoes resolvidas: 161
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#772 Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
+  - Question ID: 772
+  - Arquivo: `problems/medium/427_construct-quad-tree.py`
+  - Resolvido em: 22:33 - 11/05/26
 
 - [#436 Find Right Interval](https://leetcode.com/problems/find-right-interval/)
   - Question ID: 436
