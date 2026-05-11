@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 160
+Total de questoes resolvidas: 161
 
 ### Easy
 
@@ -271,6 +271,11 @@ Total de questoes resolvidas: 160
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#436 Find Right Interval](https://leetcode.com/problems/find-right-interval/)
+  - Question ID: 436
+  - Arquivo: `problems/medium/436_find-right-interval.py`
+  - Resolvido em: 17:03 - 11/05/26
 
 - [#287 Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
   - Question ID: 287
