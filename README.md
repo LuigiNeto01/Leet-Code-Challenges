@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 163
+Total de questoes resolvidas: 164
 
 ### Easy
 
@@ -271,6 +271,11 @@ Total de questoes resolvidas: 163
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#341 Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
+  - Question ID: 341
+  - Arquivo: `problems/medium/341_flatten-nested-list-iterator.py`
+  - Resolvido em: 20:00 - 12/05/26
 
 - [#451 Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
   - Question ID: 451
