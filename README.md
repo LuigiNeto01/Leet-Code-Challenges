@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 162
+Total de questoes resolvidas: 163
 
 ### Easy
 
@@ -271,6 +271,11 @@ Total de questoes resolvidas: 162
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#451 Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
+  - Question ID: 451
+  - Arquivo: `problems/medium/451_sort-characters-by-frequency.py`
+  - Resolvido em: 14:00 - 12/05/26
 
 - [#772 Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
   - Question ID: 772
