@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 164
+Total de questoes resolvidas: 165
 
 ### Easy
+
+- [#67 Add Binary](https://leetcode.com/problems/add-binary/)
+  - Question ID: 67
+  - Arquivo: `problems/easy/67_add-binary.py`
+  - Resolvido em: 13:00 - 13/05/26
 
 - [#455 Assign Cookies](https://leetcode.com/problems/assign-cookies/)
   - Question ID: 455
