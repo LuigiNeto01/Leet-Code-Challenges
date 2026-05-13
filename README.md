@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 165
+Total de questoes resolvidas: 166
 
 ### Easy
 
@@ -276,6 +276,11 @@ Total de questoes resolvidas: 165
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#468 Validate IP Address](https://leetcode.com/problems/validate-ip-address/)
+  - Question ID: 468
+  - Arquivo: `problems/medium/468_validate-ip-address.py`
+  - Resolvido em: 19:01 - 13/05/26
 
 - [#341 Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
   - Question ID: 341
