@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 168
+Total de questoes resolvidas: 169
 
 ### Easy
 
@@ -773,6 +773,11 @@ Total de questoes resolvidas: 168
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#123 Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
+  - Question ID: 123
+  - Arquivo: `problems/hard/123_best-time-to-buy-and-sell-stock-iii.py`
+  - Resolvido em: 18:01 - 14/05/26
 
 - [#332 Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
   - Question ID: 332
