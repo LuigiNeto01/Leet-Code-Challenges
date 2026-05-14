@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 167
+Total de questoes resolvidas: 168
 
 ### Easy
 
@@ -773,6 +773,11 @@ Total de questoes resolvidas: 167
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#332 Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+  - Question ID: 332
+  - Arquivo: `problems/hard/332_reconstruct-itinerary.py`
+  - Resolvido em: 15:30 - 14/05/26
 
 - [#220 Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
   - Question ID: 220
