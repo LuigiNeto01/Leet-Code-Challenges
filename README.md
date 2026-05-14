@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 166
+Total de questoes resolvidas: 167
 
 ### Easy
 
@@ -773,6 +773,11 @@ Total de questoes resolvidas: 166
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#220 Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
+  - Question ID: 220
+  - Arquivo: `problems/hard/220_contains-duplicate-iii.py`
+  - Resolvido em: 11:30 - 14/05/26
 
 - [#214 Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
   - Question ID: 214
