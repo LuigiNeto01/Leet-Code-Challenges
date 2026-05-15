@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 170
+Total de questoes resolvidas: 171
 
 ### Easy
+
+- [#222 Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
+  - Question ID: 222
+  - Arquivo: `problems/easy/222_count-complete-tree-nodes.py`
+  - Resolvido em: 16:00 - 15/05/26
 
 - [#67 Add Binary](https://leetcode.com/problems/add-binary/)
   - Question ID: 67
