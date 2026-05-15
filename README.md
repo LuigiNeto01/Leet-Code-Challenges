@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 169
+Total de questoes resolvidas: 170
 
 ### Easy
 
@@ -276,6 +276,11 @@ Total de questoes resolvidas: 169
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#386 Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
+  - Question ID: 386
+  - Arquivo: `problems/medium/386_lexicographical-numbers.py`
+  - Resolvido em: 12:30 - 15/05/26
 
 - [#468 Validate IP Address](https://leetcode.com/problems/validate-ip-address/)
   - Question ID: 468
