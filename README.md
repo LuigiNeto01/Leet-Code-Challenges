@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 171
+Total de questoes resolvidas: 172
 
 ### Easy
+
+- [#136 Single Number](https://leetcode.com/problems/single-number/)
+  - Question ID: 136
+  - Arquivo: `problems/easy/136_single-number.py`
+  - Resolvido em: 20:30 - 15/05/26
 
 - [#222 Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
   - Question ID: 222
