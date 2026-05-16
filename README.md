@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 172
+Total de questoes resolvidas: 173
 
 ### Easy
 
@@ -788,6 +788,11 @@ Total de questoes resolvidas: 172
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#330 Patching Array](https://leetcode.com/problems/patching-array/)
+  - Question ID: 330
+  - Arquivo: `problems/hard/330_patching-array.py`
+  - Resolvido em: 14:00 - 16/05/26
 
 - [#123 Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
   - Question ID: 123
