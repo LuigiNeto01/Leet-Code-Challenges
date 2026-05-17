@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 174
+Total de questoes resolvidas: 175
 
 ### Easy
+
+- [#144 Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+  - Question ID: 144
+  - Arquivo: `problems/easy/144_binary-tree-preorder-traversal.py`
+  - Resolvido em: 12:01 - 17/05/26
 
 - [#136 Single Number](https://leetcode.com/problems/single-number/)
   - Question ID: 136
