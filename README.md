@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 173
+Total de questoes resolvidas: 174
 
 ### Easy
 
@@ -286,6 +286,11 @@ Total de questoes resolvidas: 173
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#264 Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
+  - Question ID: 264
+  - Arquivo: `problems/medium/264_ugly-number-ii.py`
+  - Resolvido em: 07:30 - 17/05/26
 
 - [#386 Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
   - Question ID: 386
