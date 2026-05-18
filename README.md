@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 177
+Total de questoes resolvidas: 178
 
 ### Easy
 
@@ -291,6 +291,11 @@ Total de questoes resolvidas: 177
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#47 Permutations II](https://leetcode.com/problems/permutations-ii/)
+  - Question ID: 47
+  - Arquivo: `problems/medium/47_permutations-ii.py`
+  - Resolvido em: 22:30 - 18/05/26
 
 - [#406 Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
   - Question ID: 406
