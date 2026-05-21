@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 179
+Total de questoes resolvidas: 180
 
 ### Easy
 
@@ -291,6 +291,11 @@ Total de questoes resolvidas: 179
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#147 Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
+  - Question ID: 147
+  - Arquivo: `problems/medium/147_insertion-sort-list.py`
+  - Resolvido em: 22:00 - 21/05/26
 
 - [#204 Count Primes](https://leetcode.com/problems/count-primes/)
   - Question ID: 204
