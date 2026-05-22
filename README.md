@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 182
+Total de questoes resolvidas: 183
 
 ### Easy
+
+- [#58 Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+  - Question ID: 58
+  - Arquivo: `problems/easy/58_length-of-last-word.py`
+  - Resolvido em: 20:30 - 22/05/26
 
 - [#412 Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
   - Question ID: 412
