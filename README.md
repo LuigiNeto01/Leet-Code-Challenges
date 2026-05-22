@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 181
+Total de questoes resolvidas: 182
 
 ### Easy
 
@@ -296,6 +296,11 @@ Total de questoes resolvidas: 181
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#378 Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+  - Question ID: 378
+  - Arquivo: `problems/medium/378_kth-smallest-element-in-a-sorted-matrix.py`
+  - Resolvido em: 16:00 - 22/05/26
 
 - [#147 Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
   - Question ID: 147
