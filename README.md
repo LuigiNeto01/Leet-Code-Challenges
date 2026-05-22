@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 180
+Total de questoes resolvidas: 181
 
 ### Easy
+
+- [#412 Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+  - Question ID: 412
+  - Arquivo: `problems/easy/412_fizz-buzz.py`
+  - Resolvido em: 12:30 - 22/05/26
 
 - [#144 Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
   - Question ID: 144
