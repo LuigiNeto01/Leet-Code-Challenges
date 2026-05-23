@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 183
+Total de questoes resolvidas: 184
 
 ### Easy
+
+- [#21 Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+  - Question ID: 21
+  - Arquivo: `problems/easy/21_merge-two-sorted-lists.py`
+  - Resolvido em: 14:00 - 23/05/26
 
 - [#58 Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
   - Question ID: 58
