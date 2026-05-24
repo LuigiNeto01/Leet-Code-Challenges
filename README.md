@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 184
+Total de questoes resolvidas: 185
 
 ### Easy
 
@@ -306,6 +306,11 @@ Total de questoes resolvidas: 184
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#56 Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+  - Question ID: 56
+  - Arquivo: `problems/medium/56_merge-intervals.py`
+  - Resolvido em: 12:01 - 24/05/26
 
 - [#378 Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
   - Question ID: 378
