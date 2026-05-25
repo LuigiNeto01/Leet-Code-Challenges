@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 185
+Total de questoes resolvidas: 186
 
 ### Easy
 
@@ -306,6 +306,11 @@ Total de questoes resolvidas: 185
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#109 Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
+  - Question ID: 109
+  - Arquivo: `problems/medium/109_convert-sorted-list-to-binary-search-tree.py`
+  - Resolvido em: 10:00 - 25/05/26
 
 - [#56 Merge Intervals](https://leetcode.com/problems/merge-intervals/)
   - Question ID: 56
