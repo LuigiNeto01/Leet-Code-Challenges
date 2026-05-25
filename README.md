@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 186
+Total de questoes resolvidas: 187
 
 ### Easy
 
@@ -853,6 +853,11 @@ Total de questoes resolvidas: 186
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#233 Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)
+  - Question ID: 233
+  - Arquivo: `problems/hard/233_number-of-digit-one.py`
+  - Resolvido em: 17:00 - 25/05/26
 
 - [#330 Patching Array](https://leetcode.com/problems/patching-array/)
   - Question ID: 330
