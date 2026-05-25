@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 187
+Total de questoes resolvidas: 188
 
 ### Easy
 
@@ -853,6 +853,11 @@ Total de questoes resolvidas: 187
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#381 Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)
+  - Question ID: 381
+  - Arquivo: `problems/hard/381_insert-delete-getrandom-o1-duplicates-allowed.py`
+  - Resolvido em: 22:30 - 25/05/26
 
 - [#233 Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)
   - Question ID: 233
