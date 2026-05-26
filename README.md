@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 192
+Total de questoes resolvidas: 193
 
 ### Easy
+
+- [#461 Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+  - Question ID: 461
+  - Arquivo: `problems/easy/461_hamming-distance.py`
+  - Resolvido em: 20:00 - 26/05/26
 
 - [#119 Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
   - Question ID: 119
