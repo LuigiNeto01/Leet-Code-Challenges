@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 189
+Total de questoes resolvidas: 190
 
 ### Easy
 
@@ -311,6 +311,11 @@ Total de questoes resolvidas: 189
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#74 Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+  - Question ID: 74
+  - Arquivo: `problems/medium/74_search-a-2d-matrix.py`
+  - Resolvido em: 12:00 - 26/05/26
 
 - [#109 Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
   - Question ID: 109
