@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 188
+Total de questoes resolvidas: 189
 
 ### Easy
+
+- [#119 Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+  - Question ID: 119
+  - Arquivo: `problems/easy/119_pascals-triangle-ii.py`
+  - Resolvido em: 09:00 - 26/05/26
 
 - [#21 Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
   - Question ID: 21
