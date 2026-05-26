@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 191
+Total de questoes resolvidas: 192
 
 ### Easy
 
@@ -311,6 +311,11 @@ Total de questoes resolvidas: 191
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#106 Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+  - Question ID: 106
+  - Arquivo: `problems/medium/106_construct-binary-tree-from-inorder-and-postorder-traversal.py`
+  - Resolvido em: 17:00 - 26/05/26
 
 - [#179 Largest Number](https://leetcode.com/problems/largest-number/)
   - Question ID: 179
