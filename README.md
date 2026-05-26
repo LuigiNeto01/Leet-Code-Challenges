@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 190
+Total de questoes resolvidas: 191
 
 ### Easy
 
@@ -311,6 +311,11 @@ Total de questoes resolvidas: 190
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#179 Largest Number](https://leetcode.com/problems/largest-number/)
+  - Question ID: 179
+  - Arquivo: `problems/medium/179_largest-number.py`
+  - Resolvido em: 14:03 - 26/05/26
 
 - [#74 Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
   - Question ID: 74
