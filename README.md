@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 193
+Total de questoes resolvidas: 194
 
 ### Easy
+
+- [#303 Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+  - Question ID: 303
+  - Arquivo: `problems/easy/303_range-sum-query-immutable.py`
+  - Resolvido em: 16:01 - 27/05/26
 
 - [#461 Hamming Distance](https://leetcode.com/problems/hamming-distance/)
   - Question ID: 461
