@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 195
+Total de questoes resolvidas: 196
 
 ### Easy
+
+- [#112 Path Sum](https://leetcode.com/problems/path-sum/)
+  - Question ID: 112
+  - Arquivo: `problems/easy/112_path-sum.py`
+  - Resolvido em: 23:04 - 27/05/26
 
 - [#303 Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
   - Question ID: 303
