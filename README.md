@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 197
+Total de questoes resolvidas: 198
 
 ### Easy
+
+- [#205 Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+  - Question ID: 205
+  - Arquivo: `problems/easy/205_isomorphic-strings.py`
+  - Resolvido em: 11:30 - 28/05/26
 
 - [#112 Path Sum](https://leetcode.com/problems/path-sum/)
   - Question ID: 112
