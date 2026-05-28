@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 200
+Total de questoes resolvidas: 201
 
 ### Easy
 
@@ -331,6 +331,11 @@ Total de questoes resolvidas: 200
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#155 Min Stack](https://leetcode.com/problems/min-stack/)
+  - Question ID: 155
+  - Arquivo: `problems/medium/155_min-stack.py`
+  - Resolvido em: 22:01 - 28/05/26
 
 - [#914 Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)
   - Question ID: 914
