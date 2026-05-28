@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 196
+Total de questoes resolvidas: 197
 
 ### Easy
 
@@ -326,6 +326,11 @@ Total de questoes resolvidas: 196
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#129 Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+  - Question ID: 129
+  - Arquivo: `problems/medium/129_sum-root-to-leaf-numbers.py`
+  - Resolvido em: 06:03 - 28/05/26
 
 - [#105 Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
   - Question ID: 105
