@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 198
+Total de questoes resolvidas: 199
 
 ### Easy
 
@@ -331,6 +331,11 @@ Total de questoes resolvidas: 198
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#764 N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
+  - Question ID: 764
+  - Arquivo: `problems/medium/429_n-ary-tree-level-order-traversal.py`
+  - Resolvido em: 15:30 - 28/05/26
 
 - [#129 Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
   - Question ID: 129
