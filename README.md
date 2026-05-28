@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 199
+Total de questoes resolvidas: 200
 
 ### Easy
 
@@ -331,6 +331,11 @@ Total de questoes resolvidas: 199
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#914 Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)
+  - Question ID: 914
+  - Arquivo: `problems/medium/497_random-point-in-non-overlapping-rectangles.py`
+  - Resolvido em: 18:01 - 28/05/26
 
 - [#764 N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
   - Question ID: 764
