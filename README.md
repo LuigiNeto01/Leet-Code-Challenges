@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 206
+Total de questoes resolvidas: 207
 
 ### Easy
 
@@ -336,6 +336,11 @@ Total de questoes resolvidas: 206
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#98 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+  - Question ID: 98
+  - Arquivo: `problems/medium/98_validate-binary-search-tree.py`
+  - Resolvido em: 22:00 - 29/05/26
 
 - [#216 Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
   - Question ID: 216
