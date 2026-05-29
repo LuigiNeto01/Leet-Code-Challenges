@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 205
+Total de questoes resolvidas: 206
 
 ### Easy
+
+- [#206 Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+  - Question ID: 206
+  - Arquivo: `problems/easy/206_reverse-linked-list.py`
+  - Resolvido em: 20:30 - 29/05/26
 
 - [#205 Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
   - Question ID: 205
