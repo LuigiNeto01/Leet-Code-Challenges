@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 204
+Total de questoes resolvidas: 205
 
 ### Easy
 
@@ -933,6 +933,11 @@ Total de questoes resolvidas: 204
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#218 The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
+  - Question ID: 218
+  - Arquivo: `problems/hard/218_the-skyline-problem.py`
+  - Resolvido em: 16:00 - 29/05/26
 
 - [#381 Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)
   - Question ID: 381
