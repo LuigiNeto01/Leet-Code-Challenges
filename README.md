@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 202
+Total de questoes resolvidas: 203
 
 ### Easy
 
@@ -331,6 +331,11 @@ Total de questoes resolvidas: 202
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#131 Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+  - Question ID: 131
+  - Arquivo: `problems/medium/131_palindrome-partitioning.py`
+  - Resolvido em: 08:00 - 29/05/26
 
 - [#235 Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
   - Question ID: 235
