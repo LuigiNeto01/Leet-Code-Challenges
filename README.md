@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 203
+Total de questoes resolvidas: 204
 
 ### Easy
 
@@ -331,6 +331,11 @@ Total de questoes resolvidas: 203
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#216 Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
+  - Question ID: 216
+  - Arquivo: `problems/medium/216_combination-sum-iii.py`
+  - Resolvido em: 12:30 - 29/05/26
 
 - [#131 Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
   - Question ID: 131
