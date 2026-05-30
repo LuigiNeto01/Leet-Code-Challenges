@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 211
+Total de questoes resolvidas: 212
 
 ### Easy
 
@@ -963,6 +963,11 @@ Total de questoes resolvidas: 211
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#132 Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
+  - Question ID: 132
+  - Arquivo: `problems/hard/132_palindrome-partitioning-ii.py`
+  - Resolvido em: 18:00 - 30/05/26
 
 - [#218 The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
   - Question ID: 218
