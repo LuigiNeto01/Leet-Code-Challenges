@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 208
+Total de questoes resolvidas: 209
 
 ### Easy
+
+- [#104 Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+  - Question ID: 104
+  - Arquivo: `problems/easy/104_maximum-depth-of-binary-tree.py`
+  - Resolvido em: 06:00 - 30/05/26
 
 - [#258 Add Digits](https://leetcode.com/problems/add-digits/)
   - Question ID: 258
