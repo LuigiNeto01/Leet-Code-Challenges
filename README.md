@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 210
+Total de questoes resolvidas: 211
 
 ### Easy
 
@@ -346,6 +346,11 @@ Total de questoes resolvidas: 210
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#122 Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+  - Question ID: 122
+  - Arquivo: `problems/medium/122_best-time-to-buy-and-sell-stock-ii.py`
+  - Resolvido em: 14:03 - 30/05/26
 
 - [#3 Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
   - Question ID: 3
