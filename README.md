@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 209
+Total de questoes resolvidas: 210
 
 ### Easy
 
@@ -346,6 +346,11 @@ Total de questoes resolvidas: 209
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#3 Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+  - Question ID: 3
+  - Arquivo: `problems/medium/3_longest-substring-without-repeating-characters.py`
+  - Resolvido em: 10:00 - 30/05/26
 
 - [#98 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
   - Question ID: 98
