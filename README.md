@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 212
+Total de questoes resolvidas: 213
 
 ### Easy
+
+- [#345 Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+  - Question ID: 345
+  - Arquivo: `problems/easy/345_reverse-vowels-of-a-string.py`
+  - Resolvido em: 22:31 - 30/05/26
 
 - [#104 Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
   - Question ID: 104
