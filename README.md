@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 215
+Total de questoes resolvidas: 216
 
 ### Easy
 
@@ -973,6 +973,11 @@ Total de questoes resolvidas: 215
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#212 Word Search II](https://leetcode.com/problems/word-search-ii/)
+  - Question ID: 212
+  - Arquivo: `problems/hard/212_word-search-ii.py`
+  - Resolvido em: 15:00 - 31/05/26
 
 - [#154 Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
   - Question ID: 154
