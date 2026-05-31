@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 216
+Total de questoes resolvidas: 217
 
 ### Easy
 
@@ -973,6 +973,11 @@ Total de questoes resolvidas: 216
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#23 Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+  - Question ID: 23
+  - Arquivo: `problems/hard/23_merge-k-sorted-lists.py`
+  - Resolvido em: 19:00 - 31/05/26
 
 - [#212 Word Search II](https://leetcode.com/problems/word-search-ii/)
   - Question ID: 212
