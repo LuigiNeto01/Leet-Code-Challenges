@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 214
+Total de questoes resolvidas: 215
 
 ### Easy
 
@@ -351,6 +351,11 @@ Total de questoes resolvidas: 214
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#307 Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
+  - Question ID: 307
+  - Arquivo: `problems/medium/307_range-sum-query-mutable.py`
+  - Resolvido em: 12:01 - 31/05/26
 
 - [#122 Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
   - Question ID: 122
