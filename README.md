@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 217
+Total de questoes resolvidas: 218
 
 ### Easy
 
@@ -351,6 +351,11 @@ Total de questoes resolvidas: 217
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#2 Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+  - Question ID: 2
+  - Arquivo: `problems/medium/2_add-two-numbers.py`
+  - Resolvido em: 21:00 - 31/05/26
 
 - [#307 Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
   - Question ID: 307
