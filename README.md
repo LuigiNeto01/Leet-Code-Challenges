@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 222
+Total de questoes resolvidas: 223
 
 ### Easy
+
+- [#342 Power of Four](https://leetcode.com/problems/power-of-four/)
+  - Question ID: 342
+  - Arquivo: `problems/easy/342_power-of-four.py`
+  - Resolvido em: 22:31 - 01/06/26
 
 - [#459 Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
   - Question ID: 459
