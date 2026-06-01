@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 218
+Total de questoes resolvidas: 219
 
 ### Easy
+
+- [#193 Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)
+  - Question ID: 193
+  - Arquivo: `problems/easy/193_valid-phone-numbers.py`
+  - Resolvido em: 06:00 - 01/06/26
 
 - [#345 Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
   - Question ID: 345
