@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 220
+Total de questoes resolvidas: 221
 
 ### Easy
 
@@ -988,6 +988,11 @@ Total de questoes resolvidas: 220
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#10 Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+  - Question ID: 10
+  - Arquivo: `problems/hard/10_regular-expression-matching.py`
+  - Resolvido em: 14:00 - 01/06/26
 
 - [#23 Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
   - Question ID: 23
