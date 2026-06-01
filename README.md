@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 221
+Total de questoes resolvidas: 222
 
 ### Easy
+
+- [#459 Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
+  - Question ID: 459
+  - Arquivo: `problems/easy/459_repeated-substring-pattern.py`
+  - Resolvido em: 17:00 - 01/06/26
 
 - [#193 Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)
   - Question ID: 193
