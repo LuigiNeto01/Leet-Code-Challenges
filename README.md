@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 219
+Total de questoes resolvidas: 220
 
 ### Easy
 
@@ -356,6 +356,11 @@ Total de questoes resolvidas: 219
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#445 Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
+  - Question ID: 445
+  - Arquivo: `problems/medium/445_add-two-numbers-ii.py`
+  - Resolvido em: 10:00 - 01/06/26
 
 - [#2 Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
   - Question ID: 2
