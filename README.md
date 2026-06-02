@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 227
+Total de questoes resolvidas: 228
 
 ### Easy
+
+- [#231 Power of Two](https://leetcode.com/problems/power-of-two/)
+  - Question ID: 231
+  - Arquivo: `problems/easy/231_power-of-two.py`
+  - Resolvido em: 20:00 - 02/06/26
 
 - [#448 Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
   - Question ID: 448
