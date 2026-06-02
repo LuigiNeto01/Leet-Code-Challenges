@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 224
+Total de questoes resolvidas: 225
 
 ### Easy
 
@@ -371,6 +371,11 @@ Total de questoes resolvidas: 224
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#449 Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
+  - Question ID: 449
+  - Arquivo: `problems/medium/449_serialize-and-deserialize-bst.py`
+  - Resolvido em: 12:08 - 02/06/26
 
 - [#445 Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
   - Question ID: 445
