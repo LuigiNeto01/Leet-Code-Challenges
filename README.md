@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 223
+Total de questoes resolvidas: 224
 
 ### Easy
+
+- [#448 Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+  - Question ID: 448
+  - Arquivo: `problems/easy/448_find-all-numbers-disappeared-in-an-array.py`
+  - Resolvido em: 09:08 - 02/06/26
 
 - [#342 Power of Four](https://leetcode.com/problems/power-of-four/)
   - Question ID: 342
