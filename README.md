@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 226
+Total de questoes resolvidas: 227
 
 ### Easy
 
@@ -1008,6 +1008,11 @@ Total de questoes resolvidas: 226
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#224 Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+  - Question ID: 224
+  - Arquivo: `problems/hard/224_basic-calculator.py`
+  - Resolvido em: 17:00 - 02/06/26
 
 - [#479 Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/)
   - Question ID: 479
