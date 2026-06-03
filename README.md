@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 228
+Total de questoes resolvidas: 229
 
 ### Easy
 
@@ -1013,6 +1013,11 @@ Total de questoes resolvidas: 228
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#174 Dungeon Game](https://leetcode.com/problems/dungeon-game/)
+  - Question ID: 174
+  - Arquivo: `problems/hard/174_dungeon-game.py`
+  - Resolvido em: 00:03 - 03/06/26
 
 - [#224 Basic Calculator](https://leetcode.com/problems/basic-calculator/)
   - Question ID: 224
