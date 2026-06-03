@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 230
+Total de questoes resolvidas: 231
 
 ### Easy
 
@@ -376,6 +376,11 @@ Total de questoes resolvidas: 230
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#240 Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
+  - Question ID: 240
+  - Arquivo: `problems/medium/240_search-a-2d-matrix-ii.py`
+  - Resolvido em: 10:01 - 03/06/26
 
 - [#449 Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
   - Question ID: 449
