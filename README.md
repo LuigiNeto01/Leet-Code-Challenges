@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 229
+Total de questoes resolvidas: 230
 
 ### Easy
 
@@ -1013,6 +1013,11 @@ Total de questoes resolvidas: 229
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#126 Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
+  - Question ID: 126
+  - Arquivo: `problems/hard/126_word-ladder-ii.py`
+  - Resolvido em: 08:03 - 03/06/26
 
 - [#174 Dungeon Game](https://leetcode.com/problems/dungeon-game/)
   - Question ID: 174
