@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 232
+Total de questoes resolvidas: 233
 
 ### Easy
 
@@ -376,6 +376,11 @@ Total de questoes resolvidas: 232
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#146 LRU Cache](https://leetcode.com/problems/lru-cache/)
+  - Question ID: 146
+  - Arquivo: `problems/medium/146_lru-cache.py`
+  - Resolvido em: 16:04 - 03/06/26
 
 - [#240 Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
   - Question ID: 240
