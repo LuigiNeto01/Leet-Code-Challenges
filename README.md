@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 231
+Total de questoes resolvidas: 232
 
 ### Easy
 
@@ -1018,6 +1018,11 @@ Total de questoes resolvidas: 231
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#44 Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
+  - Question ID: 44
+  - Arquivo: `problems/hard/44_wildcard-matching.py`
+  - Resolvido em: 13:00 - 03/06/26
 
 - [#126 Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
   - Question ID: 126
