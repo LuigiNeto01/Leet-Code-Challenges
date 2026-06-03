@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 234
+Total de questoes resolvidas: 235
 
 ### Easy
+
+- [#500 Keyboard Row](https://leetcode.com/problems/keyboard-row/)
+  - Question ID: 500
+  - Arquivo: `problems/easy/500_keyboard-row.py`
+  - Resolvido em: 23:01 - 03/06/26
 
 - [#231 Power of Two](https://leetcode.com/problems/power-of-two/)
   - Question ID: 231
