@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 233
+Total de questoes resolvidas: 234
 
 ### Easy
 
@@ -376,6 +376,11 @@ Total de questoes resolvidas: 233
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#398 Random Pick Index](https://leetcode.com/problems/random-pick-index/)
+  - Question ID: 398
+  - Arquivo: `problems/medium/398_random-pick-index.py`
+  - Resolvido em: 19:00 - 03/06/26
 
 - [#146 LRU Cache](https://leetcode.com/problems/lru-cache/)
   - Question ID: 146
