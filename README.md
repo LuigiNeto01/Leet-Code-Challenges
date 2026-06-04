@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 236
+Total de questoes resolvidas: 237
 
 ### Easy
+
+- [#168 Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+  - Question ID: 168
+  - Arquivo: `problems/easy/168_excel-sheet-column-title.py`
+  - Resolvido em: 11:30 - 04/06/26
 
 - [#500 Keyboard Row](https://leetcode.com/problems/keyboard-row/)
   - Question ID: 500
