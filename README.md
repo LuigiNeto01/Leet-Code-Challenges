@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 238
+Total de questoes resolvidas: 239
 
 ### Easy
 
@@ -1048,6 +1048,11 @@ Total de questoes resolvidas: 238
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#295 Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+  - Question ID: 295
+  - Arquivo: `problems/hard/295_find-median-from-data-stream.py`
+  - Resolvido em: 18:01 - 04/06/26
 
 - [#44 Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
   - Question ID: 44
