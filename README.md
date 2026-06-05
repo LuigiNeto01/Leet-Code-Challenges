@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 241
+Total de questoes resolvidas: 242
 
 ### Easy
 
@@ -386,6 +386,11 @@ Total de questoes resolvidas: 241
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#424 Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+  - Question ID: 424
+  - Arquivo: `problems/medium/424_longest-repeating-character-replacement.py`
+  - Resolvido em: 04:00 - 05/06/26
 
 - [#766 Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
   - Question ID: 766
