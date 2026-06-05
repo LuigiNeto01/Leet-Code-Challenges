@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 240
+Total de questoes resolvidas: 241
 
 ### Easy
 
@@ -386,6 +386,11 @@ Total de questoes resolvidas: 240
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#766 Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
+  - Question ID: 766
+  - Arquivo: `problems/medium/430_flatten-a-multilevel-doubly-linked-list.py`
+  - Resolvido em: 00:03 - 05/06/26
 
 - [#260 Single Number III](https://leetcode.com/problems/single-number-iii/)
   - Question ID: 260
