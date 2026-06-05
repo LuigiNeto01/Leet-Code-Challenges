@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 242
+Total de questoes resolvidas: 243
 
 ### Easy
+
+- [#263 Ugly Number](https://leetcode.com/problems/ugly-number/)
+  - Question ID: 263
+  - Arquivo: `problems/easy/263_ugly-number.py`
+  - Resolvido em: 08:00 - 05/06/26
 
 - [#168 Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
   - Question ID: 168
