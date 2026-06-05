@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 246
+Total de questoes resolvidas: 247
 
 ### Easy
 
@@ -396,6 +396,11 @@ Total de questoes resolvidas: 246
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#421 Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
+  - Question ID: 421
+  - Arquivo: `problems/medium/421_maximum-xor-of-two-numbers-in-an-array.py`
+  - Resolvido em: 22:03 - 05/06/26
 
 - [#73 Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
   - Question ID: 73
