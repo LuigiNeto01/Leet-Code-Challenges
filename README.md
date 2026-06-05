@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 243
+Total de questoes resolvidas: 244
 
 ### Easy
 
@@ -1068,6 +1068,11 @@ Total de questoes resolvidas: 243
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#188 Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
+  - Question ID: 188
+  - Arquivo: `problems/hard/188_best-time-to-buy-and-sell-stock-iv.py`
+  - Resolvido em: 12:30 - 05/06/26
 
 - [#295 Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
   - Question ID: 295
