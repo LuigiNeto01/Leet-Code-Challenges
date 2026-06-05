@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 245
+Total de questoes resolvidas: 246
 
 ### Easy
+
+- [#414 Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
+  - Question ID: 414
+  - Arquivo: `problems/easy/414_third-maximum-number.py`
+  - Resolvido em: 20:30 - 05/06/26
 
 - [#263 Ugly Number](https://leetcode.com/problems/ugly-number/)
   - Question ID: 263
