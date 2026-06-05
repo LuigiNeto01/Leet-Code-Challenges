@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 244
+Total de questoes resolvidas: 245
 
 ### Easy
 
@@ -391,6 +391,11 @@ Total de questoes resolvidas: 244
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#73 Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+  - Question ID: 73
+  - Arquivo: `problems/medium/73_set-matrix-zeroes.py`
+  - Resolvido em: 16:00 - 05/06/26
 
 - [#424 Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
   - Question ID: 424
