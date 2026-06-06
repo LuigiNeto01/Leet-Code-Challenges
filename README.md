@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 247
+Total de questoes resolvidas: 248
 
 ### Easy
 
@@ -396,6 +396,11 @@ Total de questoes resolvidas: 247
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#241 Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
+  - Question ID: 241
+  - Arquivo: `problems/medium/241_different-ways-to-add-parentheses.py`
+  - Resolvido em: 00:07 - 06/06/26
 
 - [#421 Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
   - Question ID: 421
