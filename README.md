@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 251
+Total de questoes resolvidas: 252
 
 ### Easy
 
@@ -401,6 +401,11 @@ Total de questoes resolvidas: 251
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#347 Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+  - Question ID: 347
+  - Arquivo: `problems/medium/347_top-k-frequent-elements.py`
+  - Resolvido em: 18:03 - 06/06/26
 
 - [#241 Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
   - Question ID: 241
