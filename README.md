@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 249
+Total de questoes resolvidas: 250
 
 ### Easy
+
+- [#108 Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+  - Question ID: 108
+  - Arquivo: `problems/easy/108_convert-sorted-array-to-binary-search-tree.py`
+  - Resolvido em: 10:03 - 06/06/26
 
 - [#414 Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
   - Question ID: 414
