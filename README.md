@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 252
+Total de questoes resolvidas: 253
 
 ### Easy
 
@@ -401,6 +401,11 @@ Total de questoes resolvidas: 252
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#208 Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+  - Question ID: 208
+  - Arquivo: `problems/medium/208_implement-trie-prefix-tree.py`
+  - Resolvido em: 22:32 - 06/06/26
 
 - [#347 Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
   - Question ID: 347
