@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 248
+Total de questoes resolvidas: 249
 
 ### Easy
 
@@ -1088,6 +1088,11 @@ Total de questoes resolvidas: 248
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#410 Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+  - Question ID: 410
+  - Arquivo: `problems/hard/410_split-array-largest-sum.py`
+  - Resolvido em: 06:00 - 06/06/26
 
 - [#188 Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
   - Question ID: 188
