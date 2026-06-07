@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 255
+Total de questoes resolvidas: 256
 
 ### Easy
 
@@ -406,6 +406,11 @@ Total de questoes resolvidas: 255
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#138 Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+  - Question ID: 138
+  - Arquivo: `problems/medium/138_copy-list-with-random-pointer.py`
+  - Resolvido em: 15:00 - 07/06/26
 
 - [#19 Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
   - Question ID: 19
