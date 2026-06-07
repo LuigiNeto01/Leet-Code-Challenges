@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 256
+Total de questoes resolvidas: 257
 
 ### Easy
 
@@ -406,6 +406,11 @@ Total de questoes resolvidas: 256
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#279 Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+  - Question ID: 279
+  - Arquivo: `problems/medium/279_perfect-squares.py`
+  - Resolvido em: 19:00 - 07/06/26
 
 - [#138 Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
   - Question ID: 138
