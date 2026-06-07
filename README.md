@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 253
+Total de questoes resolvidas: 254
 
 ### Easy
+
+- [#26 Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+  - Question ID: 26
+  - Arquivo: `problems/easy/26_remove-duplicates-from-sorted-array.py`
+  - Resolvido em: 07:30 - 07/06/26
 
 - [#108 Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
   - Question ID: 108
