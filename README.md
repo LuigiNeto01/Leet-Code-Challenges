@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 254
+Total de questoes resolvidas: 255
 
 ### Easy
 
@@ -406,6 +406,11 @@ Total de questoes resolvidas: 254
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#19 Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+  - Question ID: 19
+  - Arquivo: `problems/medium/19_remove-nth-node-from-end-of-list.py`
+  - Resolvido em: 12:02 - 07/06/26
 
 - [#208 Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
   - Question ID: 208
