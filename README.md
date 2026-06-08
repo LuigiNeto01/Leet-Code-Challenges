@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 258
+Total de questoes resolvidas: 259
 
 ### Easy
 
@@ -406,6 +406,11 @@ Total de questoes resolvidas: 258
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#299 Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
+  - Question ID: 299
+  - Arquivo: `problems/medium/299_bulls-and-cows.py`
+  - Resolvido em: 06:00 - 08/06/26
 
 - [#377 Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
   - Question ID: 377
