@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 259
+Total de questoes resolvidas: 260
 
 ### Easy
+
+- [#415 Add Strings](https://leetcode.com/problems/add-strings/)
+  - Question ID: 415
+  - Arquivo: `problems/easy/415_add-strings.py`
+  - Resolvido em: 10:00 - 08/06/26
 
 - [#26 Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
   - Question ID: 26
