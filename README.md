@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 262
+Total de questoes resolvidas: 263
 
 ### Easy
 
@@ -416,6 +416,11 @@ Total de questoes resolvidas: 262
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#17 Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+  - Question ID: 17
+  - Arquivo: `problems/medium/17_letter-combinations-of-a-phone-number.py`
+  - Resolvido em: 22:31 - 08/06/26
 
 - [#299 Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
   - Question ID: 299
