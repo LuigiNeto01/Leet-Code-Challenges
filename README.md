@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 261
+Total de questoes resolvidas: 262
 
 ### Easy
+
+- [#268 Missing Number](https://leetcode.com/problems/missing-number/)
+  - Question ID: 268
+  - Arquivo: `problems/easy/268_missing-number.py`
+  - Resolvido em: 17:00 - 08/06/26
 
 - [#415 Add Strings](https://leetcode.com/problems/add-strings/)
   - Question ID: 415
