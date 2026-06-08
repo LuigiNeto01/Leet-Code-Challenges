@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 260
+Total de questoes resolvidas: 261
 
 ### Easy
 
@@ -1138,6 +1138,11 @@ Total de questoes resolvidas: 260
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#352 Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
+  - Question ID: 352
+  - Arquivo: `problems/hard/352_data-stream-as-disjoint-intervals.py`
+  - Resolvido em: 14:00 - 08/06/26
 
 - [#127 Word Ladder](https://leetcode.com/problems/word-ladder/)
   - Question ID: 127
