@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 263
+Total de questoes resolvidas: 264
 
 ### Easy
+
+- [#496 Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+  - Question ID: 496
+  - Arquivo: `problems/easy/496_next-greater-element-i.py`
+  - Resolvido em: 09:00 - 09/06/26
 
 - [#268 Missing Number](https://leetcode.com/problems/missing-number/)
   - Question ID: 268
