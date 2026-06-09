@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 266
+Total de questoes resolvidas: 267
 
 ### Easy
 
@@ -426,6 +426,11 @@ Total de questoes resolvidas: 266
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#148 Sort List](https://leetcode.com/problems/sort-list/)
+  - Question ID: 148
+  - Arquivo: `problems/medium/148_sort-list.py`
+  - Resolvido em: 20:00 - 09/06/26
 
 - [#375 Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)
   - Question ID: 375
