@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 265
+Total de questoes resolvidas: 266
 
 ### Easy
+
+- [#171 Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+  - Question ID: 171
+  - Arquivo: `problems/easy/171_excel-sheet-column-number.py`
+  - Resolvido em: 17:00 - 09/06/26
 
 - [#496 Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
   - Question ID: 496
