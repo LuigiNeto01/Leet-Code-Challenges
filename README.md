@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 264
+Total de questoes resolvidas: 265
 
 ### Easy
 
@@ -421,6 +421,11 @@ Total de questoes resolvidas: 264
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#375 Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)
+  - Question ID: 375
+  - Arquivo: `problems/medium/375_guess-number-higher-or-lower-ii.py`
+  - Resolvido em: 14:00 - 09/06/26
 
 - [#17 Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
   - Question ID: 17
