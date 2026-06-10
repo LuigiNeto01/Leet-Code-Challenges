@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 273
+Total de questoes resolvidas: 274
 
 ### Easy
 
@@ -441,6 +441,11 @@ Total de questoes resolvidas: 273
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#61 Rotate List](https://leetcode.com/problems/rotate-list/)
+  - Question ID: 61
+  - Arquivo: `problems/medium/61_rotate-list.py`
+  - Resolvido em: 23:01 - 10/06/26
 
 - [#152 Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
   - Question ID: 152
