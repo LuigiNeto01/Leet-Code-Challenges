@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 267
+Total de questoes resolvidas: 268
 
 ### Easy
+
+- [#66 Plus One](https://leetcode.com/problems/plus-one/)
+  - Question ID: 66
+  - Arquivo: `problems/easy/66_plus-one.py`
+  - Resolvido em: 00:00 - 10/06/26
 
 - [#171 Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
   - Question ID: 171
