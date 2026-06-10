@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 271
+Total de questoes resolvidas: 272
 
 ### Easy
+
+- [#101 Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+  - Question ID: 101
+  - Arquivo: `problems/easy/101_symmetric-tree.py`
+  - Resolvido em: 16:01 - 10/06/26
 
 - [#203 Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
   - Question ID: 203
