@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 272
+Total de questoes resolvidas: 273
 
 ### Easy
 
@@ -1193,6 +1193,11 @@ Total de questoes resolvidas: 272
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#488 Zuma Game](https://leetcode.com/problems/zuma-game/)
+  - Question ID: 488
+  - Arquivo: `problems/hard/488_zuma-game.py`
+  - Resolvido em: 19:02 - 10/06/26
 
 - [#352 Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
   - Question ID: 352
