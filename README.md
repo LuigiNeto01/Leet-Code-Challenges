@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 269
+Total de questoes resolvidas: 270
 
 ### Easy
+
+- [#203 Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+  - Question ID: 203
+  - Arquivo: `problems/easy/203_remove-linked-list-elements.py`
+  - Resolvido em: 10:01 - 10/06/26
 
 - [#66 Plus One](https://leetcode.com/problems/plus-one/)
   - Question ID: 66
