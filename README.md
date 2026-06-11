@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 275
+Total de questoes resolvidas: 276
 
 ### Easy
+
+- [#35 Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+  - Question ID: 35
+  - Arquivo: `problems/easy/35_search-insert-position.py`
+  - Resolvido em: 11:30 - 11/06/26
 
 - [#101 Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
   - Question ID: 101
