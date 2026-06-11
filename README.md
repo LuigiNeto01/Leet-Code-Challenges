@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 276
+Total de questoes resolvidas: 277
 
 ### Easy
 
@@ -1208,6 +1208,11 @@ Total de questoes resolvidas: 276
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#87 Scramble String](https://leetcode.com/problems/scramble-string/)
+  - Question ID: 87
+  - Arquivo: `problems/hard/87_scramble-string.py`
+  - Resolvido em: 22:04 - 11/06/26
 
 - [#488 Zuma Game](https://leetcode.com/problems/zuma-game/)
   - Question ID: 488
