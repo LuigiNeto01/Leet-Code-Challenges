@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 279
+Total de questoes resolvidas: 280
 
 ### Easy
 
@@ -446,6 +446,11 @@ Total de questoes resolvidas: 279
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#417 Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+  - Question ID: 417
+  - Arquivo: `problems/medium/417_pacific-atlantic-water-flow.py`
+  - Resolvido em: 16:00 - 12/06/26
 
 - [#80 Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
   - Question ID: 80
