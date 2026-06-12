@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 278
+Total de questoes resolvidas: 279
 
 ### Easy
 
@@ -446,6 +446,11 @@ Total de questoes resolvidas: 278
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#80 Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+  - Question ID: 80
+  - Arquivo: `problems/medium/80_remove-duplicates-from-sorted-array-ii.py`
+  - Resolvido em: 12:30 - 12/06/26
 
 - [#40 Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
   - Question ID: 40
