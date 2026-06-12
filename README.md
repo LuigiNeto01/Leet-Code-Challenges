@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 277
+Total de questoes resolvidas: 278
 
 ### Easy
 
@@ -446,6 +446,11 @@ Total de questoes resolvidas: 277
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#40 Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+  - Question ID: 40
+  - Arquivo: `problems/medium/40_combination-sum-ii.py`
+  - Resolvido em: 08:00 - 12/06/26
 
 - [#167 Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
   - Question ID: 167
