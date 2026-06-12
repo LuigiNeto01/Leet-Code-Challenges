@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 280
+Total de questoes resolvidas: 281
 
 ### Easy
 
@@ -446,6 +446,11 @@ Total de questoes resolvidas: 280
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#384 Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
+  - Question ID: 384
+  - Arquivo: `problems/medium/384_shuffle-an-array.py`
+  - Resolvido em: 22:03 - 12/06/26
 
 - [#417 Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
   - Question ID: 417
