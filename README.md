@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 283
+Total de questoes resolvidas: 284
 
 ### Easy
+
+- [#441 Arranging Coins](https://leetcode.com/problems/arranging-coins/)
+  - Question ID: 441
+  - Arquivo: `problems/easy/441_arranging-coins.py`
+  - Resolvido em: 14:00 - 13/06/26
 
 - [#100 Same Tree](https://leetcode.com/problems/same-tree/)
   - Question ID: 100
