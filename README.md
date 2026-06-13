@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 282
+Total de questoes resolvidas: 283
 
 ### Easy
+
+- [#100 Same Tree](https://leetcode.com/problems/same-tree/)
+  - Question ID: 100
+  - Arquivo: `problems/easy/100_same-tree.py`
+  - Resolvido em: 06:00 - 13/06/26
 
 - [#125 Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
   - Question ID: 125
