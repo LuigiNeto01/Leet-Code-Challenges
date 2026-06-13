@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 284
+Total de questoes resolvidas: 285
 
 ### Easy
 
@@ -461,6 +461,11 @@ Total de questoes resolvidas: 284
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#477 Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
+  - Question ID: 477
+  - Arquivo: `problems/medium/477_total-hamming-distance.py`
+  - Resolvido em: 18:08 - 13/06/26
 
 - [#384 Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
   - Question ID: 384
