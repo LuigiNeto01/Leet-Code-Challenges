@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 285
+Total de questoes resolvidas: 286
 
 ### Easy
 
@@ -461,6 +461,11 @@ Total de questoes resolvidas: 285
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#91 Decode Ways](https://leetcode.com/problems/decode-ways/)
+  - Question ID: 91
+  - Arquivo: `problems/medium/91_decode-ways.py`
+  - Resolvido em: 22:31 - 13/06/26
 
 - [#477 Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
   - Question ID: 477
