@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 287
+Total de questoes resolvidas: 288
 
 ### Easy
 
@@ -461,6 +461,11 @@ Total de questoes resolvidas: 287
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#18 4Sum](https://leetcode.com/problems/4sum/)
+  - Question ID: 18
+  - Arquivo: `problems/medium/18_4sum.py`
+  - Resolvido em: 12:06 - 14/06/26
 
 - [#419 Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)
   - Question ID: 419
