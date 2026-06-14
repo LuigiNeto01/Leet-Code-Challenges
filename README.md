@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 289
+Total de questoes resolvidas: 290
 
 ### Easy
 
@@ -461,6 +461,11 @@ Total de questoes resolvidas: 289
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#95 Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
+  - Question ID: 95
+  - Arquivo: `problems/medium/95_unique-binary-search-trees-ii.py`
+  - Resolvido em: 21:03 - 14/06/26
 
 - [#236 Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
   - Question ID: 236
