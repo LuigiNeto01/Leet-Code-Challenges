@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 293
+Total de questoes resolvidas: 294
 
 ### Easy
 
@@ -1283,6 +1283,11 @@ Total de questoes resolvidas: 293
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#85 Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+  - Question ID: 85
+  - Arquivo: `problems/hard/85_maximal-rectangle.py`
+  - Resolvido em: 17:03 - 15/06/26
 
 - [#458 Poor Pigs](https://leetcode.com/problems/poor-pigs/)
   - Question ID: 458
