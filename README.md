@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 290
+Total de questoes resolvidas: 291
 
 ### Easy
 
@@ -461,6 +461,11 @@ Total de questoes resolvidas: 290
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#134 Gas Station](https://leetcode.com/problems/gas-station/)
+  - Question ID: 134
+  - Arquivo: `problems/medium/134_gas-station.py`
+  - Resolvido em: 06:00 - 15/06/26
 
 - [#95 Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
   - Question ID: 95
