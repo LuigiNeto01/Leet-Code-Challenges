@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 291
+Total de questoes resolvidas: 292
 
 ### Easy
 
@@ -461,6 +461,11 @@ Total de questoes resolvidas: 291
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#310 Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
+  - Question ID: 310
+  - Arquivo: `problems/medium/310_minimum-height-trees.py`
+  - Resolvido em: 10:00 - 15/06/26
 
 - [#134 Gas Station](https://leetcode.com/problems/gas-station/)
   - Question ID: 134
