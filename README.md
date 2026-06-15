@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 292
+Total de questoes resolvidas: 293
 
 ### Easy
 
@@ -1283,6 +1283,11 @@ Total de questoes resolvidas: 292
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#458 Poor Pigs](https://leetcode.com/problems/poor-pigs/)
+  - Question ID: 458
+  - Arquivo: `problems/hard/458_poor-pigs.py`
+  - Resolvido em: 14:00 - 15/06/26
 
 - [#87 Scramble String](https://leetcode.com/problems/scramble-string/)
   - Question ID: 87
