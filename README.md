@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 298
+Total de questoes resolvidas: 299
 
 ### Easy
 
@@ -466,6 +466,11 @@ Total de questoes resolvidas: 298
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#198 House Robber](https://leetcode.com/problems/house-robber/)
+  - Question ID: 198
+  - Arquivo: `problems/medium/198_house-robber.py`
+  - Resolvido em: 20:03 - 16/06/26
 
 - [#438 Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
   - Question ID: 438
