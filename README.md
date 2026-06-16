@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 295
+Total de questoes resolvidas: 296
 
 ### Easy
 
@@ -461,6 +461,11 @@ Total de questoes resolvidas: 295
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#462 Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
+  - Question ID: 462
+  - Arquivo: `problems/medium/462_minimum-moves-to-equal-array-elements-ii.py`
+  - Resolvido em: 12:09 - 16/06/26
 
 - [#34 Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
   - Question ID: 34
