@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 296
+Total de questoes resolvidas: 297
 
 ### Easy
+
+- [#290 Word Pattern](https://leetcode.com/problems/word-pattern/)
+  - Question ID: 290
+  - Arquivo: `problems/easy/290_word-pattern.py`
+  - Resolvido em: 14:00 - 16/06/26
 
 - [#441 Arranging Coins](https://leetcode.com/problems/arranging-coins/)
   - Question ID: 441
