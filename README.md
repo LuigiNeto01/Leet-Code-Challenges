@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 297
+Total de questoes resolvidas: 298
 
 ### Easy
 
@@ -466,6 +466,11 @@ Total de questoes resolvidas: 297
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#438 Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+  - Question ID: 438
+  - Arquivo: `problems/medium/438_find-all-anagrams-in-a-string.py`
+  - Resolvido em: 17:00 - 16/06/26
 
 - [#462 Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
   - Question ID: 462
