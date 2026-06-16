@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 294
+Total de questoes resolvidas: 295
 
 ### Easy
 
@@ -461,6 +461,11 @@ Total de questoes resolvidas: 294
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#34 Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+  - Question ID: 34
+  - Arquivo: `problems/medium/34_find-first-and-last-position-of-element-in-sorted-array.py`
+  - Resolvido em: 09:01 - 16/06/26
 
 - [#310 Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
   - Question ID: 310
