@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 304
+Total de questoes resolvidas: 305
 
 ### Easy
+
+- [#401 Binary Watch](https://leetcode.com/problems/binary-watch/)
+  - Question ID: 401
+  - Arquivo: `problems/easy/401_binary-watch.py`
+  - Resolvido em: 19:02 - 17/06/26
 
 - [#290 Word Pattern](https://leetcode.com/problems/word-pattern/)
   - Question ID: 290
