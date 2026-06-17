@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 300
+Total de questoes resolvidas: 301
 
 ### Easy
 
@@ -466,6 +466,11 @@ Total de questoes resolvidas: 300
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#57 Insert Interval](https://leetcode.com/problems/insert-interval/)
+  - Question ID: 57
+  - Arquivo: `problems/medium/57_insert-interval.py`
+  - Resolvido em: 08:00 - 17/06/26
 
 - [#173 Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
   - Question ID: 173
