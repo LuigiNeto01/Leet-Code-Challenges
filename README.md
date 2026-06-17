@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 303
+Total de questoes resolvidas: 304
 
 ### Easy
 
@@ -466,6 +466,11 @@ Total de questoes resolvidas: 303
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#357 Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
+  - Question ID: 357
+  - Arquivo: `problems/medium/357_count-numbers-with-unique-digits.py`
+  - Resolvido em: 16:01 - 17/06/26
 
 - [#96 Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
   - Question ID: 96
