@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 307
+Total de questoes resolvidas: 308
 
 ### Easy
 
@@ -1348,6 +1348,11 @@ Total de questoes resolvidas: 307
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#51 N-Queens](https://leetcode.com/problems/n-queens/)
+  - Question ID: 51
+  - Arquivo: `problems/hard/51_n-queens.py`
+  - Resolvido em: 11:30 - 18/06/26
 
 - [#85 Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
   - Question ID: 85
