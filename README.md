@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 306
+Total de questoes resolvidas: 307
 
 ### Easy
 
@@ -476,6 +476,11 @@ Total de questoes resolvidas: 306
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#467 Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/)
+  - Question ID: 467
+  - Arquivo: `problems/medium/467_unique-substrings-in-wraparound-string.py`
+  - Resolvido em: 06:00 - 18/06/26
 
 - [#357 Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
   - Question ID: 357
