@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 315
+Total de questoes resolvidas: 316
 
 ### Easy
+
+- [#344 Reverse String](https://leetcode.com/problems/reverse-string/)
+  - Question ID: 344
+  - Arquivo: `problems/easy/344_reverse-string.py`
+  - Resolvido em: 22:03 - 19/06/26
 
 - [#202 Happy Number](https://leetcode.com/problems/happy-number/)
   - Question ID: 202
