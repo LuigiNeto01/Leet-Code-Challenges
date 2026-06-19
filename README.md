@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 314
+Total de questoes resolvidas: 315
 
 ### Easy
 
@@ -1378,6 +1378,11 @@ Total de questoes resolvidas: 314
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#312 Burst Balloons](https://leetcode.com/problems/burst-balloons/)
+  - Question ID: 312
+  - Arquivo: `problems/hard/312_burst-balloons.py`
+  - Resolvido em: 20:30 - 19/06/26
 
 - [#51 N-Queens](https://leetcode.com/problems/n-queens/)
   - Question ID: 51
