@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 311
+Total de questoes resolvidas: 312
 
 ### Easy
+
+- [#190 Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+  - Question ID: 190
+  - Arquivo: `problems/easy/190_reverse-bits.py`
+  - Resolvido em: 08:00 - 19/06/26
 
 - [#13 Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
   - Question ID: 13
