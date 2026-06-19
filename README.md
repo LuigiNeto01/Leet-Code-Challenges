@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 312
+Total de questoes resolvidas: 313
 
 ### Easy
+
+- [#202 Happy Number](https://leetcode.com/problems/happy-number/)
+  - Question ID: 202
+  - Arquivo: `problems/easy/202_happy-number.py`
+  - Resolvido em: 12:30 - 19/06/26
 
 - [#190 Reverse Bits](https://leetcode.com/problems/reverse-bits/)
   - Question ID: 190
