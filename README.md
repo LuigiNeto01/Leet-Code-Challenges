@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 316
+Total de questoes resolvidas: 317
 
 ### Easy
 
@@ -1383,6 +1383,11 @@ Total de questoes resolvidas: 316
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#30 Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
+  - Question ID: 30
+  - Arquivo: `problems/hard/30_substring-with-concatenation-of-all-words.py`
+  - Resolvido em: 00:00 - 20/06/26
 
 - [#312 Burst Balloons](https://leetcode.com/problems/burst-balloons/)
   - Question ID: 312
