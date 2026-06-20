@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 318
+Total de questoes resolvidas: 319
 
 ### Easy
 
@@ -491,6 +491,11 @@ Total de questoes resolvidas: 318
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#229 Majority Element II](https://leetcode.com/problems/majority-element-ii/)
+  - Question ID: 229
+  - Arquivo: `problems/medium/229_majority-element-ii.py`
+  - Resolvido em: 14:03 - 20/06/26
 
 - [#99 Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
   - Question ID: 99
