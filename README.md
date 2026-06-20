@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 317
+Total de questoes resolvidas: 318
 
 ### Easy
 
@@ -1383,6 +1383,11 @@ Total de questoes resolvidas: 317
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#493 Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
+  - Question ID: 493
+  - Arquivo: `problems/hard/493_reverse-pairs.py`
+  - Resolvido em: 10:00 - 20/06/26
 
 - [#30 Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
   - Question ID: 30
