@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 323
+Total de questoes resolvidas: 324
 
 ### Easy
+
+- [#160 Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+  - Question ID: 160
+  - Arquivo: `problems/easy/160_intersection-of-two-linked-lists.py`
+  - Resolvido em: 19:02 - 24/06/26
 
 - [#14 Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
   - Question ID: 14
