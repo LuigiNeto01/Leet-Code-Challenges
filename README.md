@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 322
+Total de questoes resolvidas: 323
 
 ### Easy
 
@@ -496,6 +496,11 @@ Total de questoes resolvidas: 322
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#316 Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
+  - Question ID: 316
+  - Arquivo: `problems/medium/316_remove-duplicate-letters.py`
+  - Resolvido em: 16:02 - 24/06/26
 
 - [#229 Majority Element II](https://leetcode.com/problems/majority-element-ii/)
   - Question ID: 229
