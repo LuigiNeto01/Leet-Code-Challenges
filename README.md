@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 319
+Total de questoes resolvidas: 320
 
 ### Easy
 
@@ -1388,6 +1388,11 @@ Total de questoes resolvidas: 319
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#321 Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)
+  - Question ID: 321
+  - Arquivo: `problems/hard/321_create-maximum-number.py`
+  - Resolvido em: 08:00 - 24/06/26
 
 - [#493 Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
   - Question ID: 493
