@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 324
+Total de questoes resolvidas: 325
 
 ### Easy
 
@@ -501,6 +501,11 @@ Total de questoes resolvidas: 324
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#36 Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+  - Question ID: 36
+  - Arquivo: `problems/medium/36_valid-sudoku.py`
+  - Resolvido em: 23:04 - 24/06/26
 
 - [#316 Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
   - Question ID: 316
