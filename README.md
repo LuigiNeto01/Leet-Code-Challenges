@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 320
+Total de questoes resolvidas: 321
 
 ### Easy
+
+- [#14 Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+  - Question ID: 14
+  - Arquivo: `problems/easy/14_longest-common-prefix.py`
+  - Resolvido em: 10:01 - 24/06/26
 
 - [#344 Reverse String](https://leetcode.com/problems/reverse-string/)
   - Question ID: 344
