@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 325
+Total de questoes resolvidas: 326
 
 ### Easy
+
+- [#226 Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+  - Question ID: 226
+  - Arquivo: `problems/easy/226_invert-binary-tree.py`
+  - Resolvido em: 06:00 - 25/06/26
 
 - [#160 Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
   - Question ID: 160
