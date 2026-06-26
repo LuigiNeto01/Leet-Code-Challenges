@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 328
+Total de questoes resolvidas: 329
 
 ### Easy
+
+- [#278 First Bad Version](https://leetcode.com/problems/first-bad-version/)
+  - Question ID: 278
+  - Arquivo: `problems/easy/278_first-bad-version.py`
+  - Resolvido em: 00:07 - 26/06/26
 
 - [#226 Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
   - Question ID: 226
