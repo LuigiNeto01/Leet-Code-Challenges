@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 332
+Total de questoes resolvidas: 333
 
 ### Easy
 
@@ -1443,6 +1443,11 @@ Total de questoes resolvidas: 332
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#297 Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+  - Question ID: 297
+  - Arquivo: `problems/hard/297_serialize-and-deserialize-binary-tree.py`
+  - Resolvido em: 22:00 - 26/06/26
 
 - [#391 Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
   - Question ID: 391
