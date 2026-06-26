@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 331
+Total de questoes resolvidas: 332
 
 ### Easy
 
@@ -511,6 +511,11 @@ Total de questoes resolvidas: 331
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#201 Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
+  - Question ID: 201
+  - Arquivo: `problems/medium/201_bitwise-and-of-numbers-range.py`
+  - Resolvido em: 16:00 - 26/06/26
 
 - [#313 Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)
   - Question ID: 313
