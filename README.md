@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 330
+Total de questoes resolvidas: 331
 
 ### Easy
 
@@ -511,6 +511,11 @@ Total de questoes resolvidas: 330
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#313 Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)
+  - Question ID: 313
+  - Arquivo: `problems/medium/313_super-ugly-number.py`
+  - Resolvido em: 08:00 - 26/06/26
 
 - [#71 Simplify Path](https://leetcode.com/problems/simplify-path/)
   - Question ID: 71
