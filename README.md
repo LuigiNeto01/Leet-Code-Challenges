@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 329
+Total de questoes resolvidas: 330
 
 ### Easy
 
@@ -511,6 +511,11 @@ Total de questoes resolvidas: 329
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#71 Simplify Path](https://leetcode.com/problems/simplify-path/)
+  - Question ID: 71
+  - Arquivo: `problems/medium/71_simplify-path.py`
+  - Resolvido em: 04:00 - 26/06/26
 
 - [#450 Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
   - Question ID: 450
