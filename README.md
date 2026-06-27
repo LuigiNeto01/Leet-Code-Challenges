@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 333
+Total de questoes resolvidas: 334
 
 ### Easy
 
@@ -511,6 +511,11 @@ Total de questoes resolvidas: 333
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#133 Clone Graph](https://leetcode.com/problems/clone-graph/)
+  - Question ID: 133
+  - Arquivo: `problems/medium/133_clone-graph.py`
+  - Resolvido em: 00:03 - 27/06/26
 
 - [#201 Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
   - Question ID: 201
