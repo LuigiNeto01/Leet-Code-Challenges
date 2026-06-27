@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 334
+Total de questoes resolvidas: 335
 
 ### Easy
 
@@ -511,6 +511,11 @@ Total de questoes resolvidas: 334
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#49 Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+  - Question ID: 49
+  - Arquivo: `problems/medium/49_group-anagrams.py`
+  - Resolvido em: 10:00 - 27/06/26
 
 - [#133 Clone Graph](https://leetcode.com/problems/clone-graph/)
   - Question ID: 133
