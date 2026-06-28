@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 335
+Total de questoes resolvidas: 336
 
 ### Easy
 
@@ -511,6 +511,11 @@ Total de questoes resolvidas: 335
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#443 String Compression](https://leetcode.com/problems/string-compression/)
+  - Question ID: 443
+  - Arquivo: `problems/medium/443_string-compression.py`
+  - Resolvido em: 07:33 - 28/06/26
 
 - [#49 Group Anagrams](https://leetcode.com/problems/group-anagrams/)
   - Question ID: 49
