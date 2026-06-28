@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 337
+Total de questoes resolvidas: 338
 
 ### Easy
 
@@ -516,6 +516,11 @@ Total de questoes resolvidas: 337
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#396 Rotate Function](https://leetcode.com/problems/rotate-function/)
+  - Question ID: 396
+  - Arquivo: `problems/medium/396_rotate-function.py`
+  - Resolvido em: 15:00 - 28/06/26
 
 - [#443 String Compression](https://leetcode.com/problems/string-compression/)
   - Question ID: 443
