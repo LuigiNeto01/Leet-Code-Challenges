@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 339
+Total de questoes resolvidas: 340
 
 ### Easy
 
@@ -1473,6 +1473,11 @@ Total de questoes resolvidas: 339
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+  - Question ID: 315
+  - Arquivo: `problems/hard/315_count-of-smaller-numbers-after-self.py`
+  - Resolvido em: 21:00 - 28/06/26
 
 - [#297 Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
   - Question ID: 297
