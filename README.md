@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 340
+Total de questoes resolvidas: 341
 
 ### Easy
 
@@ -1473,6 +1473,11 @@ Total de questoes resolvidas: 340
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#65 Valid Number](https://leetcode.com/problems/valid-number/)
+  - Question ID: 65
+  - Arquivo: `problems/hard/65_valid-number.py`
+  - Resolvido em: 06:03 - 29/06/26
 
 - [#315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
   - Question ID: 315
