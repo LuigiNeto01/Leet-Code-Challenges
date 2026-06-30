@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 342
+Total de questoes resolvidas: 343
 
 ### Easy
 
@@ -516,6 +516,11 @@ Total de questoes resolvidas: 342
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#373 Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+  - Question ID: 373
+  - Arquivo: `problems/medium/373_find-k-pairs-with-smallest-sums.py`
+  - Resolvido em: 14:00 - 30/06/26
 
 - [#72 Edit Distance](https://leetcode.com/problems/edit-distance/)
   - Question ID: 72
