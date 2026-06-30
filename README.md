@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 344
+Total de questoes resolvidas: 345
 
 ### Easy
+
+- [#121 Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+  - Question ID: 121
+  - Arquivo: `problems/easy/121_best-time-to-buy-and-sell-stock.py`
+  - Resolvido em: 20:02 - 30/06/26
 
 - [#111 Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
   - Question ID: 111
