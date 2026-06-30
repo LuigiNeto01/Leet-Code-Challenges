@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 343
+Total de questoes resolvidas: 344
 
 ### Easy
+
+- [#111 Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+  - Question ID: 111
+  - Arquivo: `problems/easy/111_minimum-depth-of-binary-tree.py`
+  - Resolvido em: 17:00 - 30/06/26
 
 - [#350 Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
   - Question ID: 350
