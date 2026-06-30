@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 341
+Total de questoes resolvidas: 342
 
 ### Easy
 
@@ -1473,6 +1473,11 @@ Total de questoes resolvidas: 341
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#336 Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)
+  - Question ID: 336
+  - Arquivo: `problems/hard/336_palindrome-pairs.py`
+  - Resolvido em: 12:00 - 30/06/26
 
 - [#65 Valid Number](https://leetcode.com/problems/valid-number/)
   - Question ID: 65
