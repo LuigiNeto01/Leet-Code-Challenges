@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 345
+Total de questoes resolvidas: 346
 
 ### Easy
 
@@ -1488,6 +1488,11 @@ Total de questoes resolvidas: 345
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#472 Concatenated Words](https://leetcode.com/problems/concatenated-words/)
+  - Question ID: 472
+  - Arquivo: `problems/hard/472_concatenated-words.py`
+  - Resolvido em: 00:03 - 01/07/26
 
 - [#336 Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)
   - Question ID: 336
