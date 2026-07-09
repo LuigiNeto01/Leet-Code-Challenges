@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 346
+Total de questoes resolvidas: 347
 
 ### Easy
 
@@ -526,6 +526,11 @@ Total de questoes resolvidas: 346
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#433 Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
+  - Question ID: 433
+  - Arquivo: `problems/medium/433_minimum-genetic-mutation.py`
+  - Resolvido em: 22:01 - 09/07/26
 
 - [#373 Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
   - Question ID: 373
