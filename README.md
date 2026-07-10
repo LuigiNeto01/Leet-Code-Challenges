@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 351
+Total de questoes resolvidas: 352
 
 ### Easy
 
@@ -526,6 +526,11 @@ Total de questoes resolvidas: 351
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#153 Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+  - Question ID: 153
+  - Arquivo: `problems/medium/153_find-minimum-in-rotated-sorted-array.py`
+  - Resolvido em: 22:00 - 10/07/26
 
 - [#5 Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
   - Question ID: 5
