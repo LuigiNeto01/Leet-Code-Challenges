@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 347
+Total de questoes resolvidas: 348
 
 ### Easy
 
@@ -526,6 +526,11 @@ Total de questoes resolvidas: 347
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#413 Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
+  - Question ID: 413
+  - Arquivo: `problems/medium/413_arithmetic-slices.py`
+  - Resolvido em: 00:09 - 10/07/26
 
 - [#433 Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
   - Question ID: 433
