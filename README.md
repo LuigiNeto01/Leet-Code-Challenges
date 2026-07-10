@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 350
+Total de questoes resolvidas: 351
 
 ### Easy
 
@@ -526,6 +526,11 @@ Total de questoes resolvidas: 350
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#5 Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+  - Question ID: 5
+  - Arquivo: `problems/medium/5_longest-palindromic-substring.py`
+  - Resolvido em: 16:00 - 10/07/26
 
 - [#59 Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
   - Question ID: 59
