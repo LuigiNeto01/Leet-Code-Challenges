@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 353
+Total de questoes resolvidas: 354
 
 ### Easy
 
@@ -526,6 +526,11 @@ Total de questoes resolvidas: 353
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#494 Target Sum](https://leetcode.com/problems/target-sum/)
+  - Question ID: 494
+  - Arquivo: `problems/medium/494_target-sum.py`
+  - Resolvido em: 18:02 - 11/07/26
 
 - [#89 Gray Code](https://leetcode.com/problems/gray-code/)
   - Question ID: 89
