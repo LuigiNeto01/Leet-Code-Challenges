@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 354
+Total de questoes resolvidas: 355
 
 ### Easy
+
+- [#118 Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+  - Question ID: 118
+  - Arquivo: `problems/easy/118_pascals-triangle.py`
+  - Resolvido em: 22:31 - 11/07/26
 
 - [#121 Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - Question ID: 121
