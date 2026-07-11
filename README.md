@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 352
+Total de questoes resolvidas: 353
 
 ### Easy
 
@@ -526,6 +526,11 @@ Total de questoes resolvidas: 352
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#89 Gray Code](https://leetcode.com/problems/gray-code/)
+  - Question ID: 89
+  - Arquivo: `problems/medium/89_gray-code.py`
+  - Resolvido em: 06:03 - 11/07/26
 
 - [#153 Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
   - Question ID: 153
