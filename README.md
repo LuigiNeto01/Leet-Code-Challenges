@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 355
+Total de questoes resolvidas: 356
 
 ### Easy
 
@@ -531,6 +531,11 @@ Total de questoes resolvidas: 355
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#491 Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)
+  - Question ID: 491
+  - Arquivo: `problems/medium/491_non-decreasing-subsequences.py`
+  - Resolvido em: 15:07 - 12/07/26
 
 - [#494 Target Sum](https://leetcode.com/problems/target-sum/)
   - Question ID: 494
