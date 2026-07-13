@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 358
+Total de questoes resolvidas: 359
 
 ### Easy
 
@@ -531,6 +531,11 @@ Total de questoes resolvidas: 358
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#416 Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+  - Question ID: 416
+  - Arquivo: `problems/medium/416_partition-equal-subset-sum.py`
+  - Resolvido em: 17:03 - 13/07/26
 
 - [#120 Triangle](https://leetcode.com/problems/triangle/)
   - Question ID: 120
