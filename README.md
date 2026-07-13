@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 357
+Total de questoes resolvidas: 358
 
 ### Easy
 
@@ -531,6 +531,11 @@ Total de questoes resolvidas: 357
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#120 Triangle](https://leetcode.com/problems/triangle/)
+  - Question ID: 120
+  - Arquivo: `problems/medium/120_triangle.py`
+  - Resolvido em: 10:00 - 13/07/26
 
 - [#457 Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
   - Question ID: 457
