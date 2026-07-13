@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 356
+Total de questoes resolvidas: 357
 
 ### Easy
 
@@ -531,6 +531,11 @@ Total de questoes resolvidas: 356
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#457 Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
+  - Question ID: 457
+  - Arquivo: `problems/medium/457_circular-array-loop.py`
+  - Resolvido em: 06:03 - 13/07/26
 
 - [#491 Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)
   - Question ID: 491
