@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 360
+Total de questoes resolvidas: 361
 
 ### Easy
 
@@ -531,6 +531,11 @@ Total de questoes resolvidas: 360
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#213 House Robber II](https://leetcode.com/problems/house-robber-ii/)
+  - Question ID: 213
+  - Arquivo: `problems/medium/213_house-robber-ii.py`
+  - Resolvido em: 17:03 - 14/07/26
 
 - [#416 Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
   - Question ID: 416
