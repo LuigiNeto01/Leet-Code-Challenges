@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 359
+Total de questoes resolvidas: 360
 
 ### Easy
 
@@ -1548,6 +1548,11 @@ Total de questoes resolvidas: 359
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#140 Word Break II](https://leetcode.com/problems/word-break-ii/)
+  - Question ID: 140
+  - Arquivo: `problems/hard/140_word-break-ii.py`
+  - Resolvido em: 12:03 - 14/07/26
 
 - [#446 Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
   - Question ID: 446
