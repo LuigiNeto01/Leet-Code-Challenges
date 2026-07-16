@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 361
+Total de questoes resolvidas: 362
 
 ### Easy
 
@@ -1553,6 +1553,11 @@ Total de questoes resolvidas: 361
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#68 Text Justification](https://leetcode.com/problems/text-justification/)
+  - Question ID: 68
+  - Arquivo: `problems/hard/68_text-justification.py`
+  - Resolvido em: 15:33 - 16/07/26
 
 - [#140 Word Break II](https://leetcode.com/problems/word-break-ii/)
   - Question ID: 140
