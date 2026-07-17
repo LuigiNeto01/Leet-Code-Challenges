@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 362
+Total de questoes resolvidas: 363
 
 ### Easy
 
@@ -1553,6 +1553,11 @@ Total de questoes resolvidas: 362
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#363 Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
+  - Question ID: 363
+  - Arquivo: `problems/hard/363_max-sum-of-rectangle-no-larger-than-k.py`
+  - Resolvido em: 00:01 - 17/07/26
 
 - [#68 Text Justification](https://leetcode.com/problems/text-justification/)
   - Question ID: 68
