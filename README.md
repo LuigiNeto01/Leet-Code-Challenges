@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 363
+Total de questoes resolvidas: 364
 
 ### Easy
 
@@ -531,6 +531,11 @@ Total de questoes resolvidas: 363
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#275 H-Index II](https://leetcode.com/problems/h-index-ii/)
+  - Question ID: 275
+  - Arquivo: `problems/medium/275_h-index-ii.py`
+  - Resolvido em: 20:33 - 17/07/26
 
 - [#213 House Robber II](https://leetcode.com/problems/house-robber-ii/)
   - Question ID: 213
