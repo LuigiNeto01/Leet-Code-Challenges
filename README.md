@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 365
+Total de questoes resolvidas: 366
 
 ### Easy
 
@@ -531,6 +531,11 @@ Total de questoes resolvidas: 365
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#192 Word Frequency](https://leetcode.com/problems/word-frequency/)
+  - Question ID: 192
+  - Arquivo: `problems/medium/192_word-frequency.py`
+  - Resolvido em: 15:30 - 23/07/26
 
 - [#55 Jump Game](https://leetcode.com/problems/jump-game/)
   - Question ID: 55
