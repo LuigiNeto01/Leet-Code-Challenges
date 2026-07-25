@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 366
+Total de questoes resolvidas: 367
 
 ### Easy
 
@@ -531,6 +531,11 @@ Total de questoes resolvidas: 366
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#464 Can I Win](https://leetcode.com/problems/can-i-win/)
+  - Question ID: 464
+  - Arquivo: `problems/medium/464_can-i-win.py`
+  - Resolvido em: 10:00 - 25/07/26
 
 - [#192 Word Frequency](https://leetcode.com/problems/word-frequency/)
   - Question ID: 192
