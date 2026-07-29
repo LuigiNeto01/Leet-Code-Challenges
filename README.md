@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 367
+Total de questoes resolvidas: 368
 
 ### Easy
 
@@ -531,6 +531,11 @@ Total de questoes resolvidas: 367
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#388 Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)
+  - Question ID: 388
+  - Arquivo: `problems/medium/388_longest-absolute-file-path.py`
+  - Resolvido em: 10:05 - 29/07/26
 
 - [#464 Can I Win](https://leetcode.com/problems/can-i-win/)
   - Question ID: 464
