@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 368
+Total de questoes resolvidas: 369
 
 ### Easy
 
@@ -531,6 +531,11 @@ Total de questoes resolvidas: 368
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#16 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+  - Question ID: 16
+  - Arquivo: `problems/medium/16_3sum-closest.py`
+  - Resolvido em: 19:01 - 29/07/26
 
 - [#388 Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)
   - Question ID: 388
