@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 370
+Total de questoes resolvidas: 371
 
 ### Easy
 
@@ -1588,6 +1588,11 @@ Total de questoes resolvidas: 370
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#329 Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
+  - Question ID: 329
+  - Arquivo: `problems/hard/329_longest-increasing-path-in-a-matrix.py`
+  - Resolvido em: 14:06 - 17/08/26
 
 - [#363 Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
   - Question ID: 363
