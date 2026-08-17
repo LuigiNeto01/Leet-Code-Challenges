@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 371
+Total de questoes resolvidas: 372
 
 ### Easy
+
+- [#195 Tenth Line](https://leetcode.com/problems/tenth-line/)
+  - Question ID: 195
+  - Arquivo: `problems/easy/195_tenth-line.py`
+  - Resolvido em: 17:15 - 17/08/26
 
 - [#118 Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
   - Question ID: 118
