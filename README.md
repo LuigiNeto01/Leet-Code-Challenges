@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 372
+Total de questoes resolvidas: 373
 
 ### Easy
 
@@ -1593,6 +1593,11 @@ Total de questoes resolvidas: 372
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#591 Tag Validator](https://leetcode.com/problems/tag-validator/)
+  - Question ID: 591
+  - Arquivo: `problems/hard/591_tag-validator.py`
+  - Resolvido em: 13:31 - 03/09/26
 
 - [#329 Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
   - Question ID: 329
