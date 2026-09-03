@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 375
+Total de questoes resolvidas: 376
 
 ### Easy
 
@@ -541,6 +541,11 @@ Total de questoes resolvidas: 375
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#539 Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
+  - Question ID: 539
+  - Arquivo: `problems/medium/539_minimum-time-difference.py`
+  - Resolvido em: 22:13 - 03/09/26
 
 - [#593 Valid Square](https://leetcode.com/problems/valid-square/)
   - Question ID: 593
