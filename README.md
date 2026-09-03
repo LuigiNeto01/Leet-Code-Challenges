@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 374
+Total de questoes resolvidas: 375
 
 ### Easy
+
+- [#521 Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)
+  - Question ID: 521
+  - Arquivo: `problems/easy/521_longest-uncommon-subsequence-i.py`
+  - Resolvido em: 18:01 - 03/09/26
 
 - [#195 Tenth Line](https://leetcode.com/problems/tenth-line/)
   - Question ID: 195
