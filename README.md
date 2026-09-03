@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 373
+Total de questoes resolvidas: 374
 
 ### Easy
 
@@ -536,6 +536,11 @@ Total de questoes resolvidas: 373
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#593 Valid Square](https://leetcode.com/problems/valid-square/)
+  - Question ID: 593
+  - Arquivo: `problems/medium/593_valid-square.py`
+  - Resolvido em: 15:31 - 03/09/26
 
 - [#194 Transpose File](https://leetcode.com/problems/transpose-file/)
   - Question ID: 194
