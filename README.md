@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 382
+Total de questoes resolvidas: 383
 
 ### Easy
 
@@ -556,6 +556,11 @@ Total de questoes resolvidas: 382
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#592 Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/)
+  - Question ID: 592
+  - Arquivo: `problems/medium/592_fraction-addition-and-subtraction.py`
+  - Resolvido em: 22:00 - 04/09/26
 
 - [#547 Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
   - Question ID: 547
