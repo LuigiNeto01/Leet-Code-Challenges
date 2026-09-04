@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 381
+Total de questoes resolvidas: 382
 
 ### Easy
+
+- [#566 Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
+  - Question ID: 566
+  - Arquivo: `problems/easy/566_reshape-the-matrix.py`
+  - Resolvido em: 20:31 - 04/09/26
 
 - [#541 Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
   - Question ID: 541
