@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 379
+Total de questoes resolvidas: 380
 
 ### Easy
+
+- [#541 Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
+  - Question ID: 541
+  - Arquivo: `problems/easy/541_reverse-string-ii.py`
+  - Resolvido em: 12:30 - 04/09/26
 
 - [#599 Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)
   - Question ID: 599
