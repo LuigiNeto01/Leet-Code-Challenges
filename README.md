@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 377
+Total de questoes resolvidas: 378
 
 ### Easy
+
+- [#599 Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)
+  - Question ID: 599
+  - Arquivo: `problems/easy/599_minimum-index-sum-of-two-lists.py`
+  - Resolvido em: 04:03 - 04/09/26
 
 - [#521 Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)
   - Question ID: 521
