@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 380
+Total de questoes resolvidas: 381
 
 ### Easy
 
@@ -551,6 +551,11 @@ Total de questoes resolvidas: 380
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#547 Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
+  - Question ID: 547
+  - Arquivo: `problems/medium/547_number-of-provinces.py`
+  - Resolvido em: 16:05 - 04/09/26
 
 - [#542 01 Matrix](https://leetcode.com/problems/01-matrix/)
   - Question ID: 542
