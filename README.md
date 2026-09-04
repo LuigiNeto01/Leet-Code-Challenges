@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 376
+Total de questoes resolvidas: 377
 
 ### Easy
 
@@ -541,6 +541,11 @@ Total de questoes resolvidas: 376
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#522 Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)
+  - Question ID: 522
+  - Arquivo: `problems/medium/522_longest-uncommon-subsequence-ii.py`
+  - Resolvido em: 00:01 - 04/09/26
 
 - [#539 Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
   - Question ID: 539
