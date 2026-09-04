@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 378
+Total de questoes resolvidas: 379
 
 ### Easy
 
@@ -546,6 +546,11 @@ Total de questoes resolvidas: 378
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#542 01 Matrix](https://leetcode.com/problems/01-matrix/)
+  - Question ID: 542
+  - Arquivo: `problems/medium/542_01-matrix.py`
+  - Resolvido em: 08:01 - 04/09/26
 
 - [#522 Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)
   - Question ID: 522
