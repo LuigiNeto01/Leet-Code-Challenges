@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 385
+Total de questoes resolvidas: 386
 
 ### Easy
 
@@ -556,6 +556,11 @@ Total de questoes resolvidas: 385
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#503 Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
+  - Question ID: 503
+  - Arquivo: `problems/medium/503_next-greater-element-ii.py`
+  - Resolvido em: 10:02 - 05/09/26
 
 - [#515 Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
   - Question ID: 515
