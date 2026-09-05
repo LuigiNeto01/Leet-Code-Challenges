@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 387
+Total de questoes resolvidas: 388
 
 ### Easy
+
+- [#1013 Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+  - Question ID: 1013
+  - Arquivo: `problems/easy/509_fibonacci-number.py`
+  - Resolvido em: 18:09 - 05/09/26
 
 - [#506 Relative Ranks](https://leetcode.com/problems/relative-ranks/)
   - Question ID: 506
