@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 383
+Total de questoes resolvidas: 384
 
 ### Easy
 
@@ -556,6 +556,11 @@ Total de questoes resolvidas: 383
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#515 Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
+  - Question ID: 515
+  - Arquivo: `problems/medium/515_find-largest-value-in-each-tree-row.py`
+  - Resolvido em: 00:00 - 05/09/26
 
 - [#592 Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/)
   - Question ID: 592
