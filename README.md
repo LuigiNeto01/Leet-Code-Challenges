@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 386
+Total de questoes resolvidas: 387
 
 ### Easy
+
+- [#506 Relative Ranks](https://leetcode.com/problems/relative-ranks/)
+  - Question ID: 506
+  - Arquivo: `problems/easy/506_relative-ranks.py`
+  - Resolvido em: 14:00 - 05/09/26
 
 - [#566 Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
   - Question ID: 566
