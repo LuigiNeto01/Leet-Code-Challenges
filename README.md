@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 384
+Total de questoes resolvidas: 385
 
 ### Easy
 
@@ -1648,6 +1648,11 @@ Total de questoes resolvidas: 384
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#600 Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)
+  - Question ID: 600
+  - Arquivo: `problems/hard/600_non-negative-integers-without-consecutive-ones.py`
+  - Resolvido em: 06:01 - 05/09/26
 
 - [#591 Tag Validator](https://leetcode.com/problems/tag-validator/)
   - Question ID: 591
