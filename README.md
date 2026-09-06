@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 392
+Total de questoes resolvidas: 393
 
 ### Easy
 
@@ -576,6 +576,11 @@ Total de questoes resolvidas: 392
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#567 Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+  - Question ID: 567
+  - Arquivo: `problems/medium/567_permutation-in-string.py`
+  - Resolvido em: 19:00 - 06/09/26
 
 - [#583 Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
   - Question ID: 583
