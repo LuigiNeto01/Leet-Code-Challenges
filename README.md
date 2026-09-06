@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 391
+Total de questoes resolvidas: 392
 
 ### Easy
+
+- [#617 Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
+  - Question ID: 617
+  - Arquivo: `problems/easy/617_merge-two-binary-trees.py`
+  - Resolvido em: 15:09 - 06/09/26
 
 - [#598 Range Addition II](https://leetcode.com/problems/range-addition-ii/)
   - Question ID: 598
