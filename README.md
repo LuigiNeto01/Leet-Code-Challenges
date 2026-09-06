@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 389
+Total de questoes resolvidas: 390
 
 ### Easy
+
+- [#598 Range Addition II](https://leetcode.com/problems/range-addition-ii/)
+  - Question ID: 598
+  - Arquivo: `problems/easy/598_range-addition-ii.py`
+  - Resolvido em: 07:35 - 06/09/26
 
 - [#1013 Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
   - Question ID: 1013
