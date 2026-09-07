@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 395
+Total de questoes resolvidas: 396
 
 ### Easy
 
@@ -581,6 +581,11 @@ Total de questoes resolvidas: 395
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#518 Coin Change II](https://leetcode.com/problems/coin-change-ii/)
+  - Question ID: 518
+  - Arquivo: `problems/medium/518_coin-change-ii.py`
+  - Resolvido em: 10:04 - 07/09/26
 
 - [#913 Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/)
   - Question ID: 913
