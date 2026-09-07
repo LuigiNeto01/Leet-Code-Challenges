@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 398
+Total de questoes resolvidas: 399
 
 ### Easy
 
@@ -586,6 +586,11 @@ Total de questoes resolvidas: 398
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#640 Solve the Equation](https://leetcode.com/problems/solve-the-equation/)
+  - Question ID: 640
+  - Arquivo: `problems/medium/640_solve-the-equation.py`
+  - Resolvido em: 22:34 - 07/09/26
 
 - [#513 Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
   - Question ID: 513
