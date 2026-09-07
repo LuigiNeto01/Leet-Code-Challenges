@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 394
+Total de questoes resolvidas: 395
 
 ### Easy
+
+- [#561 Array Partition](https://leetcode.com/problems/array-partition/)
+  - Question ID: 561
+  - Arquivo: `problems/easy/561_array-partition.py`
+  - Resolvido em: 06:00 - 07/09/26
 
 - [#617 Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
   - Question ID: 617
