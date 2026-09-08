@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 401
+Total de questoes resolvidas: 402
 
 ### Easy
 
@@ -586,6 +586,11 @@ Total de questoes resolvidas: 401
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#508 Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)
+  - Question ID: 508
+  - Arquivo: `problems/medium/508_most-frequent-subtree-sum.py`
+  - Resolvido em: 14:05 - 08/09/26
 
 - [#535 Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
   - Question ID: 535
