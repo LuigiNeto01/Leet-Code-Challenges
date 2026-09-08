@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 403
+Total de questoes resolvidas: 404
 
 ### Easy
 
@@ -586,6 +586,11 @@ Total de questoes resolvidas: 403
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#624 Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/)
+  - Question ID: 624
+  - Arquivo: `problems/medium/624_maximum-distance-in-arrays.py`
+  - Resolvido em: 20:00 - 08/09/26
 
 - [#532 K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
   - Question ID: 532
