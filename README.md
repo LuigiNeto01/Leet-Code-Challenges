@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 400
+Total de questoes resolvidas: 401
 
 ### Easy
 
@@ -586,6 +586,11 @@ Total de questoes resolvidas: 400
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#535 Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
+  - Question ID: 535
+  - Arquivo: `problems/medium/535_encode-and-decode-tinyurl.py`
+  - Resolvido em: 12:16 - 08/09/26
 
 - [#638 Shopping Offers](https://leetcode.com/problems/shopping-offers/)
   - Question ID: 638
