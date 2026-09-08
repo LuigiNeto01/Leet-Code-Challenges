@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 402
+Total de questoes resolvidas: 403
 
 ### Easy
 
@@ -586,6 +586,11 @@ Total de questoes resolvidas: 402
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#532 K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
+  - Question ID: 532
+  - Arquivo: `problems/medium/532_k-diff-pairs-in-an-array.py`
+  - Resolvido em: 17:00 - 08/09/26
 
 - [#508 Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)
   - Question ID: 508
