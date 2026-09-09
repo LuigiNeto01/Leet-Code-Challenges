@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 406
+Total de questoes resolvidas: 407
 
 ### Easy
 
@@ -586,6 +586,11 @@ Total de questoes resolvidas: 406
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#621 Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+  - Question ID: 621
+  - Arquivo: `problems/medium/621_task-scheduler.py`
+  - Resolvido em: 10:12 - 09/09/26
 
 - [#554 Brick Wall](https://leetcode.com/problems/brick-wall/)
   - Question ID: 554
