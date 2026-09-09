@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 405
+Total de questoes resolvidas: 406
 
 ### Easy
 
@@ -586,6 +586,11 @@ Total de questoes resolvidas: 405
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#554 Brick Wall](https://leetcode.com/problems/brick-wall/)
+  - Question ID: 554
+  - Arquivo: `problems/medium/554_brick-wall.py`
+  - Resolvido em: 08:07 - 09/09/26
 
 - [#525 Contiguous Array](https://leetcode.com/problems/contiguous-array/)
   - Question ID: 525
