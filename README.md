@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 409
+Total de questoes resolvidas: 410
 
 ### Easy
+
+- [#605 Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
+  - Question ID: 605
+  - Arquivo: `problems/easy/605_can-place-flowers.py`
+  - Resolvido em: 19:15 - 09/09/26
 
 - [#557 Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
   - Question ID: 557
