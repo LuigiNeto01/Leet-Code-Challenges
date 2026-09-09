@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 404
+Total de questoes resolvidas: 405
 
 ### Easy
 
@@ -586,6 +586,11 @@ Total de questoes resolvidas: 404
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#525 Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+  - Question ID: 525
+  - Arquivo: `problems/medium/525_contiguous-array.py`
+  - Resolvido em: 00:02 - 09/09/26
 
 - [#624 Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/)
   - Question ID: 624
