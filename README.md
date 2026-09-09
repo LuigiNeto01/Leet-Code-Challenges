@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 410
+Total de questoes resolvidas: 411
 
 ### Easy
 
@@ -591,6 +591,11 @@ Total de questoes resolvidas: 410
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#648 Replace Words](https://leetcode.com/problems/replace-words/)
+  - Question ID: 648
+  - Arquivo: `problems/medium/648_replace-words.py`
+  - Resolvido em: 23:03 - 09/09/26
 
 - [#611 Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)
   - Question ID: 611
