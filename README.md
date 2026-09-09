@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 408
+Total de questoes resolvidas: 409
 
 ### Easy
 
@@ -586,6 +586,11 @@ Total de questoes resolvidas: 408
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#611 Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)
+  - Question ID: 611
+  - Arquivo: `problems/medium/611_valid-triangle-number.py`
+  - Resolvido em: 16:04 - 09/09/26
 
 - [#773 Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/)
   - Question ID: 773
