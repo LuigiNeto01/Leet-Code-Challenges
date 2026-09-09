@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 407
+Total de questoes resolvidas: 408
 
 ### Easy
 
@@ -586,6 +586,11 @@ Total de questoes resolvidas: 407
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#773 Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/)
+  - Question ID: 773
+  - Arquivo: `problems/medium/558_logical-or-of-two-binary-grids-represented-as-quad-trees.py`
+  - Resolvido em: 13:13 - 09/09/26
 
 - [#621 Task Scheduler](https://leetcode.com/problems/task-scheduler/)
   - Question ID: 621
