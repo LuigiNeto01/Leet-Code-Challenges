@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 413
+Total de questoes resolvidas: 414
 
 ### Easy
 
@@ -591,6 +591,11 @@ Total de questoes resolvidas: 413
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#647 Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+  - Question ID: 647
+  - Arquivo: `problems/medium/647_palindromic-substrings.py`
+  - Resolvido em: 15:31 - 10/09/26
 
 - [#649 Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
   - Question ID: 649
