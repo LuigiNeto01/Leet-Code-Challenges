@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 414
+Total de questoes resolvidas: 415
 
 ### Easy
 
@@ -591,6 +591,11 @@ Total de questoes resolvidas: 414
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#560 Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+  - Question ID: 560
+  - Arquivo: `problems/medium/560_subarray-sum-equals-k.py`
+  - Resolvido em: 18:02 - 10/09/26
 
 - [#647 Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
   - Question ID: 647
