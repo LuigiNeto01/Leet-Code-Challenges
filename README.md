@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 415
+Total de questoes resolvidas: 416
 
 ### Easy
 
@@ -1798,6 +1798,11 @@ Total de questoes resolvidas: 415
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#514 Freedom Trail](https://leetcode.com/problems/freedom-trail/)
+  - Question ID: 514
+  - Arquivo: `problems/hard/514_freedom-trail.py`
+  - Resolvido em: 22:05 - 10/09/26
 
 - [#600 Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)
   - Question ID: 600
