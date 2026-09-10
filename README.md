@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 411
+Total de questoes resolvidas: 412
 
 ### Easy
 
@@ -591,6 +591,11 @@ Total de questoes resolvidas: 411
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#650 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)
+  - Question ID: 650
+  - Arquivo: `problems/medium/650_2-keys-keyboard.py`
+  - Resolvido em: 06:12 - 10/09/26
 
 - [#648 Replace Words](https://leetcode.com/problems/replace-words/)
   - Question ID: 648
