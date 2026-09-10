@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 412
+Total de questoes resolvidas: 413
 
 ### Easy
 
@@ -591,6 +591,11 @@ Total de questoes resolvidas: 412
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#649 Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
+  - Question ID: 649
+  - Arquivo: `problems/medium/649_dota2-senate.py`
+  - Resolvido em: 11:34 - 10/09/26
 
 - [#650 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)
   - Question ID: 650
