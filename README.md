@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 419
+Total de questoes resolvidas: 420
 
 ### Easy
 
@@ -591,6 +591,11 @@ Total de questoes resolvidas: 419
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#553 Optimal Division](https://leetcode.com/problems/optimal-division/)
+  - Question ID: 553
+  - Arquivo: `problems/medium/553_optimal-division.py`
+  - Resolvido em: 12:31 - 11/09/26
 
 - [#860 Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
   - Question ID: 860
