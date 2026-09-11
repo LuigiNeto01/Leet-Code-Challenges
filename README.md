@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 416
+Total de questoes resolvidas: 417
 
 ### Easy
 
@@ -1798,6 +1798,11 @@ Total de questoes resolvidas: 416
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#679 24 Game](https://leetcode.com/problems/24-game/)
+  - Question ID: 679
+  - Arquivo: `problems/hard/679_24-game.py`
+  - Resolvido em: 00:02 - 11/09/26
 
 - [#514 Freedom Trail](https://leetcode.com/problems/freedom-trail/)
   - Question ID: 514
