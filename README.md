@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 420
+Total de questoes resolvidas: 421
 
 ### Easy
 
@@ -1813,6 +1813,11 @@ Total de questoes resolvidas: 420
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#632 Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
+  - Question ID: 632
+  - Arquivo: `problems/hard/632_smallest-range-covering-elements-from-k-lists.py`
+  - Resolvido em: 16:00 - 11/09/26
 
 - [#679 24 Game](https://leetcode.com/problems/24-game/)
   - Question ID: 679
