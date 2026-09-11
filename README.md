@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 421
+Total de questoes resolvidas: 422
 
 ### Easy
 
@@ -1813,6 +1813,11 @@ Total de questoes resolvidas: 421
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#691 Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/)
+  - Question ID: 691
+  - Arquivo: `problems/hard/691_stickers-to-spell-word.py`
+  - Resolvido em: 20:36 - 11/09/26
 
 - [#632 Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
   - Question ID: 632
