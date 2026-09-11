@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 417
+Total de questoes resolvidas: 418
 
 ### Easy
 
@@ -591,6 +591,11 @@ Total de questoes resolvidas: 417
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#677 Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)
+  - Question ID: 677
+  - Arquivo: `problems/medium/677_map-sum-pairs.py`
+  - Resolvido em: 04:16 - 11/09/26
 
 - [#560 Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
   - Question ID: 560
