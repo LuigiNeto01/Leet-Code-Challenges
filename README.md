@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 422
+Total de questoes resolvidas: 423
 
 ### Easy
 
@@ -591,6 +591,11 @@ Total de questoes resolvidas: 422
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#684 Redundant Connection](https://leetcode.com/problems/redundant-connection/)
+  - Question ID: 684
+  - Arquivo: `problems/medium/684_redundant-connection.py`
+  - Resolvido em: 22:11 - 11/09/26
 
 - [#553 Optimal Division](https://leetcode.com/problems/optimal-division/)
   - Question ID: 553
