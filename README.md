@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 425
+Total de questoes resolvidas: 426
 
 ### Easy
 
@@ -591,6 +591,11 @@ Total de questoes resolvidas: 425
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#633 Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)
+  - Question ID: 633
+  - Arquivo: `problems/medium/633_sum-of-square-numbers.py`
+  - Resolvido em: 10:05 - 12/09/26
 
 - [#667 Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/)
   - Question ID: 667
