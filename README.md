@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 426
+Total de questoes resolvidas: 427
 
 ### Easy
 
@@ -1833,6 +1833,11 @@ Total de questoes resolvidas: 426
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#675 Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/)
+  - Question ID: 675
+  - Arquivo: `problems/hard/675_cut-off-trees-for-golf-event.py`
+  - Resolvido em: 14:08 - 12/09/26
 
 - [#691 Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/)
   - Question ID: 691
