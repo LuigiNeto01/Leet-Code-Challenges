@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 423
+Total de questoes resolvidas: 424
 
 ### Easy
 
@@ -591,6 +591,11 @@ Total de questoes resolvidas: 423
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#698 Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
+  - Question ID: 698
+  - Arquivo: `problems/medium/698_partition-to-k-equal-sum-subsets.py`
+  - Resolvido em: 00:01 - 12/09/26
 
 - [#684 Redundant Connection](https://leetcode.com/problems/redundant-connection/)
   - Question ID: 684
