@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 424
+Total de questoes resolvidas: 425
 
 ### Easy
 
@@ -591,6 +591,11 @@ Total de questoes resolvidas: 424
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#667 Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/)
+  - Question ID: 667
+  - Arquivo: `problems/medium/667_beautiful-arrangement-ii.py`
+  - Resolvido em: 06:00 - 12/09/26
 
 - [#698 Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
   - Question ID: 698
