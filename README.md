@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 428
+Total de questoes resolvidas: 429
 
 ### Easy
 
@@ -596,6 +596,11 @@ Total de questoes resolvidas: 428
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#688 Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)
+  - Question ID: 688
+  - Arquivo: `problems/medium/688_knight-probability-in-chessboard.py`
+  - Resolvido em: 22:35 - 12/09/26
 
 - [#633 Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)
   - Question ID: 633
