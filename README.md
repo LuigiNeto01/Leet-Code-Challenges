@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 429
+Total de questoes resolvidas: 430
 
 ### Easy
+
+- [#697 Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)
+  - Question ID: 697
+  - Arquivo: `problems/easy/697_degree-of-an-array.py`
+  - Resolvido em: 07:30 - 13/09/26
 
 - [#783 Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
   - Question ID: 783
