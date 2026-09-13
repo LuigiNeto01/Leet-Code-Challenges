@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 432
+Total de questoes resolvidas: 433
 
 ### Easy
+
+- [#693 Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
+  - Question ID: 693
+  - Arquivo: `problems/easy/693_binary-number-with-alternating-bits.py`
+  - Resolvido em: 19:01 - 13/09/26
 
 - [#696 Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
   - Question ID: 696
