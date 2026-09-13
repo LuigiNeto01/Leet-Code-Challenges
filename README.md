@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 433
+Total de questoes resolvidas: 434
 
 ### Easy
+
+- [#645 Set Mismatch](https://leetcode.com/problems/set-mismatch/)
+  - Question ID: 645
+  - Arquivo: `problems/easy/645_set-mismatch.py`
+  - Resolvido em: 21:02 - 13/09/26
 
 - [#693 Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
   - Question ID: 693
