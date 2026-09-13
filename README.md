@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 430
+Total de questoes resolvidas: 431
 
 ### Easy
+
+- [#696 Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
+  - Question ID: 696
+  - Arquivo: `problems/easy/696_count-binary-substrings.py`
+  - Resolvido em: 12:16 - 13/09/26
 
 - [#697 Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)
   - Question ID: 697
