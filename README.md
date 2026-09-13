@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 431
+Total de questoes resolvidas: 432
 
 ### Easy
 
@@ -606,6 +606,11 @@ Total de questoes resolvidas: 431
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#523 Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
+  - Question ID: 523
+  - Arquivo: `problems/medium/523_continuous-subarray-sum.py`
+  - Resolvido em: 15:00 - 13/09/26
 
 - [#688 Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)
   - Question ID: 688
