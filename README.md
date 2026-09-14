@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 438
+Total de questoes resolvidas: 439
 
 ### Easy
+
+- [#594 Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
+  - Question ID: 594
+  - Arquivo: `problems/easy/594_longest-harmonious-subsequence.py`
+  - Resolvido em: 22:31 - 14/09/26
 
 - [#661 Image Smoother](https://leetcode.com/problems/image-smoother/)
   - Question ID: 661
