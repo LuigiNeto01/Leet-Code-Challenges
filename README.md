@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 434
+Total de questoes resolvidas: 435
 
 ### Easy
+
+- [#661 Image Smoother](https://leetcode.com/problems/image-smoother/)
+  - Question ID: 661
+  - Arquivo: `problems/easy/661_image-smoother.py`
+  - Resolvido em: 06:07 - 14/09/26
 
 - [#645 Set Mismatch](https://leetcode.com/problems/set-mismatch/)
   - Question ID: 645
