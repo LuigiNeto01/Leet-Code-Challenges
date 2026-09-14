@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 435
+Total de questoes resolvidas: 436
 
 ### Easy
 
@@ -621,6 +621,11 @@ Total de questoes resolvidas: 435
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#540 Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+  - Question ID: 540
+  - Arquivo: `problems/medium/540_single-element-in-a-sorted-array.py`
+  - Resolvido em: 10:03 - 14/09/26
 
 - [#523 Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
   - Question ID: 523
