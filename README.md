@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 437
+Total de questoes resolvidas: 438
 
 ### Easy
 
@@ -621,6 +621,11 @@ Total de questoes resolvidas: 437
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#537 Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)
+  - Question ID: 537
+  - Arquivo: `problems/medium/537_complex-number-multiplication.py`
+  - Resolvido em: 17:01 - 14/09/26
 
 - [#646 Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
   - Question ID: 646
