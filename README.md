@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 436
+Total de questoes resolvidas: 437
 
 ### Easy
 
@@ -621,6 +621,11 @@ Total de questoes resolvidas: 436
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#646 Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
+  - Question ID: 646
+  - Arquivo: `problems/medium/646_maximum-length-of-pair-chain.py`
+  - Resolvido em: 14:00 - 14/09/26
 
 - [#540 Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
   - Question ID: 540
