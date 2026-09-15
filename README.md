@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 440
+Total de questoes resolvidas: 441
 
 ### Easy
 
@@ -1898,6 +1898,11 @@ Total de questoes resolvidas: 440
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#664 Strange Printer](https://leetcode.com/problems/strange-printer/)
+  - Question ID: 664
+  - Arquivo: `problems/hard/664_strange-printer.py`
+  - Resolvido em: 12:07 - 15/09/26
 
 - [#675 Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/)
   - Question ID: 675
