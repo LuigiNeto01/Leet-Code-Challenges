@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 442
+Total de questoes resolvidas: 443
 
 ### Easy
+
+- [#507 Perfect Number](https://leetcode.com/problems/perfect-number/)
+  - Question ID: 507
+  - Arquivo: `problems/easy/507_perfect-number.py`
+  - Resolvido em: 17:00 - 15/09/26
 
 - [#643 Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
   - Question ID: 643
