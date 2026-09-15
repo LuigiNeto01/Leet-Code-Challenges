@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 443
+Total de questoes resolvidas: 444
 
 ### Easy
 
@@ -641,6 +641,11 @@ Total de questoes resolvidas: 443
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#673 Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+  - Question ID: 673
+  - Arquivo: `problems/medium/673_number-of-longest-increasing-subsequence.py`
+  - Resolvido em: 20:00 - 15/09/26
 
 - [#537 Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)
   - Question ID: 537
