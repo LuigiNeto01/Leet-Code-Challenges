@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 441
+Total de questoes resolvidas: 442
 
 ### Easy
+
+- [#643 Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
+  - Question ID: 643
+  - Arquivo: `problems/easy/643_maximum-average-subarray-i.py`
+  - Resolvido em: 14:01 - 15/09/26
 
 - [#671 Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
   - Question ID: 671
