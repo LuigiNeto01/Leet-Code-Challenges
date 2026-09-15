@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 439
+Total de questoes resolvidas: 440
 
 ### Easy
+
+- [#671 Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
+  - Question ID: 671
+  - Arquivo: `problems/easy/671_second-minimum-node-in-a-binary-tree.py`
+  - Resolvido em: 09:04 - 15/09/26
 
 - [#594 Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
   - Question ID: 594
