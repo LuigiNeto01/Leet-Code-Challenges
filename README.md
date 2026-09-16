@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 448
+Total de questoes resolvidas: 449
 
 ### Easy
 
@@ -646,6 +646,11 @@ Total de questoes resolvidas: 448
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#912 Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
+  - Question ID: 912
+  - Arquivo: `problems/medium/528_random-pick-with-weight.py`
+  - Resolvido em: 16:02 - 16/09/26
 
 - [#658 Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
   - Question ID: 658
