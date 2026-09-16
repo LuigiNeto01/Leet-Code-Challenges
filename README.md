@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 450
+Total de questoes resolvidas: 451
 
 ### Easy
 
@@ -651,6 +651,11 @@ Total de questoes resolvidas: 450
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#662 Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
+  - Question ID: 662
+  - Arquivo: `problems/medium/662_maximum-width-of-binary-tree.py`
+  - Resolvido em: 23:01 - 16/09/26
 
 - [#912 Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
   - Question ID: 912
