@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 445
+Total de questoes resolvidas: 446
 
 ### Easy
 
@@ -1918,6 +1918,11 @@ Total de questoes resolvidas: 445
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#668 Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)
+  - Question ID: 668
+  - Arquivo: `problems/hard/668_kth-smallest-number-in-multiplication-table.py`
+  - Resolvido em: 08:00 - 16/09/26
 
 - [#664 Strange Printer](https://leetcode.com/problems/strange-printer/)
   - Question ID: 664
