@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 446
+Total de questoes resolvidas: 447
 
 ### Easy
+
+- [#680 Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+  - Question ID: 680
+  - Arquivo: `problems/easy/680_valid-palindrome-ii.py`
+  - Resolvido em: 10:11 - 16/09/26
 
 - [#507 Perfect Number](https://leetcode.com/problems/perfect-number/)
   - Question ID: 507
