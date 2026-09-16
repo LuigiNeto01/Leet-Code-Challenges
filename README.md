@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 444
+Total de questoes resolvidas: 445
 
 ### Easy
 
@@ -641,6 +641,11 @@ Total de questoes resolvidas: 444
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#670 Maximum Swap](https://leetcode.com/problems/maximum-swap/)
+  - Question ID: 670
+  - Arquivo: `problems/medium/670_maximum-swap.py`
+  - Resolvido em: 00:00 - 16/09/26
 
 - [#673 Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
   - Question ID: 673
