@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 447
+Total de questoes resolvidas: 448
 
 ### Easy
 
@@ -646,6 +646,11 @@ Total de questoes resolvidas: 447
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#658 Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
+  - Question ID: 658
+  - Arquivo: `problems/medium/658_find-k-closest-elements.py`
+  - Resolvido em: 13:01 - 16/09/26
 
 - [#670 Maximum Swap](https://leetcode.com/problems/maximum-swap/)
   - Question ID: 670
