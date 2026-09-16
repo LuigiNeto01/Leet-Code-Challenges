@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 449
+Total de questoes resolvidas: 450
 
 ### Easy
+
+- [#682 Baseball Game](https://leetcode.com/problems/baseball-game/)
+  - Question ID: 682
+  - Arquivo: `problems/easy/682_baseball-game.py`
+  - Resolvido em: 19:01 - 16/09/26
 
 - [#680 Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
   - Question ID: 680
