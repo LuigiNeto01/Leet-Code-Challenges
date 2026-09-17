@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 453
+Total de questoes resolvidas: 454
 
 ### Easy
+
+- [#657 Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
+  - Question ID: 657
+  - Arquivo: `problems/easy/657_robot-return-to-origin.py`
+  - Resolvido em: 16:23 - 17/09/26
 
 - [#682 Baseball Game](https://leetcode.com/problems/baseball-game/)
   - Question ID: 682
