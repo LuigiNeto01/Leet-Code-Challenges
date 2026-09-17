@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 451
+Total de questoes resolvidas: 452
 
 ### Easy
 
@@ -1943,6 +1943,11 @@ Total de questoes resolvidas: 451
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#517 Super Washing Machines](https://leetcode.com/problems/super-washing-machines/)
+  - Question ID: 517
+  - Arquivo: `problems/hard/517_super-washing-machines.py`
+  - Resolvido em: 06:13 - 17/09/26
 
 - [#668 Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)
   - Question ID: 668
