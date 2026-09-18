@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 462
+Total de questoes resolvidas: 463
 
 ### Easy
+
+- [#717 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)
+  - Question ID: 717
+  - Arquivo: `problems/easy/717_1-bit-and-2-bit-characters.py`
+  - Resolvido em: 22:02 - 18/09/26
 
 - [#774 Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
   - Question ID: 774
