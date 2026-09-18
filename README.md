@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 459
+Total de questoes resolvidas: 460
 
 ### Easy
 
@@ -666,6 +666,11 @@ Total de questoes resolvidas: 459
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#581 Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+  - Question ID: 581
+  - Arquivo: `problems/medium/581_shortest-unsorted-continuous-subarray.py`
+  - Resolvido em: 12:30 - 18/09/26
 
 - [#516 Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
   - Question ID: 516
