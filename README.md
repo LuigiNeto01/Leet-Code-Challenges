@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 458
+Total de questoes resolvidas: 459
 
 ### Easy
 
@@ -666,6 +666,11 @@ Total de questoes resolvidas: 458
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#516 Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
+  - Question ID: 516
+  - Arquivo: `problems/medium/516_longest-palindromic-subsequence.py`
+  - Resolvido em: 08:02 - 18/09/26
 
 - [#669 Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)
   - Question ID: 669
