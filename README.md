@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 461
+Total de questoes resolvidas: 462
 
 ### Easy
 
@@ -666,6 +666,11 @@ Total de questoes resolvidas: 461
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#695 Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+  - Question ID: 695
+  - Arquivo: `problems/medium/695_max-area-of-island.py`
+  - Resolvido em: 20:31 - 18/09/26
 
 - [#714 Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
   - Question ID: 714
