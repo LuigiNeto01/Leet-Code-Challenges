@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 456
+Total de questoes resolvidas: 457
 
 ### Easy
 
@@ -1963,6 +1963,11 @@ Total de questoes resolvidas: 456
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#546 Remove Boxes](https://leetcode.com/problems/remove-boxes/)
+  - Question ID: 546
+  - Arquivo: `problems/hard/546_remove-boxes.py`
+  - Resolvido em: 00:01 - 18/09/26
 
 - [#517 Super Washing Machines](https://leetcode.com/problems/super-washing-machines/)
   - Question ID: 517
