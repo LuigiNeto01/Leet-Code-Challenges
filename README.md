@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 457
+Total de questoes resolvidas: 458
 
 ### Easy
+
+- [#774 Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
+  - Question ID: 774
+  - Arquivo: `problems/easy/559_maximum-depth-of-n-ary-tree.py`
+  - Resolvido em: 04:03 - 18/09/26
 
 - [#520 Detect Capital](https://leetcode.com/problems/detect-capital/)
   - Question ID: 520
