@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 460
+Total de questoes resolvidas: 461
 
 ### Easy
 
@@ -666,6 +666,11 @@ Total de questoes resolvidas: 460
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#714 Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
+  - Question ID: 714
+  - Arquivo: `problems/medium/714_best-time-to-buy-and-sell-stock-with-transaction-fee.py`
+  - Resolvido em: 16:16 - 18/09/26
 
 - [#581 Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
   - Question ID: 581
