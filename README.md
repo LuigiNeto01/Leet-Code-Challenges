@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 463
+Total de questoes resolvidas: 464
 
 ### Easy
 
@@ -1993,6 +1993,11 @@ Total de questoes resolvidas: 463
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#564 Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/)
+  - Question ID: 564
+  - Arquivo: `problems/hard/564_find-the-closest-palindrome.py`
+  - Resolvido em: 00:07 - 19/09/26
 
 - [#546 Remove Boxes](https://leetcode.com/problems/remove-boxes/)
   - Question ID: 546
