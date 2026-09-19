@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 465
+Total de questoes resolvidas: 466
 
 ### Easy
 
@@ -671,6 +671,11 @@ Total de questoes resolvidas: 465
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#606 Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
+  - Question ID: 606
+  - Arquivo: `problems/medium/606_construct-string-from-binary-tree.py`
+  - Resolvido em: 10:02 - 19/09/26
 
 - [#695 Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
   - Question ID: 695
