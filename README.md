@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 467
+Total de questoes resolvidas: 468
 
 ### Easy
 
@@ -671,6 +671,11 @@ Total de questoes resolvidas: 467
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#524 Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)
+  - Question ID: 524
+  - Arquivo: `problems/medium/524_longest-word-in-dictionary-through-deleting.py`
+  - Resolvido em: 18:17 - 19/09/26
 
 - [#838 Design Linked List](https://leetcode.com/problems/design-linked-list/)
   - Question ID: 838
