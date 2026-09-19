@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 468
+Total de questoes resolvidas: 469
 
 ### Easy
 
@@ -671,6 +671,11 @@ Total de questoes resolvidas: 468
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#538 Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
+  - Question ID: 538
+  - Arquivo: `problems/medium/538_convert-bst-to-greater-tree.py`
+  - Resolvido em: 22:43 - 19/09/26
 
 - [#524 Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)
   - Question ID: 524
