@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 464
+Total de questoes resolvidas: 465
 
 ### Easy
 
@@ -1993,6 +1993,11 @@ Total de questoes resolvidas: 464
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#750 Contain Virus](https://leetcode.com/problems/contain-virus/)
+  - Question ID: 750
+  - Arquivo: `problems/hard/749_contain-virus.py`
+  - Resolvido em: 06:04 - 19/09/26
 
 - [#564 Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/)
   - Question ID: 564
