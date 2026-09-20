@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 473
+Total de questoes resolvidas: 474
 
 ### Easy
 
@@ -676,6 +676,11 @@ Total de questoes resolvidas: 473
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#718 Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
+  - Question ID: 718
+  - Arquivo: `problems/medium/718_maximum-length-of-repeated-subarray.py`
+  - Resolvido em: 21:28 - 20/09/26
 
 - [#859 Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)
   - Question ID: 859
