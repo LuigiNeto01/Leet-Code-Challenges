@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 469
+Total de questoes resolvidas: 470
 
 ### Easy
+
+- [#747 Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+  - Question ID: 747
+  - Arquivo: `problems/easy/746_min-cost-climbing-stairs.py`
+  - Resolvido em: 07:40 - 20/09/26
 
 - [#717 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)
   - Question ID: 717
