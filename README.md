@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 470
+Total de questoes resolvidas: 471
 
 ### Easy
 
@@ -2018,6 +2018,11 @@ Total de questoes resolvidas: 470
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#719 Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)
+  - Question ID: 719
+  - Arquivo: `problems/hard/719_find-k-th-smallest-pair-distance.py`
+  - Resolvido em: 12:05 - 20/09/26
 
 - [#750 Contain Virus](https://leetcode.com/problems/contain-virus/)
   - Question ID: 750
