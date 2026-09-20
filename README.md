@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 471
+Total de questoes resolvidas: 472
 
 ### Easy
 
@@ -676,6 +676,11 @@ Total de questoes resolvidas: 471
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#859 Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)
+  - Question ID: 859
+  - Arquivo: `problems/medium/641_design-circular-deque.py`
+  - Resolvido em: 15:01 - 20/09/26
 
 - [#538 Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
   - Question ID: 538
