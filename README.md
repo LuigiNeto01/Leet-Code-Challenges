@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 474
+Total de questoes resolvidas: 475
 
 ### Easy
+
+- [#776 N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
+  - Question ID: 776
+  - Arquivo: `problems/easy/590_n-ary-tree-postorder-traversal.py`
+  - Resolvido em: 06:01 - 21/09/26
 
 - [#747 Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
   - Question ID: 747
