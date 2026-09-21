@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 477
+Total de questoes resolvidas: 478
 
 ### Easy
 
@@ -681,6 +681,11 @@ Total de questoes resolvidas: 477
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#735 Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+  - Question ID: 735
+  - Arquivo: `problems/medium/735_asteroid-collision.py`
+  - Resolvido em: 17:05 - 21/09/26
 
 - [#678 Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
   - Question ID: 678
