@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 476
+Total de questoes resolvidas: 477
 
 ### Easy
 
@@ -681,6 +681,11 @@ Total de questoes resolvidas: 476
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#678 Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
+  - Question ID: 678
+  - Arquivo: `problems/medium/678_valid-parenthesis-string.py`
+  - Resolvido em: 14:01 - 21/09/26
 
 - [#672 Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/)
   - Question ID: 672
