@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 475
+Total de questoes resolvidas: 476
 
 ### Easy
 
@@ -681,6 +681,11 @@ Total de questoes resolvidas: 475
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#672 Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/)
+  - Question ID: 672
+  - Arquivo: `problems/medium/672_bulb-switcher-ii.py`
+  - Resolvido em: 10:04 - 21/09/26
 
 - [#718 Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
   - Question ID: 718
