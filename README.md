@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 483
+Total de questoes resolvidas: 484
 
 ### Easy
+
+- [#745 Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+  - Question ID: 745
+  - Arquivo: `problems/easy/744_find-smallest-letter-greater-than-target.py`
+  - Resolvido em: 20:00 - 22/09/26
 
 - [#792 Binary Search](https://leetcode.com/problems/binary-search/)
   - Question ID: 792
