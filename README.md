@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 480
+Total de questoes resolvidas: 481
 
 ### Easy
 
@@ -686,6 +686,11 @@ Total de questoes resolvidas: 480
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#721 Accounts Merge](https://leetcode.com/problems/accounts-merge/)
+  - Question ID: 721
+  - Arquivo: `problems/medium/721_accounts-merge.py`
+  - Resolvido em: 12:01 - 22/09/26
 
 - [#712 Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)
   - Question ID: 712
