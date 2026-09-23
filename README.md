@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 489
+Total de questoes resolvidas: 490
 
 ### Easy
+
+- [#504 Base 7](https://leetcode.com/problems/base-7/)
+  - Question ID: 504
+  - Arquivo: `problems/easy/504_base-7.py`
+  - Resolvido em: 19:09 - 23/09/26
 
 - [#543 Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
   - Question ID: 543
