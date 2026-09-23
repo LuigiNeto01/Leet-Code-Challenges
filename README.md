@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 490
+Total de questoes resolvidas: 491
 
 ### Easy
 
@@ -711,6 +711,11 @@ Total de questoes resolvidas: 490
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#690 Employee Importance](https://leetcode.com/problems/employee-importance/)
+  - Question ID: 690
+  - Arquivo: `problems/medium/690_employee-importance.py`
+  - Resolvido em: 23:01 - 23/09/26
 
 - [#609 Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)
   - Question ID: 609
