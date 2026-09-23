@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 487
+Total de questoes resolvidas: 488
 
 ### Easy
+
+- [#628 Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
+  - Question ID: 628
+  - Arquivo: `problems/easy/628_maximum-product-of-three-numbers.py`
+  - Resolvido em: 13:00 - 23/09/26
 
 - [#674 Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
   - Question ID: 674
