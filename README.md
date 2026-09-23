@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 484
+Total de questoes resolvidas: 485
 
 ### Easy
 
@@ -2078,6 +2078,11 @@ Total de questoes resolvidas: 484
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#726 Number of Atoms](https://leetcode.com/problems/number-of-atoms/)
+  - Question ID: 726
+  - Arquivo: `problems/hard/726_number-of-atoms.py`
+  - Resolvido em: 00:38 - 23/09/26
 
 - [#715 Range Module](https://leetcode.com/problems/range-module/)
   - Question ID: 715
