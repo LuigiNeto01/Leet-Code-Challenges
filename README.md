@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 486
+Total de questoes resolvidas: 487
 
 ### Easy
+
+- [#674 Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
+  - Question ID: 674
+  - Arquivo: `problems/easy/674_longest-continuous-increasing-subsequence.py`
+  - Resolvido em: 10:01 - 23/09/26
 
 - [#745 Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
   - Question ID: 745
