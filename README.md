@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 488
+Total de questoes resolvidas: 489
 
 ### Easy
+
+- [#543 Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+  - Question ID: 543
+  - Arquivo: `problems/easy/543_diameter-of-binary-tree.py`
+  - Resolvido em: 16:03 - 23/09/26
 
 - [#628 Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
   - Question ID: 628
