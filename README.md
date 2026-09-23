@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 485
+Total de questoes resolvidas: 486
 
 ### Easy
 
@@ -691,6 +691,11 @@ Total de questoes resolvidas: 485
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#609 Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)
+  - Question ID: 609
+  - Arquivo: `problems/medium/609_find-duplicate-file-in-system.py`
+  - Resolvido em: 08:04 - 23/09/26
 
 - [#740 Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
   - Question ID: 740
