@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 495
+Total de questoes resolvidas: 496
 
 ### Easy
 
@@ -711,6 +711,11 @@ Total de questoes resolvidas: 495
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#744 Network Delay Time](https://leetcode.com/problems/network-delay-time/)
+  - Question ID: 744
+  - Arquivo: `problems/medium/743_network-delay-time.py`
+  - Resolvido em: 22:14 - 24/09/26
 
 - [#659 Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
   - Question ID: 659
