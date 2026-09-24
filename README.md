@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 492
+Total de questoes resolvidas: 493
 
 ### Easy
 
@@ -711,6 +711,11 @@ Total de questoes resolvidas: 492
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#659 Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
+  - Question ID: 659
+  - Arquivo: `problems/medium/659_split-array-into-consecutive-subsequences.py`
+  - Resolvido em: 11:39 - 24/09/26
 
 - [#665 Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)
   - Question ID: 665
