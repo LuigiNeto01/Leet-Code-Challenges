@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 494
+Total de questoes resolvidas: 495
 
 ### Easy
 
@@ -2118,6 +2118,11 @@ Total de questoes resolvidas: 494
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#685 Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)
+  - Question ID: 685
+  - Arquivo: `problems/hard/685_redundant-connection-ii.py`
+  - Resolvido em: 18:15 - 24/09/26
 
 - [#629 K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)
   - Question ID: 629
