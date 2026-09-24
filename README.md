@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 493
+Total de questoes resolvidas: 494
 
 ### Easy
 
@@ -2118,6 +2118,11 @@ Total de questoes resolvidas: 493
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#629 K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)
+  - Question ID: 629
+  - Arquivo: `problems/hard/629_k-inverse-pairs-array.py`
+  - Resolvido em: 15:31 - 24/09/26
 
 - [#726 Number of Atoms](https://leetcode.com/problems/number-of-atoms/)
   - Question ID: 726
