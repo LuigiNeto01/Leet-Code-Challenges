@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 499
+Total de questoes resolvidas: 500
 
 ### Easy
 
@@ -2138,6 +2138,11 @@ Total de questoes resolvidas: 499
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#770 Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)
+  - Question ID: 770
+  - Arquivo: `problems/hard/765_couples-holding-hands.py`
+  - Resolvido em: 12:31 - 25/09/26
 
 - [#685 Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)
   - Question ID: 685
