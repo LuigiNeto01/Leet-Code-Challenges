@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 502
+Total de questoes resolvidas: 503
 
 ### Easy
 
@@ -716,6 +716,11 @@ Total de questoes resolvidas: 502
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#768 Partition Labels](https://leetcode.com/problems/partition-labels/)
+  - Question ID: 768
+  - Arquivo: `problems/medium/763_partition-labels.py`
+  - Resolvido em: 22:17 - 25/09/26
 
 - [#738 Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)
   - Question ID: 738
