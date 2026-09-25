@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 498
+Total de questoes resolvidas: 499
 
 ### Easy
 
@@ -716,6 +716,11 @@ Total de questoes resolvidas: 498
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#556 Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
+  - Question ID: 556
+  - Arquivo: `problems/medium/556_next-greater-element-iii.py`
+  - Resolvido em: 08:03 - 25/09/26
 
 - [#529 Minesweeper](https://leetcode.com/problems/minesweeper/)
   - Question ID: 529
