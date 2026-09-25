@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 497
+Total de questoes resolvidas: 498
 
 ### Easy
+
+- [#653 Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
+  - Question ID: 653
+  - Arquivo: `problems/easy/653_two-sum-iv-input-is-a-bst.py`
+  - Resolvido em: 04:11 - 25/09/26
 
 - [#504 Base 7](https://leetcode.com/problems/base-7/)
   - Question ID: 504
