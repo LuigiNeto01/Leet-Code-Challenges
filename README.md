@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 500
+Total de questoes resolvidas: 501
 
 ### Easy
 
@@ -2138,6 +2138,11 @@ Total de questoes resolvidas: 500
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#787 Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)
+  - Question ID: 787
+  - Arquivo: `problems/hard/773_sliding-puzzle.py`
+  - Resolvido em: 16:01 - 25/09/26
 
 - [#770 Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)
   - Question ID: 770
