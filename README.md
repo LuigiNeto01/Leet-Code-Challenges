@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 501
+Total de questoes resolvidas: 502
 
 ### Easy
 
@@ -716,6 +716,11 @@ Total de questoes resolvidas: 501
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#738 Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)
+  - Question ID: 738
+  - Arquivo: `problems/medium/738_monotone-increasing-digits.py`
+  - Resolvido em: 20:33 - 25/09/26
 
 - [#556 Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
   - Question ID: 556
