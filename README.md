@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 496
+Total de questoes resolvidas: 497
 
 ### Easy
 
@@ -711,6 +711,11 @@ Total de questoes resolvidas: 496
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#529 Minesweeper](https://leetcode.com/problems/minesweeper/)
+  - Question ID: 529
+  - Arquivo: `problems/medium/529_minesweeper.py`
+  - Resolvido em: 00:00 - 25/09/26
 
 - [#744 Network Delay Time](https://leetcode.com/problems/network-delay-time/)
   - Question ID: 744
