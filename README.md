@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 503
+Total de questoes resolvidas: 504
 
 ### Easy
 
@@ -2148,6 +2148,11 @@ Total de questoes resolvidas: 503
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#502 IPO](https://leetcode.com/problems/ipo/)
+  - Question ID: 502
+  - Arquivo: `problems/hard/502_ipo.py`
+  - Resolvido em: 00:02 - 26/09/26
 
 - [#787 Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)
   - Question ID: 787
