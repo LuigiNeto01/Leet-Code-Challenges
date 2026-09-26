@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 508
+Total de questoes resolvidas: 509
 
 ### Easy
+
+- [#728 Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
+  - Question ID: 728
+  - Arquivo: `problems/easy/728_self-dividing-numbers.py`
+  - Resolvido em: 22:44 - 26/09/26
 
 - [#749 Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)
   - Question ID: 749
