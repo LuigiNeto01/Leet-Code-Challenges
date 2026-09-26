@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 504
+Total de questoes resolvidas: 505
 
 ### Easy
 
@@ -2148,6 +2148,11 @@ Total de questoes resolvidas: 504
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#798 Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/)
+  - Question ID: 798
+  - Arquivo: `problems/hard/782_transform-to-chessboard.py`
+  - Resolvido em: 06:09 - 26/09/26
 
 - [#502 IPO](https://leetcode.com/problems/ipo/)
   - Question ID: 502
