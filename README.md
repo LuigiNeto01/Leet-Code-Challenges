@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 507
+Total de questoes resolvidas: 508
 
 ### Easy
 
@@ -2158,6 +2158,11 @@ Total de questoes resolvidas: 507
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#809 Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/)
+  - Question ID: 809
+  - Arquivo: `problems/hard/793_preimage-size-of-factorial-zeroes-function.py`
+  - Resolvido em: 18:31 - 26/09/26
 
 - [#798 Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/)
   - Question ID: 798
