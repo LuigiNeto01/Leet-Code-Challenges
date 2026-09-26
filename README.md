@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 506
+Total de questoes resolvidas: 507
 
 ### Easy
+
+- [#749 Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)
+  - Question ID: 749
+  - Arquivo: `problems/easy/748_shortest-completing-word.py`
+  - Resolvido em: 14:00 - 26/09/26
 
 - [#653 Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
   - Question ID: 653
