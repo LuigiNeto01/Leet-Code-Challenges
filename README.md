@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 505
+Total de questoes resolvidas: 506
 
 ### Easy
 
@@ -716,6 +716,11 @@ Total de questoes resolvidas: 505
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#753 Open the Lock](https://leetcode.com/problems/open-the-lock/)
+  - Question ID: 753
+  - Arquivo: `problems/medium/752_open-the-lock.py`
+  - Resolvido em: 10:02 - 26/09/26
 
 - [#768 Partition Labels](https://leetcode.com/problems/partition-labels/)
   - Question ID: 768
