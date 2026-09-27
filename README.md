@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 512
+Total de questoes resolvidas: 513
 
 ### Easy
 
@@ -741,6 +741,11 @@ Total de questoes resolvidas: 512
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#769 Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/)
+  - Question ID: 769
+  - Arquivo: `problems/medium/764_largest-plus-sign.py`
+  - Resolvido em: 19:01 - 27/09/26
 
 - [#753 Open the Lock](https://leetcode.com/problems/open-the-lock/)
   - Question ID: 753
