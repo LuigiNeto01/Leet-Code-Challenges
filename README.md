@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 510
+Total de questoes resolvidas: 511
 
 ### Easy
+
+- [#551 Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)
+  - Question ID: 551
+  - Arquivo: `problems/easy/551_student-attendance-record-i.py`
+  - Resolvido em: 12:12 - 27/09/26
 
 - [#748 Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)
   - Question ID: 748
