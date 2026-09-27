@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 511
+Total de questoes resolvidas: 512
 
 ### Easy
+
+- [#733 Flood Fill](https://leetcode.com/problems/flood-fill/)
+  - Question ID: 733
+  - Arquivo: `problems/easy/733_flood-fill.py`
+  - Resolvido em: 15:00 - 27/09/26
 
 - [#551 Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)
   - Question ID: 551
