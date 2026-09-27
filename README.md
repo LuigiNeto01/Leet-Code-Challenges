@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 513
+Total de questoes resolvidas: 514
 
 ### Easy
+
+- [#812 Rotate String](https://leetcode.com/problems/rotate-string/)
+  - Question ID: 812
+  - Arquivo: `problems/easy/796_rotate-string.py`
+  - Resolvido em: 21:13 - 27/09/26
 
 - [#733 Flood Fill](https://leetcode.com/problems/flood-fill/)
   - Question ID: 733
