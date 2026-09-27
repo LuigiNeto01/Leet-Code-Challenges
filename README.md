@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 509
+Total de questoes resolvidas: 510
 
 ### Easy
+
+- [#748 Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)
+  - Question ID: 748
+  - Arquivo: `problems/easy/747_largest-number-at-least-twice-of-others.py`
+  - Resolvido em: 07:34 - 27/09/26
 
 - [#728 Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
   - Question ID: 728
