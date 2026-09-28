@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 514
+Total de questoes resolvidas: 515
 
 ### Easy
 
@@ -2188,6 +2188,11 @@ Total de questoes resolvidas: 514
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#781 Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/)
+  - Question ID: 781
+  - Arquivo: `problems/hard/770_basic-calculator-iv.py`
+  - Resolvido em: 06:39 - 28/09/26
 
 - [#809 Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/)
   - Question ID: 809
