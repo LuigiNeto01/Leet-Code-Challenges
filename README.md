@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 516
+Total de questoes resolvidas: 517
 
 ### Easy
+
+- [#572 Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+  - Question ID: 572
+  - Arquivo: `problems/easy/572_subtree-of-another-tree.py`
+  - Resolvido em: 14:02 - 28/09/26
 
 - [#812 Rotate String](https://leetcode.com/problems/rotate-string/)
   - Question ID: 812
