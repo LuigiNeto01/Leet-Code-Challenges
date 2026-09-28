@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 517
+Total de questoes resolvidas: 518
 
 ### Easy
 
@@ -751,6 +751,11 @@ Total de questoes resolvidas: 517
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#790 Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/)
+  - Question ID: 790
+  - Arquivo: `problems/medium/775_global-and-local-inversions.py`
+  - Resolvido em: 17:05 - 28/09/26
 
 - [#805 Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/)
   - Question ID: 805
