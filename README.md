@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 518
+Total de questoes resolvidas: 519
 
 ### Easy
+
+- [#816 Design HashSet](https://leetcode.com/problems/design-hashset/)
+  - Question ID: 816
+  - Arquivo: `problems/easy/705_design-hashset.py`
+  - Resolvido em: 22:31 - 28/09/26
 
 - [#572 Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
   - Question ID: 572
