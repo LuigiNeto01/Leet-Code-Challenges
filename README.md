@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 515
+Total de questoes resolvidas: 516
 
 ### Easy
 
@@ -746,6 +746,11 @@ Total de questoes resolvidas: 515
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#805 Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/)
+  - Question ID: 805
+  - Arquivo: `problems/medium/789_escape-the-ghosts.py`
+  - Resolvido em: 10:04 - 28/09/26
 
 - [#769 Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/)
   - Question ID: 769
