@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 522
+Total de questoes resolvidas: 523
 
 ### Easy
 
@@ -756,6 +756,11 @@ Total de questoes resolvidas: 522
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#811 Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)
+  - Question ID: 811
+  - Arquivo: `problems/medium/795_number-of-subarrays-with-bounded-maximum.py`
+  - Resolvido em: 17:10 - 29/09/26
 
 - [#801 Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
   - Question ID: 801
