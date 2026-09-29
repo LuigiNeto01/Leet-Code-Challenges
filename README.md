@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 519
+Total de questoes resolvidas: 520
 
 ### Easy
 
@@ -756,6 +756,11 @@ Total de questoes resolvidas: 519
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#801 Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
+  - Question ID: 801
+  - Arquivo: `problems/medium/785_is-graph-bipartite.py`
+  - Resolvido em: 09:01 - 29/09/26
 
 - [#790 Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/)
   - Question ID: 790
