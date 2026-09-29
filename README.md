@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 523
+Total de questoes resolvidas: 524
 
 ### Easy
 
@@ -756,6 +756,11 @@ Total de questoes resolvidas: 523
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#793 Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)
+  - Question ID: 793
+  - Arquivo: `problems/medium/777_swap-adjacent-in-lr-string.py`
+  - Resolvido em: 20:01 - 29/09/26
 
 - [#811 Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)
   - Question ID: 811
