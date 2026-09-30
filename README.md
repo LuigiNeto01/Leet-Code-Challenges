@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 524
+Total de questoes resolvidas: 525
 
 ### Easy
 
@@ -756,6 +756,11 @@ Total de questoes resolvidas: 524
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#813 All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
+  - Question ID: 813
+  - Arquivo: `problems/medium/797_all-paths-from-source-to-target.py`
+  - Resolvido em: 00:00 - 30/09/26
 
 - [#793 Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)
   - Question ID: 793
