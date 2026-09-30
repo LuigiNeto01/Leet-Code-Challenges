@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 530
+Total de questoes resolvidas: 531
 
 ### Easy
+
+- [#530 Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
+  - Question ID: 530
+  - Arquivo: `problems/easy/530_minimum-absolute-difference-in-bst.py`
+  - Resolvido em: 23:14 - 30/09/26
 
 - [#789 Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
   - Question ID: 789
