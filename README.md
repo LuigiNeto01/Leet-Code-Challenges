@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 527
+Total de questoes resolvidas: 528
 
 ### Easy
 
@@ -756,6 +756,11 @@ Total de questoes resolvidas: 527
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#795 K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)
+  - Question ID: 795
+  - Arquivo: `problems/medium/779_k-th-symbol-in-grammar.py`
+  - Resolvido em: 13:04 - 30/09/26
 
 - [#784 Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
   - Question ID: 784
