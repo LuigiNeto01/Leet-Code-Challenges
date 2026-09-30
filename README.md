@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 525
+Total de questoes resolvidas: 526
 
 ### Easy
 
@@ -756,6 +756,11 @@ Total de questoes resolvidas: 525
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#576 Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)
+  - Question ID: 576
+  - Arquivo: `problems/medium/576_out-of-boundary-paths.py`
+  - Resolvido em: 08:00 - 30/09/26
 
 - [#813 All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
   - Question ID: 813
