@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 529
+Total de questoes resolvidas: 530
 
 ### Easy
+
+- [#789 Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+  - Question ID: 789
+  - Arquivo: `problems/easy/703_kth-largest-element-in-a-stream.py`
+  - Resolvido em: 19:14 - 30/09/26
 
 - [#782 Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
   - Question ID: 782
