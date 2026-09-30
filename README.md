@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 528
+Total de questoes resolvidas: 529
 
 ### Easy
+
+- [#782 Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+  - Question ID: 782
+  - Arquivo: `problems/easy/771_jewels-and-stones.py`
+  - Resolvido em: 16:01 - 30/09/26
 
 - [#816 Design HashSet](https://leetcode.com/problems/design-hashset/)
   - Question ID: 816
