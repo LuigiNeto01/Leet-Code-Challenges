@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 533
+Total de questoes resolvidas: 534
 
 ### Easy
 
@@ -2268,6 +2268,11 @@ Total de questoes resolvidas: 533
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#796 Reaching Points](https://leetcode.com/problems/reaching-points/)
+  - Question ID: 796
+  - Arquivo: `problems/hard/780_reaching-points.py`
+  - Resolvido em: 15:42 - 01/10/26
 
 - [#552 Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)
   - Question ID: 552
