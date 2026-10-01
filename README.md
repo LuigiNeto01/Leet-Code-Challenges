@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 534
+Total de questoes resolvidas: 535
 
 ### Easy
 
@@ -2268,6 +2268,11 @@ Total de questoes resolvidas: 534
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#587 Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
+  - Question ID: 587
+  - Arquivo: `problems/hard/587_erect-the-fence.py`
+  - Resolvido em: 18:08 - 01/10/26
 
 - [#796 Reaching Points](https://leetcode.com/problems/reaching-points/)
   - Question ID: 796
