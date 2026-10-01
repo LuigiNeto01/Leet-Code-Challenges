@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 535
+Total de questoes resolvidas: 536
 
 ### Easy
 
@@ -781,6 +781,11 @@ Total de questoes resolvidas: 535
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#815 Champagne Tower](https://leetcode.com/problems/champagne-tower/)
+  - Question ID: 815
+  - Arquivo: `problems/medium/799_champagne-tower.py`
+  - Resolvido em: 22:11 - 01/10/26
 
 - [#795 K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)
   - Question ID: 795
