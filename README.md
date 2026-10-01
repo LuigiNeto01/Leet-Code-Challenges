@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 532
+Total de questoes resolvidas: 533
 
 ### Easy
+
+- [#637 Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
+  - Question ID: 637
+  - Arquivo: `problems/easy/637_average-of-levels-in-binary-tree.py`
+  - Resolvido em: 11:35 - 01/10/26
 
 - [#575 Distribute Candies](https://leetcode.com/problems/distribute-candies/)
   - Question ID: 575
