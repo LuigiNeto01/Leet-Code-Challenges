@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 531
+Total de questoes resolvidas: 532
 
 ### Easy
+
+- [#575 Distribute Candies](https://leetcode.com/problems/distribute-candies/)
+  - Question ID: 575
+  - Arquivo: `problems/easy/575_distribute-candies.py`
+  - Resolvido em: 06:06 - 01/10/26
 
 - [#530 Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
   - Question ID: 530
