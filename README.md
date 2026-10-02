@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 542
+Total de questoes resolvidas: 543
 
 ### Easy
 
@@ -2288,6 +2288,11 @@ Total de questoes resolvidas: 542
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#689 Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)
+  - Question ID: 689
+  - Arquivo: `problems/hard/689_maximum-sum-of-3-non-overlapping-subarrays.py`
+  - Resolvido em: 22:09 - 02/10/26
 
 - [#836 Race Car](https://leetcode.com/problems/race-car/)
   - Question ID: 836
