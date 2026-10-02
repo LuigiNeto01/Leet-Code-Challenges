@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 540
+Total de questoes resolvidas: 541
 
 ### Easy
 
@@ -2283,6 +2283,11 @@ Total de questoes resolvidas: 540
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#836 Race Car](https://leetcode.com/problems/race-car/)
+  - Question ID: 836
+  - Arquivo: `problems/hard/818_race-car.py`
+  - Resolvido em: 16:02 - 02/10/26
 
 - [#794 Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)
   - Question ID: 794
