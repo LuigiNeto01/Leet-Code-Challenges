@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 538
+Total de questoes resolvidas: 539
 
 ### Easy
 
@@ -2278,6 +2278,11 @@ Total de questoes resolvidas: 538
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#794 Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)
+  - Question ID: 794
+  - Arquivo: `problems/hard/778_swim-in-rising-water.py`
+  - Resolvido em: 08:01 - 02/10/26
 
 - [#699 Falling Squares](https://leetcode.com/problems/falling-squares/)
   - Question ID: 699
