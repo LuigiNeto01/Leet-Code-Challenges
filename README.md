@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 541
+Total de questoes resolvidas: 542
 
 ### Easy
+
+- [#851 Goat Latin](https://leetcode.com/problems/goat-latin/)
+  - Question ID: 851
+  - Arquivo: `problems/easy/824_goat-latin.py`
+  - Resolvido em: 20:30 - 02/10/26
 
 - [#866 Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
   - Question ID: 866
