@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 539
+Total de questoes resolvidas: 540
 
 ### Easy
+
+- [#866 Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
+  - Question ID: 866
+  - Arquivo: `problems/easy/836_rectangle-overlap.py`
+  - Resolvido em: 12:51 - 02/10/26
 
 - [#775 N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
   - Question ID: 775
