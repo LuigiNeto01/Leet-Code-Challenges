@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 536
+Total de questoes resolvidas: 537
 
 ### Easy
+
+- [#775 N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
+  - Question ID: 775
+  - Arquivo: `problems/easy/589_n-ary-tree-preorder-traversal.py`
+  - Resolvido em: 00:07 - 02/10/26
 
 - [#637 Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
   - Question ID: 637
