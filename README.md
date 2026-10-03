@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 545
+Total de questoes resolvidas: 546
 
 ### Easy
 
@@ -2298,6 +2298,11 @@ Total de questoes resolvidas: 545
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#873 Guess the Word](https://leetcode.com/problems/guess-the-word/)
+  - Question ID: 873
+  - Arquivo: `problems/hard/843_guess-the-word.py`
+  - Resolvido em: 10:00 - 03/10/26
 
 - [#689 Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)
   - Question ID: 689
