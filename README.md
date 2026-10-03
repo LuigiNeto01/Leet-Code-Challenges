@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 544
+Total de questoes resolvidas: 545
 
 ### Easy
+
+- [#817 Design HashMap](https://leetcode.com/problems/design-hashmap/)
+  - Question ID: 817
+  - Arquivo: `problems/easy/706_design-hashmap.py`
+  - Resolvido em: 06:02 - 03/10/26
 
 - [#851 Goat Latin](https://leetcode.com/problems/goat-latin/)
   - Question ID: 851
