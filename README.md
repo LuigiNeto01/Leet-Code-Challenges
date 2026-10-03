@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 546
+Total de questoes resolvidas: 547
 
 ### Easy
 
@@ -801,6 +801,11 @@ Total de questoes resolvidas: 546
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#778 Reorganize String](https://leetcode.com/problems/reorganize-string/)
+  - Question ID: 778
+  - Arquivo: `problems/medium/767_reorganize-string.py`
+  - Resolvido em: 14:02 - 03/10/26
 
 - [#872 Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/)
   - Question ID: 872
