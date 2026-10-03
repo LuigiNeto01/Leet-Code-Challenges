@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 543
+Total de questoes resolvidas: 544
 
 ### Easy
 
@@ -796,6 +796,11 @@ Total de questoes resolvidas: 543
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#872 Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/)
+  - Question ID: 872
+  - Arquivo: `problems/medium/842_split-array-into-fibonacci-sequence.py`
+  - Resolvido em: 00:01 - 03/10/26
 
 - [#815 Champagne Tower](https://leetcode.com/problems/champagne-tower/)
   - Question ID: 815
