@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 548
+Total de questoes resolvidas: 549
 
 ### Easy
 
@@ -801,6 +801,11 @@ Total de questoes resolvidas: 548
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#862 Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/)
+  - Question ID: 862
+  - Arquivo: `problems/medium/833_find-and-replace-in-string.py`
+  - Resolvido em: 22:51 - 03/10/26
 
 - [#802 K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)
   - Question ID: 802
