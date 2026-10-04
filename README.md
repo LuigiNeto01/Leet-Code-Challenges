@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 553
+Total de questoes resolvidas: 554
 
 ### Easy
 
@@ -2328,6 +2328,11 @@ Total de questoes resolvidas: 553
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#833 Bus Routes](https://leetcode.com/problems/bus-routes/)
+  - Question ID: 833
+  - Arquivo: `problems/hard/815_bus-routes.py`
+  - Resolvido em: 21:03 - 04/10/26
 
 - [#856 Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)
   - Question ID: 856
