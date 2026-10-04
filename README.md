@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 552
+Total de questoes resolvidas: 553
 
 ### Easy
+
+- [#861 Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+  - Question ID: 861
+  - Arquivo: `problems/easy/832_flipping-an-image.py`
+  - Resolvido em: 19:00 - 04/10/26
 
 - [#817 Design HashMap](https://leetcode.com/problems/design-hashmap/)
   - Question ID: 817
