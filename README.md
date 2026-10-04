@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 549
+Total de questoes resolvidas: 550
 
 ### Easy
 
@@ -2313,6 +2313,11 @@ Total de questoes resolvidas: 549
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#856 Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)
+  - Question ID: 856
+  - Arquivo: `problems/hard/829_consecutive-numbers-sum.py`
+  - Resolvido em: 08:01 - 04/10/26
 
 - [#873 Guess the Word](https://leetcode.com/problems/guess-the-word/)
   - Question ID: 873
