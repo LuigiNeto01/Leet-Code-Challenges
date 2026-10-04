@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 551
+Total de questoes resolvidas: 552
 
 ### Easy
 
@@ -801,6 +801,11 @@ Total de questoes resolvidas: 551
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#729 My Calendar I](https://leetcode.com/problems/my-calendar-i/)
+  - Question ID: 729
+  - Arquivo: `problems/medium/729_my-calendar-i.py`
+  - Resolvido em: 15:09 - 04/10/26
 
 - [#803 Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
   - Question ID: 803
