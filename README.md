@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 557
+Total de questoes resolvidas: 558
 
 ### Easy
+
+- [#841 Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
+  - Question ID: 841
+  - Arquivo: `problems/easy/821_shortest-distance-to-a-character.py`
+  - Resolvido em: 17:03 - 05/10/26
 
 - [#861 Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
   - Question ID: 861
