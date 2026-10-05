@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 554
+Total de questoes resolvidas: 555
 
 ### Easy
 
@@ -806,6 +806,11 @@ Total de questoes resolvidas: 554
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#808 Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)
+  - Question ID: 808
+  - Arquivo: `problems/medium/792_number-of-matching-subsequences.py`
+  - Resolvido em: 06:00 - 05/10/26
 
 - [#729 My Calendar I](https://leetcode.com/problems/my-calendar-i/)
   - Question ID: 729
