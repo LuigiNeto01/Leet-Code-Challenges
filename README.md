@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 556
+Total de questoes resolvidas: 557
 
 ### Easy
 
@@ -2338,6 +2338,11 @@ Total de questoes resolvidas: 556
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#877 Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
+  - Question ID: 877
+  - Arquivo: `problems/hard/847_shortest-path-visiting-all-nodes.py`
+  - Resolvido em: 14:01 - 05/10/26
 
 - [#833 Bus Routes](https://leetcode.com/problems/bus-routes/)
   - Question ID: 833
