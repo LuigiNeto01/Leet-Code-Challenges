@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 558
+Total de questoes resolvidas: 559
 
 ### Easy
 
@@ -811,6 +811,11 @@ Total de questoes resolvidas: 558
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#686 Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
+  - Question ID: 686
+  - Arquivo: `problems/medium/686_repeated-string-match.py`
+  - Resolvido em: 22:36 - 05/10/26
 
 - [#867 New 21 Game](https://leetcode.com/problems/new-21-game/)
   - Question ID: 867
