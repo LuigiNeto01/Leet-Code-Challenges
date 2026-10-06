@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 563
+Total de questoes resolvidas: 564
 
 ### Easy
 
@@ -816,6 +816,11 @@ Total de questoes resolvidas: 563
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#807 Custom Sort String](https://leetcode.com/problems/custom-sort-string/)
+  - Question ID: 807
+  - Arquivo: `problems/medium/791_custom-sort-string.py`
+  - Resolvido em: 20:01 - 06/10/26
 
 - [#800 Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
   - Question ID: 800
