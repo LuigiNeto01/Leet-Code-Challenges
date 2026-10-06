@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 561
+Total de questoes resolvidas: 562
 
 ### Easy
 
@@ -816,6 +816,11 @@ Total de questoes resolvidas: 561
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#843 Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)
+  - Question ID: 843
+  - Arquivo: `problems/medium/823_binary-trees-with-factors.py`
+  - Resolvido em: 14:02 - 06/10/26
 
 - [#686 Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
   - Question ID: 686
