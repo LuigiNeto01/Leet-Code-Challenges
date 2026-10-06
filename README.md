@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 560
+Total de questoes resolvidas: 561
 
 ### Easy
+
+- [#501 Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
+  - Question ID: 501
+  - Arquivo: `problems/easy/501_find-mode-in-binary-search-tree.py`
+  - Resolvido em: 12:38 - 06/10/26
 
 - [#841 Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
   - Question ID: 841
