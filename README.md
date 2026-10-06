@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 559
+Total de questoes resolvidas: 560
 
 ### Easy
 
@@ -2348,6 +2348,11 @@ Total de questoes resolvidas: 559
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#880 Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/)
+  - Question ID: 880
+  - Arquivo: `problems/hard/850_rectangle-area-ii.py`
+  - Resolvido em: 09:02 - 06/10/26
 
 - [#877 Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
   - Question ID: 877
