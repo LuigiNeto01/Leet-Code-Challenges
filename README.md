@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 568
+Total de questoes resolvidas: 569
 
 ### Easy
 
@@ -816,6 +816,11 @@ Total de questoes resolvidas: 568
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#826 Soup Servings](https://leetcode.com/problems/soup-servings/)
+  - Question ID: 826
+  - Arquivo: `problems/medium/808_soup-servings.py`
+  - Resolvido em: 18:01 - 07/10/26
 
 - [#878 Shifting Letters](https://leetcode.com/problems/shifting-letters/)
   - Question ID: 878
