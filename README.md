@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 566
+Total de questoes resolvidas: 567
 
 ### Easy
 
@@ -816,6 +816,11 @@ Total de questoes resolvidas: 566
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#834 Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/)
+  - Question ID: 834
+  - Arquivo: `problems/medium/816_ambiguous-coordinates.py`
+  - Resolvido em: 10:27 - 07/10/26
 
 - [#875 Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)
   - Question ID: 875
