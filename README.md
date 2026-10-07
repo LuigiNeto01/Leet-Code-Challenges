@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 569
+Total de questoes resolvidas: 570
 
 ### Easy
 
@@ -816,6 +816,11 @@ Total de questoes resolvidas: 569
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#853 Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)
+  - Question ID: 853
+  - Arquivo: `problems/medium/826_most-profit-assigning-work.py`
+  - Resolvido em: 19:10 - 07/10/26
 
 - [#826 Soup Servings](https://leetcode.com/problems/soup-servings/)
   - Question ID: 826
