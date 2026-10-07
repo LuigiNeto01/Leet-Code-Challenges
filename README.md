@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 564
+Total de questoes resolvidas: 565
 
 ### Easy
 
@@ -816,6 +816,11 @@ Total de questoes resolvidas: 564
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#831 Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/)
+  - Question ID: 831
+  - Arquivo: `problems/medium/813_largest-sum-of-averages.py`
+  - Resolvido em: 00:00 - 07/10/26
 
 - [#807 Custom Sort String](https://leetcode.com/problems/custom-sort-string/)
   - Question ID: 807
