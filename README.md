@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 567
+Total de questoes resolvidas: 568
 
 ### Easy
 
@@ -816,6 +816,11 @@ Total de questoes resolvidas: 567
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#878 Shifting Letters](https://leetcode.com/problems/shifting-letters/)
+  - Question ID: 878
+  - Arquivo: `problems/medium/848_shifting-letters.py`
+  - Resolvido em: 13:00 - 07/10/26
 
 - [#834 Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/)
   - Question ID: 834
