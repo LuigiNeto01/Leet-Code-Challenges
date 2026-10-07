@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 565
+Total de questoes resolvidas: 566
 
 ### Easy
 
@@ -816,6 +816,11 @@ Total de questoes resolvidas: 565
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#875 Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)
+  - Question ID: 875
+  - Arquivo: `problems/medium/845_longest-mountain-in-array.py`
+  - Resolvido em: 08:06 - 07/10/26
 
 - [#831 Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/)
   - Question ID: 831
