@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 570
+Total de questoes resolvidas: 571
 
 ### Easy
+
+- [#822 Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
+  - Question ID: 822
+  - Arquivo: `problems/easy/804_unique-morse-code-words.py`
+  - Resolvido em: 23:01 - 07/10/26
 
 - [#501 Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
   - Question ID: 501
