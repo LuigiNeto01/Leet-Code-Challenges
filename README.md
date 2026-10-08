@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 574
+Total de questoes resolvidas: 575
 
 ### Easy
 
@@ -826,6 +826,11 @@ Total de questoes resolvidas: 574
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#876 Hand of Straights](https://leetcode.com/problems/hand-of-straights/)
+  - Question ID: 876
+  - Arquivo: `problems/medium/846_hand-of-straights.py`
+  - Resolvido em: 19:35 - 08/10/26
 
 - [#780 Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)
   - Question ID: 780
