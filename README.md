@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 572
+Total de questoes resolvidas: 573
 
 ### Easy
+
+- [#857 Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)
+  - Question ID: 857
+  - Arquivo: `problems/easy/830_positions-of-large-groups.py`
+  - Resolvido em: 14:39 - 08/10/26
 
 - [#822 Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
   - Question ID: 822
