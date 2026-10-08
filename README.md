@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 573
+Total de questoes resolvidas: 574
 
 ### Easy
 
@@ -826,6 +826,11 @@ Total de questoes resolvidas: 573
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#780 Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)
+  - Question ID: 780
+  - Arquivo: `problems/medium/769_max-chunks-to-make-sorted.py`
+  - Resolvido em: 16:31 - 08/10/26
 
 - [#853 Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)
   - Question ID: 853
