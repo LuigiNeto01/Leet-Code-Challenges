@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 575
+Total de questoes resolvidas: 576
 
 ### Easy
+
+- [#767 Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)
+  - Question ID: 767
+  - Arquivo: `problems/easy/762_prime-number-of-set-bits-in-binary-representation.py`
+  - Resolvido em: 22:28 - 08/10/26
 
 - [#857 Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)
   - Question ID: 857
