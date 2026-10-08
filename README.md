@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 571
+Total de questoes resolvidas: 572
 
 ### Easy
 
@@ -2403,6 +2403,11 @@ Total de questoes resolvidas: 571
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#754 Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/)
+  - Question ID: 754
+  - Arquivo: `problems/hard/753_cracking-the-safe.py`
+  - Resolvido em: 06:05 - 08/10/26
 
 - [#880 Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/)
   - Question ID: 880
