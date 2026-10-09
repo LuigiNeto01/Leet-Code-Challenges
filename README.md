@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 581
+Total de questoes resolvidas: 582
 
 ### Easy
 
@@ -2448,6 +2448,11 @@ Total de questoes resolvidas: 581
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#821 Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)
+  - Question ID: 821
+  - Arquivo: `problems/hard/803_bricks-falling-when-hit.py`
+  - Resolvido em: 20:39 - 09/10/26
 
 - [#754 Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/)
   - Question ID: 754
