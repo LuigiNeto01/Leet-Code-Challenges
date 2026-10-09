@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 576
+Total de questoes resolvidas: 577
 
 ### Easy
+
+- [#824 Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)
+  - Question ID: 824
+  - Arquivo: `problems/easy/806_number-of-lines-to-write-string.py`
+  - Resolvido em: 02:16 - 09/10/26
 
 - [#767 Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)
   - Question ID: 767
