@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 577
+Total de questoes resolvidas: 578
 
 ### Easy
 
@@ -836,6 +836,11 @@ Total de questoes resolvidas: 577
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#713 Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
+  - Question ID: 713
+  - Arquivo: `problems/medium/713_subarray-product-less-than-k.py`
+  - Resolvido em: 05:04 - 09/10/26
 
 - [#876 Hand of Straights](https://leetcode.com/problems/hand-of-straights/)
   - Question ID: 876
