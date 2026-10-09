@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 578
+Total de questoes resolvidas: 579
 
 ### Easy
 
@@ -836,6 +836,11 @@ Total de questoes resolvidas: 578
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#829 Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
+  - Question ID: 829
+  - Arquivo: `problems/medium/811_subdomain-visit-count.py`
+  - Resolvido em: 08:13 - 09/10/26
 
 - [#713 Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
   - Question ID: 713
