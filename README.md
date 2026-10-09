@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 582
+Total de questoes resolvidas: 583
 
 ### Easy
 
@@ -836,6 +836,11 @@ Total de questoes resolvidas: 582
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#820 Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)
+  - Question ID: 820
+  - Arquivo: `problems/medium/802_find-eventual-safe-states.py`
+  - Resolvido em: 22:01 - 09/10/26
 
 - [#835 Linked List Components](https://leetcode.com/problems/linked-list-components/)
   - Question ID: 835
