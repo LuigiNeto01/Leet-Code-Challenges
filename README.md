@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 579
+Total de questoes resolvidas: 580
 
 ### Easy
 
@@ -836,6 +836,11 @@ Total de questoes resolvidas: 579
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#692 Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+  - Question ID: 692
+  - Arquivo: `problems/medium/692_top-k-frequent-words.py`
+  - Resolvido em: 12:31 - 09/10/26
 
 - [#829 Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
   - Question ID: 829
