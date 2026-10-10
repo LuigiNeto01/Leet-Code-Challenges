@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 585
+Total de questoes resolvidas: 586
 
 ### Easy
 
@@ -841,6 +841,11 @@ Total de questoes resolvidas: 585
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#804 Rotated Digits](https://leetcode.com/problems/rotated-digits/)
+  - Question ID: 804
+  - Arquivo: `problems/medium/788_rotated-digits.py`
+  - Resolvido em: 10:10 - 10/10/26
 
 - [#623 Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)
   - Question ID: 623
