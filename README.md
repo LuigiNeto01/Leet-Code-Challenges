@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 584
+Total de questoes resolvidas: 585
 
 ### Easy
 
@@ -841,6 +841,11 @@ Total de questoes resolvidas: 584
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#623 Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)
+  - Question ID: 623
+  - Arquivo: `problems/medium/623_add-one-row-to-tree.py`
+  - Resolvido em: 06:03 - 10/10/26
 
 - [#820 Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)
   - Question ID: 820
