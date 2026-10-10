@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 583
+Total de questoes resolvidas: 584
 
 ### Easy
+
+- [#742 To Lower Case](https://leetcode.com/problems/to-lower-case/)
+  - Question ID: 742
+  - Arquivo: `problems/easy/709_to-lower-case.py`
+  - Resolvido em: 00:00 - 10/10/26
 
 - [#824 Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)
   - Question ID: 824
