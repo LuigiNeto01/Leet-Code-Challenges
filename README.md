@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 588
+Total de questoes resolvidas: 589
 
 ### Easy
 
@@ -841,6 +841,11 @@ Total de questoes resolvidas: 588
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#725 Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)
+  - Question ID: 725
+  - Arquivo: `problems/medium/725_split-linked-list-in-parts.py`
+  - Resolvido em: 22:34 - 10/10/26
 
 - [#852 Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)
   - Question ID: 852
