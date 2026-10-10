@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 586
+Total de questoes resolvidas: 587
 
 ### Easy
 
@@ -841,6 +841,11 @@ Total de questoes resolvidas: 586
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#687 Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)
+  - Question ID: 687
+  - Arquivo: `problems/medium/687_longest-univalue-path.py`
+  - Resolvido em: 14:01 - 10/10/26
 
 - [#804 Rotated Digits](https://leetcode.com/problems/rotated-digits/)
   - Question ID: 804
