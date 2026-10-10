@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 587
+Total de questoes resolvidas: 588
 
 ### Easy
 
@@ -841,6 +841,11 @@ Total de questoes resolvidas: 587
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#852 Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)
+  - Question ID: 852
+  - Arquivo: `problems/medium/825_friends-of-appropriate-ages.py`
+  - Resolvido em: 18:01 - 10/10/26
 
 - [#687 Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)
   - Question ID: 687
