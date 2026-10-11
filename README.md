@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 590
+Total de questoes resolvidas: 591
 
 ### Easy
+
+- [#837 Most Common Word](https://leetcode.com/problems/most-common-word/)
+  - Question ID: 837
+  - Arquivo: `problems/easy/819_most-common-word.py`
+  - Resolvido em: 12:01 - 11/10/26
 
 - [#742 To Lower Case](https://leetcode.com/problems/to-lower-case/)
   - Question ID: 742
