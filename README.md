@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 591
+Total de questoes resolvidas: 592
 
 ### Easy
 
@@ -846,6 +846,11 @@ Total de questoes resolvidas: 591
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#870 Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)
+  - Question ID: 870
+  - Arquivo: `problems/medium/840_magic-squares-in-grid.py`
+  - Resolvido em: 15:00 - 11/10/26
 
 - [#921 Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
   - Question ID: 921
