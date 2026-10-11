@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 593
+Total de questoes resolvidas: 594
 
 ### Easy
 
@@ -2503,6 +2503,11 @@ Total de questoes resolvidas: 593
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#819 Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)
+  - Question ID: 819
+  - Arquivo: `problems/hard/801_minimum-swaps-to-make-sequences-increasing.py`
+  - Resolvido em: 21:04 - 11/10/26
 
 - [#821 Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)
   - Question ID: 821
