@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 592
+Total de questoes resolvidas: 593
 
 ### Easy
 
@@ -846,6 +846,11 @@ Total de questoes resolvidas: 592
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#906 Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)
+  - Question ID: 906
+  - Arquivo: `problems/medium/874_walking-robot-simulation.py`
+  - Resolvido em: 19:00 - 11/10/26
 
 - [#870 Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)
   - Question ID: 870
