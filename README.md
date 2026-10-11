@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 589
+Total de questoes resolvidas: 590
 
 ### Easy
 
@@ -841,6 +841,11 @@ Total de questoes resolvidas: 589
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#921 Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
+  - Question ID: 921
+  - Arquivo: `problems/medium/885_spiral-matrix-iii.py`
+  - Resolvido em: 07:34 - 11/10/26
 
 - [#725 Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)
   - Question ID: 725
