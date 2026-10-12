@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 595
+Total de questoes resolvidas: 596
 
 ### Easy
 
@@ -851,6 +851,11 @@ Total de questoes resolvidas: 595
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#832 Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)
+  - Question ID: 832
+  - Arquivo: `problems/medium/814_binary-tree-pruning.py`
+  - Resolvido em: 10:02 - 12/10/26
 
 - [#906 Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)
   - Question ID: 906
