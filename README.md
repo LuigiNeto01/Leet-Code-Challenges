@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 597
+Total de questoes resolvidas: 598
 
 ### Easy
 
@@ -2513,6 +2513,11 @@ Total de questoes resolvidas: 597
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#884 K-Similar Strings](https://leetcode.com/problems/k-similar-strings/)
+  - Question ID: 884
+  - Arquivo: `problems/hard/854_k-similar-strings.py`
+  - Resolvido em: 17:06 - 12/10/26
 
 - [#923 Super Egg Drop](https://leetcode.com/problems/super-egg-drop/)
   - Question ID: 923
