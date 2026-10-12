@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 594
+Total de questoes resolvidas: 595
 
 ### Easy
+
+- [#777 Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)
+  - Question ID: 777
+  - Arquivo: `problems/easy/766_toeplitz-matrix.py`
+  - Resolvido em: 06:00 - 12/10/26
 
 - [#837 Most Common Word](https://leetcode.com/problems/most-common-word/)
   - Question ID: 837
