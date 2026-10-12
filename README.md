@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 596
+Total de questoes resolvidas: 597
 
 ### Easy
 
@@ -2513,6 +2513,11 @@ Total de questoes resolvidas: 596
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#923 Super Egg Drop](https://leetcode.com/problems/super-egg-drop/)
+  - Question ID: 923
+  - Arquivo: `problems/hard/887_super-egg-drop.py`
+  - Resolvido em: 14:17 - 12/10/26
 
 - [#819 Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)
   - Question ID: 819
