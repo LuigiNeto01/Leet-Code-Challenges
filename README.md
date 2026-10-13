@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 599
+Total de questoes resolvidas: 600
 
 ### Easy
 
@@ -851,6 +851,11 @@ Total de questoes resolvidas: 599
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#757 Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/)
+  - Question ID: 757
+  - Arquivo: `problems/medium/756_pyramid-transition-matrix.py`
+  - Resolvido em: 09:10 - 13/10/26
 
 - [#832 Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)
   - Question ID: 832
