@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 600
+Total de questoes resolvidas: 601
 
 ### Easy
 
@@ -2518,6 +2518,11 @@ Total de questoes resolvidas: 600
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#910 Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
+  - Question ID: 910
+  - Arquivo: `problems/hard/878_nth-magical-number.py`
+  - Resolvido em: 12:02 - 13/10/26
 
 - [#869 Similar String Groups](https://leetcode.com/problems/similar-string-groups/)
   - Question ID: 869
