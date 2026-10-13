@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 603
+Total de questoes resolvidas: 604
 
 ### Easy
+
+- [#898 Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
+  - Question ID: 898
+  - Arquivo: `problems/easy/867_transpose-matrix.py`
+  - Resolvido em: 20:00 - 13/10/26
 
 - [#777 Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)
   - Question ID: 777
