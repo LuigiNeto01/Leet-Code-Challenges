@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 601
+Total de questoes resolvidas: 602
 
 ### Easy
 
@@ -851,6 +851,11 @@ Total de questoes resolvidas: 601
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#926 Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
+  - Question ID: 926
+  - Arquivo: `problems/medium/890_find-and-replace-pattern.py`
+  - Resolvido em: 14:02 - 13/10/26
 
 - [#757 Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/)
   - Question ID: 757
