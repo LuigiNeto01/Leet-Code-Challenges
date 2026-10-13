@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 602
+Total de questoes resolvidas: 603
 
 ### Easy
 
@@ -851,6 +851,11 @@ Total de questoes resolvidas: 602
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#922 Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)
+  - Question ID: 922
+  - Arquivo: `problems/medium/886_possible-bipartition.py`
+  - Resolvido em: 17:00 - 13/10/26
 
 - [#926 Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
   - Question ID: 926
