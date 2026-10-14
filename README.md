@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 604
+Total de questoes resolvidas: 605
 
 ### Easy
 
@@ -2533,6 +2533,11 @@ Total de questoes resolvidas: 604
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#759 Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/)
+  - Question ID: 759
+  - Arquivo: `problems/hard/757_set-intersection-size-at-least-two.py`
+  - Resolvido em: 00:07 - 14/10/26
 
 - [#910 Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
   - Question ID: 910
