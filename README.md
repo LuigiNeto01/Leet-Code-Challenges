@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 606
+Total de questoes resolvidas: 607
 
 ### Easy
 
@@ -2538,6 +2538,11 @@ Total de questoes resolvidas: 606
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#630 Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)
+  - Question ID: 630
+  - Arquivo: `problems/hard/630_course-schedule-iii.py`
+  - Resolvido em: 10:04 - 14/10/26
 
 - [#759 Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/)
   - Question ID: 759
