@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 610
+Total de questoes resolvidas: 611
 
 ### Easy
 
@@ -2553,6 +2553,11 @@ Total de questoes resolvidas: 610
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#918 Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)
+  - Question ID: 918
+  - Arquivo: `problems/hard/882_reachable-nodes-in-subdivided-graph.py`
+  - Resolvido em: 23:03 - 14/10/26
 
 - [#630 Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)
   - Question ID: 630
