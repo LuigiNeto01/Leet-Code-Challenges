@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 607
+Total de questoes resolvidas: 608
 
 ### Easy
 
@@ -856,6 +856,11 @@ Total de questoes resolvidas: 607
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#858 Masking Personal Information](https://leetcode.com/problems/masking-personal-information/)
+  - Question ID: 858
+  - Arquivo: `problems/medium/831_masking-personal-information.py`
+  - Resolvido em: 13:04 - 14/10/26
 
 - [#901 Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)
   - Question ID: 901
