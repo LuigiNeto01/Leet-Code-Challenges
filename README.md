@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 605
+Total de questoes resolvidas: 606
 
 ### Easy
 
@@ -856,6 +856,11 @@ Total de questoes resolvidas: 605
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#901 Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)
+  - Question ID: 901
+  - Arquivo: `problems/medium/870_advantage-shuffle.py`
+  - Resolvido em: 08:01 - 14/10/26
 
 - [#922 Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)
   - Question ID: 922
