@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 608
+Total de questoes resolvidas: 609
 
 ### Easy
 
@@ -856,6 +856,11 @@ Total de questoes resolvidas: 608
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#900 Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)
+  - Question ID: 900
+  - Arquivo: `problems/medium/869_reordered-power-of-2.py`
+  - Resolvido em: 16:09 - 14/10/26
 
 - [#858 Masking Personal Information](https://leetcode.com/problems/masking-personal-information/)
   - Question ID: 858
