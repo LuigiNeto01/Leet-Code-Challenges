@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 609
+Total de questoes resolvidas: 610
 
 ### Easy
 
@@ -856,6 +856,11 @@ Total de questoes resolvidas: 609
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#930 All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)
+  - Question ID: 930
+  - Arquivo: `problems/medium/894_all-possible-full-binary-trees.py`
+  - Resolvido em: 19:12 - 14/10/26
 
 - [#900 Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)
   - Question ID: 900
