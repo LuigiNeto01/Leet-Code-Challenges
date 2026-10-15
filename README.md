@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 615
+Total de questoes resolvidas: 616
 
 ### Easy
 
@@ -866,6 +866,11 @@ Total de questoes resolvidas: 615
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#882 Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+  - Question ID: 882
+  - Arquivo: `problems/medium/852_peak-index-in-a-mountain-array.py`
+  - Resolvido em: 22:01 - 15/10/26
 
 - [#930 All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)
   - Question ID: 930
