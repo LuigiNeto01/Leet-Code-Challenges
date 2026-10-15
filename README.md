@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 613
+Total de questoes resolvidas: 614
 
 ### Easy
 
@@ -2563,6 +2563,11 @@ Total de questoes resolvidas: 613
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#935 Orderly Queue](https://leetcode.com/problems/orderly-queue/)
+  - Question ID: 935
+  - Arquivo: `problems/hard/899_orderly-queue.py`
+  - Resolvido em: 15:40 - 15/10/26
 
 - [#918 Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)
   - Question ID: 918
