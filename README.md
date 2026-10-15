@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 611
+Total de questoes resolvidas: 612
 
 ### Easy
+
+- [#899 Binary Gap](https://leetcode.com/problems/binary-gap/)
+  - Question ID: 899
+  - Arquivo: `problems/easy/868_binary-gap.py`
+  - Resolvido em: 06:01 - 15/10/26
 
 - [#898 Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
   - Question ID: 898
