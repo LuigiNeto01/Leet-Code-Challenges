@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 612
+Total de questoes resolvidas: 613
 
 ### Easy
+
+- [#890 Lemonade Change](https://leetcode.com/problems/lemonade-change/)
+  - Question ID: 890
+  - Arquivo: `problems/easy/860_lemonade-change.py`
+  - Resolvido em: 11:30 - 15/10/26
 
 - [#899 Binary Gap](https://leetcode.com/problems/binary-gap/)
   - Question ID: 899
