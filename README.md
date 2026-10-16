@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 616
+Total de questoes resolvidas: 617
 
 ### Easy
 
@@ -2568,6 +2568,11 @@ Total de questoes resolvidas: 616
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#855 Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)
+  - Question ID: 855
+  - Arquivo: `problems/hard/828_count-unique-characters-of-all-substrings-of-a-given-string.py`
+  - Resolvido em: 00:01 - 16/10/26
 
 - [#779 Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)
   - Question ID: 779
