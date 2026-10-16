@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 620
+Total de questoes resolvidas: 621
 
 ### Easy
 
@@ -866,6 +866,11 @@ Total de questoes resolvidas: 620
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#879 Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)
+  - Question ID: 879
+  - Arquivo: `problems/medium/849_maximize-distance-to-closest-person.py`
+  - Resolvido em: 16:01 - 16/10/26
 
 - [#755 Reach a Number](https://leetcode.com/problems/reach-a-number/)
   - Question ID: 755
