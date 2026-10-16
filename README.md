@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 618
+Total de questoes resolvidas: 619
 
 ### Easy
 
@@ -866,6 +866,11 @@ Total de questoes resolvidas: 618
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#739 Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+  - Question ID: 739
+  - Arquivo: `problems/medium/739_daily-temperatures.py`
+  - Resolvido em: 08:01 - 16/10/26
 
 - [#882 Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
   - Question ID: 882
