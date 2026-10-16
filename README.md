@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 621
+Total de questoes resolvidas: 622
 
 ### Easy
+
+- [#932 Monotonic Array](https://leetcode.com/problems/monotonic-array/)
+  - Question ID: 932
+  - Arquivo: `problems/easy/896_monotonic-array.py`
+  - Resolvido em: 20:42 - 16/10/26
 
 - [#890 Lemonade Change](https://leetcode.com/problems/lemonade-change/)
   - Question ID: 890
