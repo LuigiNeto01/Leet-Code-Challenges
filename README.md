@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 617
+Total de questoes resolvidas: 618
 
 ### Easy
 
@@ -2568,6 +2568,11 @@ Total de questoes resolvidas: 617
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#931 Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
+  - Question ID: 931
+  - Arquivo: `problems/hard/895_maximum-frequency-stack.py`
+  - Resolvido em: 04:01 - 16/10/26
 
 - [#855 Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)
   - Question ID: 855
