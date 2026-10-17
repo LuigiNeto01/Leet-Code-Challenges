@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 625
+Total de questoes resolvidas: 626
 
 ### Easy
 
@@ -2598,6 +2598,11 @@ Total de questoes resolvidas: 625
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#894 Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/)
+  - Question ID: 894
+  - Arquivo: `problems/hard/710_random-pick-with-blacklist.py`
+  - Resolvido em: 10:09 - 17/10/26
 
 - [#854 Making A Large Island](https://leetcode.com/problems/making-a-large-island/)
   - Question ID: 854
