@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 624
+Total de questoes resolvidas: 625
 
 ### Easy
 
@@ -2598,6 +2598,11 @@ Total de questoes resolvidas: 624
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#854 Making A Large Island](https://leetcode.com/problems/making-a-large-island/)
+  - Question ID: 854
+  - Arquivo: `problems/hard/827_making-a-large-island.py`
+  - Resolvido em: 06:12 - 17/10/26
 
 - [#931 Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
   - Question ID: 931
