@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 628
+Total de questoes resolvidas: 629
 
 ### Easy
 
@@ -886,6 +886,11 @@ Total de questoes resolvidas: 628
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#827 Expressive Words](https://leetcode.com/problems/expressive-words/)
+  - Question ID: 827
+  - Arquivo: `problems/medium/809_expressive-words.py`
+  - Resolvido em: 22:52 - 17/10/26
 
 - [#917 Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
   - Question ID: 917
