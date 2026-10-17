@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 626
+Total de questoes resolvidas: 627
 
 ### Easy
+
+- [#908 Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+  - Question ID: 908
+  - Arquivo: `problems/easy/876_middle-of-the-linked-list.py`
+  - Resolvido em: 14:00 - 17/10/26
 
 - [#830 Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)
   - Question ID: 830
