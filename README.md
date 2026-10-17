@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 623
+Total de questoes resolvidas: 624
 
 ### Easy
+
+- [#830 Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)
+  - Question ID: 830
+  - Arquivo: `problems/easy/812_largest-triangle-area.py`
+  - Resolvido em: 00:24 - 17/10/26
 
 - [#932 Monotonic Array](https://leetcode.com/problems/monotonic-array/)
   - Question ID: 932
