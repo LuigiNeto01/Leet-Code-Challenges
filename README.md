@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 627
+Total de questoes resolvidas: 628
 
 ### Easy
+
+- [#928 Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)
+  - Question ID: 928
+  - Arquivo: `problems/easy/892_surface-area-of-3d-shapes.py`
+  - Resolvido em: 18:15 - 17/10/26
 
 - [#908 Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
   - Question ID: 908
