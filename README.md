@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 632
+Total de questoes resolvidas: 633
 
 ### Easy
 
@@ -886,6 +886,11 @@ Total de questoes resolvidas: 632
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#905 Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)
+  - Question ID: 905
+  - Arquivo: `problems/medium/873_length-of-longest-fibonacci-subsequence.py`
+  - Resolvido em: 19:00 - 18/10/26
 
 - [#825 Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)
   - Question ID: 825
