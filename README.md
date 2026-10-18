@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 630
+Total de questoes resolvidas: 631
 
 ### Easy
 
@@ -2618,6 +2618,11 @@ Total de questoes resolvidas: 630
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#741 Cherry Pickup](https://leetcode.com/problems/cherry-pickup/)
+  - Question ID: 741
+  - Arquivo: `problems/hard/741_cherry-pickup.py`
+  - Resolvido em: 12:13 - 18/10/26
 
 - [#894 Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/)
   - Question ID: 894
