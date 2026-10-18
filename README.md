@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 633
+Total de questoes resolvidas: 634
 
 ### Easy
 
@@ -2623,6 +2623,11 @@ Total de questoes resolvidas: 633
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#814 Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/)
+  - Question ID: 814
+  - Arquivo: `problems/hard/798_smallest-rotation-with-highest-score.py`
+  - Resolvido em: 21:41 - 18/10/26
 
 - [#763 Special Binary String](https://leetcode.com/problems/special-binary-string/)
   - Question ID: 763
