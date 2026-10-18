@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 629
+Total de questoes resolvidas: 630
 
 ### Easy
 
@@ -886,6 +886,11 @@ Total de questoes resolvidas: 629
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#825 Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)
+  - Question ID: 825
+  - Arquivo: `problems/medium/807_max-increase-to-keep-city-skyline.py`
+  - Resolvido em: 07:30 - 18/10/26
 
 - [#827 Expressive Words](https://leetcode.com/problems/expressive-words/)
   - Question ID: 827
