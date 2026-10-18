@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 631
+Total de questoes resolvidas: 632
 
 ### Easy
 
@@ -2618,6 +2618,11 @@ Total de questoes resolvidas: 631
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#763 Special Binary String](https://leetcode.com/problems/special-binary-string/)
+  - Question ID: 763
+  - Arquivo: `problems/hard/761_special-binary-string.py`
+  - Resolvido em: 15:14 - 18/10/26
 
 - [#741 Cherry Pickup](https://leetcode.com/problems/cherry-pickup/)
   - Question ID: 741
