@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 636
+Total de questoes resolvidas: 637
 
 ### Easy
 
@@ -2628,6 +2628,11 @@ Total de questoes resolvidas: 636
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#887 Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)
+  - Question ID: 887
+  - Arquivo: `problems/hard/857_minimum-cost-to-hire-k-workers.py`
+  - Resolvido em: 14:01 - 19/10/26
 
 - [#746 Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)
   - Question ID: 746
