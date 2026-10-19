@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 634
+Total de questoes resolvidas: 635
 
 ### Easy
 
@@ -886,6 +886,11 @@ Total de questoes resolvidas: 634
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#883 Car Fleet](https://leetcode.com/problems/car-fleet/)
+  - Question ID: 883
+  - Arquivo: `problems/medium/853_car-fleet.py`
+  - Resolvido em: 06:02 - 19/10/26
 
 - [#905 Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)
   - Question ID: 905
