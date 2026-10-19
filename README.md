@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 638
+Total de questoes resolvidas: 639
 
 ### Easy
 
@@ -2633,6 +2633,11 @@ Total de questoes resolvidas: 638
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#960 Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)
+  - Question ID: 960
+  - Arquivo: `problems/hard/924_minimize-malware-spread.py`
+  - Resolvido em: 22:31 - 19/10/26
 
 - [#887 Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)
   - Question ID: 887
