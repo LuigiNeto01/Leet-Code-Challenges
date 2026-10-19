@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 637
+Total de questoes resolvidas: 638
 
 ### Easy
 
@@ -886,6 +886,11 @@ Total de questoes resolvidas: 637
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#839 Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)
+  - Question ID: 839
+  - Arquivo: `problems/medium/820_short-encoding-of-words.py`
+  - Resolvido em: 17:16 - 19/10/26
 
 - [#883 Car Fleet](https://leetcode.com/problems/car-fleet/)
   - Question ID: 883
