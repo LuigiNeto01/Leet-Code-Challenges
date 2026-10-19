@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 635
+Total de questoes resolvidas: 636
 
 ### Easy
 
@@ -2628,6 +2628,11 @@ Total de questoes resolvidas: 635
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#746 Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)
+  - Question ID: 746
+  - Arquivo: `problems/hard/745_prefix-and-suffix-search.py`
+  - Resolvido em: 10:03 - 19/10/26
 
 - [#814 Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/)
   - Question ID: 814
