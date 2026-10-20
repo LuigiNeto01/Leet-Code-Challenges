@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 640
+Total de questoes resolvidas: 641
 
 ### Easy
 
@@ -2638,6 +2638,11 @@ Total de questoes resolvidas: 640
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#823 Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/)
+  - Question ID: 823
+  - Arquivo: `problems/hard/805_split-array-with-same-average.py`
+  - Resolvido em: 12:09 - 20/10/26
 
 - [#960 Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)
   - Question ID: 960
