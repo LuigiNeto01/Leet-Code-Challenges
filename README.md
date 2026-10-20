@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 641
+Total de questoes resolvidas: 642
 
 ### Easy
+
+- [#979 DI String Match](https://leetcode.com/problems/di-string-match/)
+  - Question ID: 979
+  - Arquivo: `problems/easy/942_di-string-match.py`
+  - Resolvido em: 14:02 - 20/10/26
 
 - [#928 Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)
   - Question ID: 928
