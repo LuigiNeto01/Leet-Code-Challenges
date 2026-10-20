@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 642
+Total de questoes resolvidas: 643
 
 ### Easy
 
@@ -891,6 +891,11 @@ Total de questoes resolvidas: 642
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#954 Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+  - Question ID: 954
+  - Arquivo: `problems/medium/918_maximum-sum-circular-subarray.py`
+  - Resolvido em: 17:07 - 20/10/26
 
 - [#720 Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)
   - Question ID: 720
