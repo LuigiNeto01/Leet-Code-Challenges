@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 643
+Total de questoes resolvidas: 644
 
 ### Easy
 
@@ -891,6 +891,11 @@ Total de questoes resolvidas: 643
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#871 Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+  - Question ID: 871
+  - Arquivo: `problems/medium/841_keys-and-rooms.py`
+  - Resolvido em: 20:00 - 20/10/26
 
 - [#954 Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
   - Question ID: 954
