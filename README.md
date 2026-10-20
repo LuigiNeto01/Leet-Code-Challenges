@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 639
+Total de questoes resolvidas: 640
 
 ### Easy
 
@@ -886,6 +886,11 @@ Total de questoes resolvidas: 639
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#720 Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)
+  - Question ID: 720
+  - Arquivo: `problems/medium/720_longest-word-in-dictionary.py`
+  - Resolvido em: 09:01 - 20/10/26
 
 - [#839 Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)
   - Question ID: 839
