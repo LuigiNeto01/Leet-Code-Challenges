@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 650
+Total de questoes resolvidas: 651
 
 ### Easy
 
@@ -896,6 +896,11 @@ Total de questoes resolvidas: 650
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#959 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)
+  - Question ID: 959
+  - Arquivo: `problems/medium/923_3sum-with-multiplicity.py`
+  - Resolvido em: 23:02 - 21/10/26
 
 - [#842 Card Flipping Game](https://leetcode.com/problems/card-flipping-game/)
   - Question ID: 842
