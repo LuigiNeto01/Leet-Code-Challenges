@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 649
+Total de questoes resolvidas: 650
 
 ### Easy
 
@@ -896,6 +896,11 @@ Total de questoes resolvidas: 649
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#842 Card Flipping Game](https://leetcode.com/problems/card-flipping-game/)
+  - Question ID: 842
+  - Arquivo: `problems/medium/822_card-flipping-game.py`
+  - Resolvido em: 19:10 - 21/10/26
 
 - [#943 Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)
   - Question ID: 943
