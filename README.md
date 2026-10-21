@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 648
+Total de questoes resolvidas: 649
 
 ### Easy
 
@@ -896,6 +896,11 @@ Total de questoes resolvidas: 648
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#943 Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)
+  - Question ID: 943
+  - Arquivo: `problems/medium/907_sum-of-subarray-minimums.py`
+  - Resolvido em: 16:04 - 21/10/26
 
 - [#972 Knight Dialer](https://leetcode.com/problems/knight-dialer/)
   - Question ID: 972
