@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 647
+Total de questoes resolvidas: 648
 
 ### Easy
+
+- [#969 Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
+  - Question ID: 969
+  - Arquivo: `problems/easy/933_number-of-recent-calls.py`
+  - Resolvido em: 13:02 - 21/10/26
 
 - [#979 DI String Match](https://leetcode.com/problems/di-string-match/)
   - Question ID: 979
