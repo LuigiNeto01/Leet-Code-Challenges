@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 646
+Total de questoes resolvidas: 647
 
 ### Easy
 
@@ -891,6 +891,11 @@ Total de questoes resolvidas: 646
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#972 Knight Dialer](https://leetcode.com/problems/knight-dialer/)
+  - Question ID: 972
+  - Arquivo: `problems/medium/935_knight-dialer.py`
+  - Resolvido em: 10:13 - 21/10/26
 
 - [#881 Loud and Rich](https://leetcode.com/problems/loud-and-rich/)
   - Question ID: 881
