@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 655
+Total de questoes resolvidas: 656
 
 ### Easy
 
@@ -896,6 +896,11 @@ Total de questoes resolvidas: 655
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#983 Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
+  - Question ID: 983
+  - Arquivo: `problems/medium/946_validate-stack-sequences.py`
+  - Resolvido em: 22:01 - 22/10/26
 
 - [#968 Beautiful Array](https://leetcode.com/problems/beautiful-array/)
   - Question ID: 968
