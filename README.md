@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 652
+Total de questoes resolvidas: 653
 
 ### Easy
 
@@ -896,6 +896,11 @@ Total de questoes resolvidas: 652
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#940 Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
+  - Question ID: 940
+  - Arquivo: `problems/medium/904_fruit-into-baskets.py`
+  - Resolvido em: 11:30 - 22/10/26
 
 - [#959 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)
   - Question ID: 959
