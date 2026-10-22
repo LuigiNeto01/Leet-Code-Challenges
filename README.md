@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 653
+Total de questoes resolvidas: 654
 
 ### Easy
 
@@ -896,6 +896,11 @@ Total de questoes resolvidas: 653
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#909 Stone Game](https://leetcode.com/problems/stone-game/)
+  - Question ID: 909
+  - Arquivo: `problems/medium/877_stone-game.py`
+  - Resolvido em: 15:31 - 22/10/26
 
 - [#940 Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
   - Question ID: 940
