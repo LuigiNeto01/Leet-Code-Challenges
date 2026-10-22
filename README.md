@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 651
+Total de questoes resolvidas: 652
 
 ### Easy
 
@@ -2688,6 +2688,11 @@ Total de questoes resolvidas: 651
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#977 Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)
+  - Question ID: 977
+  - Arquivo: `problems/hard/940_distinct-subsequences-ii.py`
+  - Resolvido em: 06:03 - 22/10/26
 
 - [#823 Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/)
   - Question ID: 823
