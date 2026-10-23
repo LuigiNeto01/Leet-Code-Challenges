@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 658
+Total de questoes resolvidas: 659
 
 ### Easy
 
@@ -2718,6 +2718,11 @@ Total de questoes resolvidas: 658
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#963 Three Equal Parts](https://leetcode.com/problems/three-equal-parts/)
+  - Question ID: 963
+  - Arquivo: `problems/hard/927_three-equal-parts.py`
+  - Resolvido em: 08:10 - 23/10/26
 
 - [#977 Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)
   - Question ID: 977
