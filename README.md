@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 662
+Total de questoes resolvidas: 663
 
 ### Easy
 
@@ -906,6 +906,11 @@ Total de questoes resolvidas: 662
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#945 Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)
+  - Question ID: 945
+  - Arquivo: `problems/medium/909_snakes-and-ladders.py`
+  - Resolvido em: 22:04 - 23/10/26
 
 - [#966 Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)
   - Question ID: 966
