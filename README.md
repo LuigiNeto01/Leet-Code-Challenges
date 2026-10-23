@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 657
+Total de questoes resolvidas: 658
 
 ### Easy
+
+- [#941 Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+  - Question ID: 941
+  - Arquivo: `problems/easy/905_sort-array-by-parity.py`
+  - Resolvido em: 04:01 - 23/10/26
 
 - [#969 Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
   - Question ID: 969
