@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 660
+Total de questoes resolvidas: 661
 
 ### Easy
 
@@ -901,6 +901,11 @@ Total de questoes resolvidas: 660
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#966 Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)
+  - Question ID: 966
+  - Arquivo: `problems/medium/930_binary-subarrays-with-sum.py`
+  - Resolvido em: 16:00 - 23/10/26
 
 - [#985 Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
   - Question ID: 985
