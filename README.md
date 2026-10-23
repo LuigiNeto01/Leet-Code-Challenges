@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 661
+Total de questoes resolvidas: 662
 
 ### Easy
+
+- [#975 Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+  - Question ID: 975
+  - Arquivo: `problems/easy/938_range-sum-of-bst.py`
+  - Resolvido em: 20:35 - 23/10/26
 
 - [#941 Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
   - Question ID: 941
