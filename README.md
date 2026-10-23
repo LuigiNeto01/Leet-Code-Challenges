@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 656
+Total de questoes resolvidas: 657
 
 ### Easy
 
@@ -896,6 +896,11 @@ Total de questoes resolvidas: 656
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#891 Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)
+  - Question ID: 891
+  - Arquivo: `problems/medium/861_score-after-flipping-matrix.py`
+  - Resolvido em: 00:02 - 23/10/26
 
 - [#983 Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
   - Question ID: 983
