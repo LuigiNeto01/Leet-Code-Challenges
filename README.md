@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 666
+Total de questoes resolvidas: 667
 
 ### Easy
+
+- [#904 Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)
+  - Question ID: 904
+  - Arquivo: `problems/easy/872_leaf-similar-trees.py`
+  - Resolvido em: 14:02 - 24/10/26
 
 - [#950 X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
   - Question ID: 950
