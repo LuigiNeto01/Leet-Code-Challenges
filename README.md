@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 664
+Total de questoes resolvidas: 665
 
 ### Easy
+
+- [#950 X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
+  - Question ID: 950
+  - Arquivo: `problems/easy/914_x-of-a-kind-in-a-deck-of-cards.py`
+  - Resolvido em: 06:00 - 24/10/26
 
 - [#975 Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
   - Question ID: 975
