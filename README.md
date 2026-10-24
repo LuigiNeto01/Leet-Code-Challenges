@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 665
+Total de questoes resolvidas: 666
 
 ### Easy
 
@@ -911,6 +911,11 @@ Total de questoes resolvidas: 665
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#797 Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)
+  - Question ID: 797
+  - Arquivo: `problems/medium/781_rabbits-in-forest.py`
+  - Resolvido em: 10:01 - 24/10/26
 
 - [#636 Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)
   - Question ID: 636
