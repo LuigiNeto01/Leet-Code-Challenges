@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 667
+Total de questoes resolvidas: 668
 
 ### Easy
 
@@ -916,6 +916,11 @@ Total de questoes resolvidas: 667
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#907 Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+  - Question ID: 907
+  - Arquivo: `problems/medium/875_koko-eating-bananas.py`
+  - Resolvido em: 18:04 - 24/10/26
 
 - [#797 Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)
   - Question ID: 797
