@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 673
+Total de questoes resolvidas: 674
 
 ### Easy
+
+- [#920 Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)
+  - Question ID: 920
+  - Arquivo: `problems/easy/884_uncommon-words-from-two-sentences.py`
+  - Resolvido em: 21:01 - 25/10/26
 
 - [#563 Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)
   - Question ID: 563
