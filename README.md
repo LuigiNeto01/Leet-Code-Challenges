@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 670
+Total de questoes resolvidas: 671
 
 ### Easy
 
@@ -921,6 +921,11 @@ Total de questoes resolvidas: 670
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#888 Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)
+  - Question ID: 888
+  - Arquivo: `problems/medium/858_mirror-reflection.py`
+  - Resolvido em: 12:05 - 25/10/26
 
 - [#948 Sort an Array](https://leetcode.com/problems/sort-an-array/)
   - Question ID: 948
