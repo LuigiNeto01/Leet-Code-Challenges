@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 672
+Total de questoes resolvidas: 673
 
 ### Easy
+
+- [#563 Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)
+  - Question ID: 563
+  - Arquivo: `problems/easy/563_binary-tree-tilt.py`
+  - Resolvido em: 19:05 - 25/10/26
 
 - [#981 Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
   - Question ID: 981
