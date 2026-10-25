@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 671
+Total de questoes resolvidas: 672
 
 ### Easy
 
@@ -921,6 +921,11 @@ Total de questoes resolvidas: 671
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#955 Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/)
+  - Question ID: 955
+  - Arquivo: `problems/medium/919_complete-binary-tree-inserter.py`
+  - Resolvido em: 15:03 - 25/10/26
 
 - [#888 Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)
   - Question ID: 888
