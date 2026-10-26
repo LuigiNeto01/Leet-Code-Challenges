@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 676
+Total de questoes resolvidas: 677
 
 ### Easy
 
@@ -2798,6 +2798,11 @@ Total de questoes resolvidas: 676
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#973 Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/)
+  - Question ID: 973
+  - Arquivo: `problems/hard/936_stamping-the-sequence.py`
+  - Resolvido em: 14:08 - 26/10/26
 
 - [#863 Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)
   - Question ID: 863
