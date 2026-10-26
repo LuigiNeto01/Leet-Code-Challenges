@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 674
+Total de questoes resolvidas: 675
 
 ### Easy
 
@@ -931,6 +931,11 @@ Total de questoes resolvidas: 674
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#937 Online Stock Span](https://leetcode.com/problems/online-stock-span/)
+  - Question ID: 937
+  - Arquivo: `problems/medium/901_online-stock-span.py`
+  - Resolvido em: 06:02 - 26/10/26
 
 - [#955 Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/)
   - Question ID: 955
