@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 678
+Total de questoes resolvidas: 679
 
 ### Easy
 
@@ -931,6 +931,11 @@ Total de questoes resolvidas: 678
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#868 Push Dominoes](https://leetcode.com/problems/push-dominoes/)
+  - Question ID: 868
+  - Arquivo: `problems/medium/838_push-dominoes.py`
+  - Resolvido em: 22:41 - 26/10/26
 
 - [#986 Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)
   - Question ID: 986
