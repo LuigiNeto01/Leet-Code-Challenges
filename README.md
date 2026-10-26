@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 677
+Total de questoes resolvidas: 678
 
 ### Easy
 
@@ -931,6 +931,11 @@ Total de questoes resolvidas: 677
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#986 Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)
+  - Question ID: 986
+  - Arquivo: `problems/medium/949_largest-time-for-given-digits.py`
+  - Resolvido em: 17:05 - 26/10/26
 
 - [#937 Online Stock Span](https://leetcode.com/problems/online-stock-span/)
   - Question ID: 937
