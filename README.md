@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 675
+Total de questoes resolvidas: 676
 
 ### Easy
 
@@ -2798,6 +2798,11 @@ Total de questoes resolvidas: 675
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#863 Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)
+  - Question ID: 863
+  - Arquivo: `problems/hard/834_sum-of-distances-in-tree.py`
+  - Resolvido em: 10:03 - 26/10/26
 
 - [#963 Three Equal Parts](https://leetcode.com/problems/three-equal-parts/)
   - Question ID: 963
