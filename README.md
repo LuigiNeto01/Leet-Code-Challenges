@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 683
+Total de questoes resolvidas: 684
 
 ### Easy
+
+- [#978 Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
+  - Question ID: 978
+  - Arquivo: `problems/easy/941_valid-mountain-array.py`
+  - Resolvido em: 20:00 - 27/10/26
 
 - [#961 Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
   - Question ID: 961
