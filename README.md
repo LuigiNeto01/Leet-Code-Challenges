@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 682
+Total de questoes resolvidas: 683
 
 ### Easy
 
@@ -941,6 +941,11 @@ Total de questoes resolvidas: 682
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#984 Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
+  - Question ID: 984
+  - Arquivo: `problems/medium/947_most-stones-removed-with-same-row-or-column.py`
+  - Resolvido em: 17:10 - 27/10/26
 
 - [#896 Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)
   - Question ID: 896
