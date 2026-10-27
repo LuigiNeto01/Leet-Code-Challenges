@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 681
+Total de questoes resolvidas: 682
 
 ### Easy
+
+- [#961 Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
+  - Question ID: 961
+  - Arquivo: `problems/easy/925_long-pressed-name.py`
+  - Resolvido em: 14:07 - 27/10/26
 
 - [#944 Smallest Range I](https://leetcode.com/problems/smallest-range-i/)
   - Question ID: 944
