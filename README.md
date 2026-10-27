@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 679
+Total de questoes resolvidas: 680
 
 ### Easy
 
@@ -931,6 +931,11 @@ Total de questoes resolvidas: 679
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#896 Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)
+  - Question ID: 896
+  - Arquivo: `problems/medium/865_smallest-subtree-with-all-the-deepest-nodes.py`
+  - Resolvido em: 09:11 - 27/10/26
 
 - [#868 Push Dominoes](https://leetcode.com/problems/push-dominoes/)
   - Question ID: 868
