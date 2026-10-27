@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 680
+Total de questoes resolvidas: 681
 
 ### Easy
+
+- [#944 Smallest Range I](https://leetcode.com/problems/smallest-range-i/)
+  - Question ID: 944
+  - Arquivo: `problems/easy/908_smallest-range-i.py`
+  - Resolvido em: 12:00 - 27/10/26
 
 - [#920 Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)
   - Question ID: 920
