@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 685
+Total de questoes resolvidas: 686
 
 ### Easy
 
@@ -946,6 +946,11 @@ Total de questoes resolvidas: 685
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#893 All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)
+  - Question ID: 893
+  - Arquivo: `problems/medium/863_all-nodes-distance-k-in-binary-tree.py`
+  - Resolvido em: 08:04 - 28/10/26
 
 - [#984 Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
   - Question ID: 984
