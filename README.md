@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 684
+Total de questoes resolvidas: 685
 
 ### Easy
 
@@ -2833,6 +2833,11 @@ Total de questoes resolvidas: 684
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#949 Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/)
+  - Question ID: 949
+  - Arquivo: `problems/hard/913_cat-and-mouse.py`
+  - Resolvido em: 00:08 - 28/10/26
 
 - [#973 Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/)
   - Question ID: 973
