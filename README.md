@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 689
+Total de questoes resolvidas: 690
 
 ### Easy
+
+- [#933 Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)
+  - Question ID: 933
+  - Arquivo: `problems/easy/897_increasing-order-search-tree.py`
+  - Resolvido em: 19:08 - 28/10/26
 
 - [#978 Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
   - Question ID: 978
