@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 687
+Total de questoes resolvidas: 688
 
 ### Easy
 
@@ -946,6 +946,11 @@ Total de questoes resolvidas: 687
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#916 Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)
+  - Question ID: 916
+  - Arquivo: `problems/medium/880_decoded-string-at-index.py`
+  - Resolvido em: 13:05 - 28/10/26
 
 - [#929 Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/)
   - Question ID: 929
