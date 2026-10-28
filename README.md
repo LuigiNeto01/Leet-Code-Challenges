@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 686
+Total de questoes resolvidas: 687
 
 ### Easy
 
@@ -946,6 +946,11 @@ Total de questoes resolvidas: 686
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#929 Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/)
+  - Question ID: 929
+  - Arquivo: `problems/medium/893_groups-of-special-equivalent-strings.py`
+  - Resolvido em: 10:00 - 28/10/26
 
 - [#893 All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)
   - Question ID: 893
