@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 692
+Total de questoes resolvidas: 693
 
 ### Easy
 
@@ -2863,6 +2863,11 @@ Total de questoes resolvidas: 692
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#942 Super Palindromes](https://leetcode.com/problems/super-palindromes/)
+  - Question ID: 942
+  - Arquivo: `problems/hard/906_super-palindromes.py`
+  - Resolvido em: 11:32 - 29/10/26
 
 - [#1038 Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/)
   - Question ID: 1038
