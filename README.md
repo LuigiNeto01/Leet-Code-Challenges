@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 693
+Total de questoes resolvidas: 694
 
 ### Easy
+
+- [#889 Buddy Strings](https://leetcode.com/problems/buddy-strings/)
+  - Question ID: 889
+  - Arquivo: `problems/easy/859_buddy-strings.py`
+  - Resolvido em: 15:42 - 29/10/26
 
 - [#933 Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)
   - Question ID: 933
