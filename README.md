@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 691
+Total de questoes resolvidas: 692
 
 ### Easy
 
@@ -2863,6 +2863,11 @@ Total de questoes resolvidas: 691
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1038 Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/)
+  - Question ID: 1038
+  - Arquivo: `problems/hard/996_number-of-squareful-arrays.py`
+  - Resolvido em: 06:05 - 29/10/26
 
 - [#949 Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/)
   - Question ID: 949
