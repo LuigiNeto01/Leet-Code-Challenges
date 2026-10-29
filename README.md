@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 695
+Total de questoes resolvidas: 696
 
 ### Easy
 
@@ -961,6 +961,11 @@ Total de questoes resolvidas: 695
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1021 Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)
+  - Question ID: 1021
+  - Arquivo: `problems/medium/979_distribute-coins-in-binary-tree.py`
+  - Resolvido em: 22:05 - 29/10/26
 
 - [#957 Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
   - Question ID: 957
