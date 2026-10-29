@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 694
+Total de questoes resolvidas: 695
 
 ### Easy
+
+- [#990 Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
+  - Question ID: 990
+  - Arquivo: `problems/easy/953_verifying-an-alien-dictionary.py`
+  - Resolvido em: 18:01 - 29/10/26
 
 - [#889 Buddy Strings](https://leetcode.com/problems/buddy-strings/)
   - Question ID: 889
