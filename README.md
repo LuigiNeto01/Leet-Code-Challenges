@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 700
+Total de questoes resolvidas: 701
 
 ### Easy
 
@@ -961,6 +961,11 @@ Total de questoes resolvidas: 700
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1033 Broken Calculator](https://leetcode.com/problems/broken-calculator/)
+  - Question ID: 1033
+  - Arquivo: `problems/medium/991_broken-calculator.py`
+  - Resolvido em: 16:01 - 30/10/26
 
 - [#998 Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)
   - Question ID: 998
