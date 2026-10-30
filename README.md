@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 701
+Total de questoes resolvidas: 702
 
 ### Easy
+
+- [#1005 Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)
+  - Question ID: 1005
+  - Arquivo: `problems/easy/965_univalued-binary-tree.py`
+  - Resolvido em: 20:31 - 30/10/26
 
 - [#990 Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
   - Question ID: 990
