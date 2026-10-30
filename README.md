@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 699
+Total de questoes resolvidas: 700
 
 ### Easy
 
@@ -961,6 +961,11 @@ Total de questoes resolvidas: 699
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#998 Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)
+  - Question ID: 998
+  - Arquivo: `problems/medium/958_check-completeness-of-a-binary-tree.py`
+  - Resolvido em: 12:30 - 30/10/26
 
 - [#1002 Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)
   - Question ID: 1002
