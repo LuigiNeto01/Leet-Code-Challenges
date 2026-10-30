@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 696
+Total de questoes resolvidas: 697
 
 ### Easy
 
@@ -961,6 +961,11 @@ Total de questoes resolvidas: 696
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1007 Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)
+  - Question ID: 1007
+  - Arquivo: `problems/medium/967_numbers-with-same-consecutive-differences.py`
+  - Resolvido em: 00:02 - 30/10/26
 
 - [#1021 Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)
   - Question ID: 1021
