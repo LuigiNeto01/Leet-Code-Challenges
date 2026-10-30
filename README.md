@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 698
+Total de questoes resolvidas: 699
 
 ### Easy
 
@@ -961,6 +961,11 @@ Total de questoes resolvidas: 698
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1002 Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)
+  - Question ID: 1002
+  - Arquivo: `problems/medium/962_maximum-width-ramp.py`
+  - Resolvido em: 08:01 - 30/10/26
 
 - [#806 Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)
   - Question ID: 806
