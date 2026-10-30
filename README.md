@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 697
+Total de questoes resolvidas: 698
 
 ### Easy
 
@@ -961,6 +961,11 @@ Total de questoes resolvidas: 697
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#806 Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)
+  - Question ID: 806
+  - Arquivo: `problems/medium/790_domino-and-tromino-tiling.py`
+  - Resolvido em: 04:04 - 30/10/26
 
 - [#1007 Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)
   - Question ID: 1007
