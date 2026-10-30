@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 702
+Total de questoes resolvidas: 703
 
 ### Easy
 
@@ -2908,6 +2908,11 @@ Total de questoes resolvidas: 702
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#939 Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/)
+  - Question ID: 939
+  - Arquivo: `problems/hard/903_valid-permutations-for-di-sequence.py`
+  - Resolvido em: 22:06 - 30/10/26
 
 - [#942 Super Palindromes](https://leetcode.com/problems/super-palindromes/)
   - Question ID: 942
