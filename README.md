@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 706
+Total de questoes resolvidas: 707
 
 ### Easy
+
+- [#799 Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
+  - Question ID: 799
+  - Arquivo: `problems/easy/783_minimum-distance-between-bst-nodes.py`
+  - Resolvido em: 14:01 - 31/10/26
 
 - [#958 Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
   - Question ID: 958
