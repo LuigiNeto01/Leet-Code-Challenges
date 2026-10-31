@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 703
+Total de questoes resolvidas: 704
 
 ### Easy
 
@@ -966,6 +966,11 @@ Total de questoes resolvidas: 703
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#974 Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)
+  - Question ID: 974
+  - Arquivo: `problems/medium/937_reorder-data-in-log-files.py`
+  - Resolvido em: 00:01 - 31/10/26
 
 - [#1033 Broken Calculator](https://leetcode.com/problems/broken-calculator/)
   - Question ID: 1033
