@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 705
+Total de questoes resolvidas: 706
 
 ### Easy
 
@@ -971,6 +971,11 @@ Total de questoes resolvidas: 705
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#999 Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)
+  - Question ID: 999
+  - Arquivo: `problems/medium/959_regions-cut-by-slashes.py`
+  - Resolvido em: 10:01 - 31/10/26
 
 - [#974 Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)
   - Question ID: 974
