@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 708
+Total de questoes resolvidas: 709
 
 ### Easy
 
@@ -2928,6 +2928,11 @@ Total de questoes resolvidas: 708
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#964 Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/)
+  - Question ID: 964
+  - Arquivo: `problems/hard/928_minimize-malware-spread-ii.py`
+  - Resolvido em: 22:34 - 31/10/26
 
 - [#1024 Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/)
   - Question ID: 1024
