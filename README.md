@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 707
+Total de questoes resolvidas: 708
 
 ### Easy
 
@@ -2928,6 +2928,11 @@ Total de questoes resolvidas: 707
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1024 Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/)
+  - Question ID: 1024
+  - Arquivo: `problems/hard/982_triples-with-bitwise-and-equal-to-zero.py`
+  - Resolvido em: 18:08 - 31/10/26
 
 - [#939 Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/)
   - Question ID: 939
