@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 711
+Total de questoes resolvidas: 712
 
 ### Easy
 
@@ -2938,6 +2938,11 @@ Total de questoes resolvidas: 711
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1008 Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)
+  - Question ID: 1008
+  - Arquivo: `problems/hard/968_binary-tree-cameras.py`
+  - Resolvido em: 15:10 - 01/11/26
 
 - [#964 Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/)
   - Question ID: 964
