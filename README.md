@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 710
+Total de questoes resolvidas: 711
 
 ### Easy
+
+- [#1031 Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
+  - Question ID: 1031
+  - Arquivo: `problems/easy/989_add-to-array-form-of-integer.py`
+  - Resolvido em: 12:01 - 01/11/26
 
 - [#799 Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
   - Question ID: 799
