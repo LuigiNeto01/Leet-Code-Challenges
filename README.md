@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 712
+Total de questoes resolvidas: 713
 
 ### Easy
 
@@ -2938,6 +2938,11 @@ Total de questoes resolvidas: 712
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#895 Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/)
+  - Question ID: 895
+  - Arquivo: `problems/hard/864_shortest-path-to-get-all-keys.py`
+  - Resolvido em: 19:01 - 01/11/26
 
 - [#1008 Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)
   - Question ID: 1008
