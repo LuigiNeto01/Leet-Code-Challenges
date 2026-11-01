@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 709
+Total de questoes resolvidas: 710
 
 ### Easy
 
@@ -976,6 +976,11 @@ Total de questoes resolvidas: 709
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#886 Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
+  - Question ID: 886
+  - Arquivo: `problems/medium/856_score-of-parentheses.py`
+  - Resolvido em: 07:30 - 01/11/26
 
 - [#999 Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)
   - Question ID: 999
