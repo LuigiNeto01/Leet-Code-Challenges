@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 713
+Total de questoes resolvidas: 714
 
 ### Easy
 
@@ -981,6 +981,11 @@ Total de questoes resolvidas: 713
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#992 Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/)
+  - Question ID: 992
+  - Arquivo: `problems/medium/955_delete-columns-to-make-sorted-ii.py`
+  - Resolvido em: 21:17 - 01/11/26
 
 - [#886 Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
   - Question ID: 886
