@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 715
+Total de questoes resolvidas: 716
 
 ### Easy
+
+- [#1035 Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)
+  - Question ID: 1035
+  - Arquivo: `problems/easy/993_cousins-in-binary-tree.py`
+  - Resolvido em: 10:00 - 02/11/26
 
 - [#1031 Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
   - Question ID: 1031
