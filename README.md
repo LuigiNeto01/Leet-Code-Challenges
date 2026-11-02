@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 718
+Total de questoes resolvidas: 719
 
 ### Easy
 
@@ -986,6 +986,11 @@ Total de questoes resolvidas: 718
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1023 Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
+  - Question ID: 1023
+  - Arquivo: `problems/medium/981_time-based-key-value-store.py`
+  - Resolvido em: 22:30 - 02/11/26
 
 - [#971 Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
   - Question ID: 971
