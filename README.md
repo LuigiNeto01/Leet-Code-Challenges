@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 717
+Total de questoes resolvidas: 718
 
 ### Easy
 
@@ -2958,6 +2958,11 @@ Total de questoes resolvidas: 717
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#980 Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)
+  - Question ID: 980
+  - Arquivo: `problems/hard/943_find-the-shortest-superstring.py`
+  - Resolvido em: 17:10 - 02/11/26
 
 - [#895 Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/)
   - Question ID: 895
