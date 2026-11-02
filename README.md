@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 716
+Total de questoes resolvidas: 717
 
 ### Easy
 
@@ -986,6 +986,11 @@ Total de questoes resolvidas: 716
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#971 Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
+  - Question ID: 971
+  - Arquivo: `problems/medium/934_shortest-bridge.py`
+  - Resolvido em: 14:02 - 02/11/26
 
 - [#962 Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)
   - Question ID: 962
