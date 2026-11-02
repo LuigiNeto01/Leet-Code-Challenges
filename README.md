@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 714
+Total de questoes resolvidas: 715
 
 ### Easy
 
@@ -981,6 +981,11 @@ Total de questoes resolvidas: 714
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#962 Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)
+  - Question ID: 962
+  - Arquivo: `problems/medium/926_flip-string-to-monotone-increasing.py`
+  - Resolvido em: 06:20 - 02/11/26
 
 - [#992 Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/)
   - Question ID: 992
