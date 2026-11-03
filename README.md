@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 719
+Total de questoes resolvidas: 720
 
 ### Easy
+
+- [#1041 Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)
+  - Question ID: 1041
+  - Arquivo: `problems/easy/999_available-captures-for-rook.py`
+  - Resolvido em: 09:01 - 03/11/26
 
 - [#1035 Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)
   - Question ID: 1035
