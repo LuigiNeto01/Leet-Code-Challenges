@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 722
+Total de questoes resolvidas: 723
 
 ### Easy
+
+- [#965 Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)
+  - Question ID: 965
+  - Arquivo: `problems/easy/929_unique-email-addresses.py`
+  - Resolvido em: 17:05 - 03/11/26
 
 - [#1041 Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)
   - Question ID: 1041
