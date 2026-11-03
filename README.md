@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 721
+Total de questoes resolvidas: 722
 
 ### Easy
 
@@ -991,6 +991,11 @@ Total de questoes resolvidas: 721
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1020 Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)
+  - Question ID: 1020
+  - Arquivo: `problems/medium/978_longest-turbulent-subarray.py`
+  - Resolvido em: 14:01 - 03/11/26
 
 - [#1023 Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
   - Question ID: 1023
