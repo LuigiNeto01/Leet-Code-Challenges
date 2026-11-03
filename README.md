@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 723
+Total de questoes resolvidas: 724
 
 ### Easy
 
@@ -996,6 +996,11 @@ Total de questoes resolvidas: 723
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1011 Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)
+  - Question ID: 1011
+  - Arquivo: `problems/medium/971_flip-binary-tree-to-match-preorder-traversal.py`
+  - Resolvido em: 20:08 - 03/11/26
 
 - [#1020 Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)
   - Question ID: 1020
