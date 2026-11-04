@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 725
+Total de questoes resolvidas: 726
 
 ### Easy
 
@@ -996,6 +996,11 @@ Total de questoes resolvidas: 725
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1036 Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+  - Question ID: 1036
+  - Arquivo: `problems/medium/994_rotting-oranges.py`
+  - Resolvido em: 08:01 - 04/11/26
 
 - [#1011 Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)
   - Question ID: 1011
