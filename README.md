@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 724
+Total de questoes resolvidas: 725
 
 ### Easy
 
@@ -2983,6 +2983,11 @@ Total de questoes resolvidas: 724
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#989 Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)
+  - Question ID: 989
+  - Arquivo: `problems/hard/952_largest-component-size-by-common-factor.py`
+  - Resolvido em: 00:02 - 04/11/26
 
 - [#1022 Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)
   - Question ID: 1022
