@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 729
+Total de questoes resolvidas: 730
 
 ### Easy
+
+- [#724 Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+  - Question ID: 724
+  - Arquivo: `problems/easy/724_find-pivot-index.py`
+  - Resolvido em: 19:01 - 04/11/26
 
 - [#965 Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)
   - Question ID: 965
