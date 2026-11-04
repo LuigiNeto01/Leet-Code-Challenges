@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 727
+Total de questoes resolvidas: 728
 
 ### Easy
 
@@ -996,6 +996,11 @@ Total de questoes resolvidas: 727
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#731 My Calendar II](https://leetcode.com/problems/my-calendar-ii/)
+  - Question ID: 731
+  - Arquivo: `problems/medium/731_my-calendar-ii.py`
+  - Resolvido em: 13:03 - 04/11/26
 
 - [#1040 Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)
   - Question ID: 1040
