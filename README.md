@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 730
+Total de questoes resolvidas: 731
 
 ### Easy
 
@@ -1001,6 +1001,11 @@ Total de questoes resolvidas: 730
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#934 Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/)
+  - Question ID: 934
+  - Arquivo: `problems/medium/898_bitwise-ors-of-subarrays.py`
+  - Resolvido em: 23:01 - 04/11/26
 
 - [#731 My Calendar II](https://leetcode.com/problems/my-calendar-ii/)
   - Question ID: 731
