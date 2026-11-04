@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 728
+Total de questoes resolvidas: 729
 
 ### Easy
 
@@ -2998,6 +2998,11 @@ Total de questoes resolvidas: 728
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1012 Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/)
+  - Question ID: 1012
+  - Arquivo: `problems/hard/972_equal-rational-numbers.py`
+  - Resolvido em: 16:08 - 04/11/26
 
 - [#989 Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)
   - Question ID: 989
