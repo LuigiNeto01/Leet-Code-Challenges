@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 731
+Total de questoes resolvidas: 732
 
 ### Easy
 
@@ -3008,6 +3008,11 @@ Total de questoes resolvidas: 731
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#911 Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)
+  - Question ID: 911
+  - Arquivo: `problems/hard/879_profitable-schemes.py`
+  - Resolvido em: 06:01 - 05/11/26
 
 - [#1012 Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/)
   - Question ID: 1012
