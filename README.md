@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 733
+Total de questoes resolvidas: 734
 
 ### Easy
 
@@ -1001,6 +1001,11 @@ Total de questoes resolvidas: 733
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1010 Powerful Integers](https://leetcode.com/problems/powerful-integers/)
+  - Question ID: 1010
+  - Arquivo: `problems/medium/970_powerful-integers.py`
+  - Resolvido em: 15:37 - 05/11/26
 
 - [#976 Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/)
   - Question ID: 976
