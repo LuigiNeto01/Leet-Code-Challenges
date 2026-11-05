@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 732
+Total de questoes resolvidas: 733
 
 ### Easy
 
@@ -1001,6 +1001,11 @@ Total de questoes resolvidas: 732
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#976 Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/)
+  - Question ID: 976
+  - Arquivo: `problems/medium/939_minimum-area-rectangle.py`
+  - Resolvido em: 12:01 - 05/11/26
 
 - [#934 Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/)
   - Question ID: 934
