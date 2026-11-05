@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 735
+Total de questoes resolvidas: 736
 
 ### Easy
+
+- [#1039 Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+  - Question ID: 1039
+  - Arquivo: `problems/easy/997_find-the-town-judge.py`
+  - Resolvido em: 22:04 - 05/11/26
 
 - [#724 Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
   - Question ID: 724
