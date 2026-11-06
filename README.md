@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 739
+Total de questoes resolvidas: 740
 
 ### Easy
 
@@ -1006,6 +1006,11 @@ Total de questoes resolvidas: 739
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#987 Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
+  - Question ID: 987
+  - Arquivo: `problems/medium/950_reveal-cards-in-increasing-order.py`
+  - Resolvido em: 12:31 - 06/11/26
 
 - [#1105 Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)
   - Question ID: 1105
