@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 737
+Total de questoes resolvidas: 738
 
 ### Easy
 
@@ -3033,6 +3033,11 @@ Total de questoes resolvidas: 737
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1029 Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
+  - Question ID: 1029
+  - Arquivo: `problems/hard/987_vertical-order-traversal-of-a-binary-tree.py`
+  - Resolvido em: 04:02 - 06/11/26
 
 - [#911 Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)
   - Question ID: 911
