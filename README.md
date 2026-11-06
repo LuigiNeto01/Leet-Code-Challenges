@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 740
+Total de questoes resolvidas: 741
 
 ### Easy
 
@@ -1006,6 +1006,11 @@ Total de questoes resolvidas: 740
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1003 Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/)
+  - Question ID: 1003
+  - Arquivo: `problems/medium/963_minimum-area-rectangle-ii.py`
+  - Resolvido em: 16:01 - 06/11/26
 
 - [#987 Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
   - Question ID: 987
