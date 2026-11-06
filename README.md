@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 741
+Total de questoes resolvidas: 742
 
 ### Easy
+
+- [#1044 Find Common Characters](https://leetcode.com/problems/find-common-characters/)
+  - Question ID: 1044
+  - Arquivo: `problems/easy/1002_find-common-characters.py`
+  - Resolvido em: 20:30 - 06/11/26
 
 - [#1039 Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
   - Question ID: 1039
