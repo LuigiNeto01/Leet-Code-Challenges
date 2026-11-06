@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 742
+Total de questoes resolvidas: 743
 
 ### Easy
 
@@ -1011,6 +1011,11 @@ Total de questoes resolvidas: 742
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1103 Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/)
+  - Question ID: 1103
+  - Arquivo: `problems/medium/1033_moving-stones-until-consecutive.py`
+  - Resolvido em: 22:03 - 06/11/26
 
 - [#1003 Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/)
   - Question ID: 1003
