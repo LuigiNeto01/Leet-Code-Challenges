@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 738
+Total de questoes resolvidas: 739
 
 ### Easy
 
@@ -1006,6 +1006,11 @@ Total de questoes resolvidas: 738
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1105 Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)
+  - Question ID: 1105
+  - Arquivo: `problems/medium/1035_uncrossed-lines.py`
+  - Resolvido em: 08:01 - 06/11/26
 
 - [#676 Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)
   - Question ID: 676
