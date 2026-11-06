@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 736
+Total de questoes resolvidas: 737
 
 ### Easy
 
@@ -1006,6 +1006,11 @@ Total de questoes resolvidas: 736
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#676 Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)
+  - Question ID: 676
+  - Arquivo: `problems/medium/676_implement-magic-dictionary.py`
+  - Resolvido em: 00:15 - 06/11/26
 
 - [#654 Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)
   - Question ID: 654
