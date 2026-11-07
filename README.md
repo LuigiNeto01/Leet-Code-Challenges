@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 748
+Total de questoes resolvidas: 749
 
 ### Easy
 
@@ -1016,6 +1016,11 @@ Total de questoes resolvidas: 748
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1072 Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)
+  - Question ID: 1072
+  - Arquivo: `problems/medium/1019_next-greater-node-in-linked-list.py`
+  - Resolvido em: 22:42 - 07/11/26
 
 - [#967 Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
   - Question ID: 967
