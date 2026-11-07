@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 745
+Total de questoes resolvidas: 746
 
 ### Easy
 
@@ -3063,6 +3063,11 @@ Total de questoes resolvidas: 745
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1034 Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
+  - Question ID: 1034
+  - Arquivo: `problems/hard/992_subarrays-with-k-different-integers.py`
+  - Resolvido em: 10:17 - 07/11/26
 
 - [#956 Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/)
   - Question ID: 956
