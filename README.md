@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 744
+Total de questoes resolvidas: 745
 
 ### Easy
 
@@ -3063,6 +3063,11 @@ Total de questoes resolvidas: 744
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#956 Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/)
+  - Question ID: 956
+  - Arquivo: `problems/hard/920_number-of-music-playlists.py`
+  - Resolvido em: 06:05 - 07/11/26
 
 - [#1029 Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
   - Question ID: 1029
