@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 747
+Total de questoes resolvidas: 748
 
 ### Easy
 
@@ -3068,6 +3068,11 @@ Total de questoes resolvidas: 747
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#730 Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/)
+  - Question ID: 730
+  - Arquivo: `problems/hard/730_count-different-palindromic-subsequences.py`
+  - Resolvido em: 18:02 - 07/11/26
 
 - [#1034 Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
   - Question ID: 1034
