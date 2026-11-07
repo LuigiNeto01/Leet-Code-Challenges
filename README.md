@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 746
+Total de questoes resolvidas: 747
 
 ### Easy
 
@@ -1016,6 +1016,11 @@ Total de questoes resolvidas: 746
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#967 Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
+  - Question ID: 967
+  - Arquivo: `problems/medium/931_minimum-falling-path-sum.py`
+  - Resolvido em: 14:01 - 07/11/26
 
 - [#1103 Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/)
   - Question ID: 1103
