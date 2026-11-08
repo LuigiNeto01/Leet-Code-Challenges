@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 752
+Total de questoes resolvidas: 753
 
 ### Easy
+
+- [#1115 Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)
+  - Question ID: 1115
+  - Arquivo: `problems/easy/1037_valid-boomerang.py`
+  - Resolvido em: 19:08 - 08/11/26
 
 - [#1127 Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
   - Question ID: 1127
