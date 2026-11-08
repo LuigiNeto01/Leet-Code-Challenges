@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 753
+Total de questoes resolvidas: 754
 
 ### Easy
 
@@ -3088,6 +3088,11 @@ Total de questoes resolvidas: 753
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1122 Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)
+  - Question ID: 1122
+  - Arquivo: `problems/hard/1044_longest-duplicate-substring.py`
+  - Resolvido em: 21:24 - 08/11/26
 
 - [#927 Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/)
   - Question ID: 927
