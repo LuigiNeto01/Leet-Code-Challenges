@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 751
+Total de questoes resolvidas: 752
 
 ### Easy
 
@@ -1016,6 +1016,11 @@ Total de questoes resolvidas: 751
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#897 Prime Palindrome](https://leetcode.com/problems/prime-palindrome/)
+  - Question ID: 897
+  - Arquivo: `problems/medium/866_prime-palindrome.py`
+  - Resolvido em: 15:01 - 08/11/26
 
 - [#1130 Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)
   - Question ID: 1130
