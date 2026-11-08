@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 749
+Total de questoes resolvidas: 750
 
 ### Easy
 
@@ -1016,6 +1016,11 @@ Total de questoes resolvidas: 749
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1130 Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)
+  - Question ID: 1130
+  - Arquivo: `problems/medium/1049_last-stone-weight-ii.py`
+  - Resolvido em: 07:36 - 08/11/26
 
 - [#1072 Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)
   - Question ID: 1072
