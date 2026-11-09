@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 754
+Total de questoes resolvidas: 755
 
 ### Easy
+
+- [#1001 N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
+  - Question ID: 1001
+  - Arquivo: `problems/easy/961_n-repeated-element-in-size-2n-array.py`
+  - Resolvido em: 06:00 - 09/11/26
 
 - [#1115 Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)
   - Question ID: 1115
