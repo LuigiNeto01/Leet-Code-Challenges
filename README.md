@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 758
+Total de questoes resolvidas: 759
 
 ### Easy
+
+- [#1054 Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
+  - Question ID: 1054
+  - Arquivo: `problems/easy/1009_complement-of-base-10-integer.py`
+  - Resolvido em: 22:30 - 09/11/26
 
 - [#1001 N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
   - Question ID: 1001
