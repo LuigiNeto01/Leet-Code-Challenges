@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 756
+Total de questoes resolvidas: 757
 
 ### Easy
 
@@ -1026,6 +1026,11 @@ Total de questoes resolvidas: 756
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#947 Online Election](https://leetcode.com/problems/online-election/)
+  - Question ID: 947
+  - Arquivo: `problems/medium/911_online-election.py`
+  - Resolvido em: 14:05 - 09/11/26
 
 - [#1121 Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)
   - Question ID: 1121
