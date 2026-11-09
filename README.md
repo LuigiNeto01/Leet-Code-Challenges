@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 757
+Total de questoes resolvidas: 758
 
 ### Easy
 
@@ -3103,6 +3103,11 @@ Total de questoes resolvidas: 757
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#902 Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
+  - Question ID: 902
+  - Arquivo: `problems/hard/871_minimum-number-of-refueling-stops.py`
+  - Resolvido em: 17:08 - 09/11/26
 
 - [#1122 Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)
   - Question ID: 1122
