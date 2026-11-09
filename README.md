@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 755
+Total de questoes resolvidas: 756
 
 ### Easy
 
@@ -1026,6 +1026,11 @@ Total de questoes resolvidas: 755
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1121 Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)
+  - Question ID: 1121
+  - Arquivo: `problems/medium/1043_partition-array-for-maximum-sum.py`
+  - Resolvido em: 10:02 - 09/11/26
 
 - [#897 Prime Palindrome](https://leetcode.com/problems/prime-palindrome/)
   - Question ID: 897
