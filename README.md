@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 763
+Total de questoes resolvidas: 764
 
 ### Easy
 
@@ -3123,6 +3123,11 @@ Total de questoes resolvidas: 763
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#828 Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/)
+  - Question ID: 828
+  - Arquivo: `problems/hard/810_chalkboard-xor-game.py`
+  - Resolvido em: 20:03 - 10/11/26
 
 - [#1097 Stream of Characters](https://leetcode.com/problems/stream-of-characters/)
   - Question ID: 1097
