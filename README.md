@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 762
+Total de questoes resolvidas: 763
 
 ### Easy
 
@@ -1031,6 +1031,11 @@ Total de questoes resolvidas: 762
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1073 Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)
+  - Question ID: 1073
+  - Arquivo: `problems/medium/1020_number-of-enclaves.py`
+  - Resolvido em: 17:01 - 10/11/26
 
 - [#1120 Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)
   - Question ID: 1120
