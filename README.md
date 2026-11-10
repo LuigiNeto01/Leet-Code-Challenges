@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 759
+Total de questoes resolvidas: 760
 
 ### Easy
 
@@ -1031,6 +1031,11 @@ Total de questoes resolvidas: 759
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1092 Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
+  - Question ID: 1092
+  - Arquivo: `problems/medium/1026_maximum-difference-between-node-and-ancestor.py`
+  - Resolvido em: 09:02 - 10/11/26
 
 - [#947 Online Election](https://leetcode.com/problems/online-election/)
   - Question ID: 947
