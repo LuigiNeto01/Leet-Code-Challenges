@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 760
+Total de questoes resolvidas: 761
 
 ### Easy
 
@@ -1031,6 +1031,11 @@ Total de questoes resolvidas: 760
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1120 Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)
+  - Question ID: 1120
+  - Arquivo: `problems/medium/1042_flower-planting-with-no-adjacent.py`
+  - Resolvido em: 12:00 - 10/11/26
 
 - [#1092 Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
   - Question ID: 1092
