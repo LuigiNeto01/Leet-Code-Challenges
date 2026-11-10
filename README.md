@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 761
+Total de questoes resolvidas: 762
 
 ### Easy
 
@@ -3118,6 +3118,11 @@ Total de questoes resolvidas: 761
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1097 Stream of Characters](https://leetcode.com/problems/stream-of-characters/)
+  - Question ID: 1097
+  - Arquivo: `problems/hard/1032_stream-of-characters.py`
+  - Resolvido em: 14:05 - 10/11/26
 
 - [#902 Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
   - Question ID: 902
