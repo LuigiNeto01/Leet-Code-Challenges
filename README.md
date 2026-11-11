@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 770
+Total de questoes resolvidas: 771
 
 ### Easy
 
@@ -1056,6 +1056,11 @@ Total de questoes resolvidas: 770
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1104 Coloring A Border](https://leetcode.com/problems/coloring-a-border/)
+  - Question ID: 1104
+  - Arquivo: `problems/medium/1034_coloring-a-border.py`
+  - Resolvido em: 23:04 - 11/11/26
 
 - [#1070 Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/)
   - Question ID: 1070
