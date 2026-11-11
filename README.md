@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 767
+Total de questoes resolvidas: 768
 
 ### Easy
+
+- [#953 Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)
+  - Question ID: 953
+  - Arquivo: `problems/easy/917_reverse-only-letters.py`
+  - Resolvido em: 13:20 - 11/11/26
 
 - [#1071 Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)
   - Question ID: 1071
