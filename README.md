@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 766
+Total de questoes resolvidas: 767
 
 ### Easy
+
+- [#1071 Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)
+  - Question ID: 1071
+  - Arquivo: `problems/easy/1018_binary-prefix-divisible-by-5.py`
+  - Resolvido em: 10:39 - 11/11/26
 
 - [#874 Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
   - Question ID: 874
