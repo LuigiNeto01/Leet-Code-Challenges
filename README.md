@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 765
+Total de questoes resolvidas: 766
 
 ### Easy
 
@@ -1036,6 +1036,11 @@ Total de questoes resolvidas: 765
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1070 Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/)
+  - Question ID: 1070
+  - Arquivo: `problems/medium/1017_convert-to-base-2.py`
+  - Resolvido em: 08:00 - 11/11/26
 
 - [#1073 Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)
   - Question ID: 1073
