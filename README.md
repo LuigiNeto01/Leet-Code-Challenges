@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 764
+Total de questoes resolvidas: 765
 
 ### Easy
+
+- [#874 Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+  - Question ID: 874
+  - Arquivo: `problems/easy/844_backspace-string-compare.py`
+  - Resolvido em: 00:00 - 11/11/26
 
 - [#1054 Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
   - Question ID: 1054
