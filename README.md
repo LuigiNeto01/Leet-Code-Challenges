@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 768
+Total de questoes resolvidas: 769
 
 ### Easy
+
+- [#1079 Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
+  - Question ID: 1079
+  - Arquivo: `problems/easy/1022_sum-of-root-to-leaf-binary-numbers.py`
+  - Resolvido em: 16:03 - 11/11/26
 
 - [#953 Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)
   - Question ID: 953
