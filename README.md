@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 769
+Total de questoes resolvidas: 770
 
 ### Easy
+
+- [#1019 Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+  - Question ID: 1019
+  - Arquivo: `problems/easy/977_squares-of-a-sorted-array.py`
+  - Resolvido em: 19:12 - 11/11/26
 
 - [#1079 Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
   - Question ID: 1079
