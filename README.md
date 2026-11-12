@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 772
+Total de questoes resolvidas: 773
 
 ### Easy
 
@@ -3163,6 +3163,11 @@ Total de questoes resolvidas: 772
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1004 Least Operators to Express Number](https://leetcode.com/problems/least-operators-to-express-number/)
+  - Question ID: 1004
+  - Arquivo: `problems/hard/964_least-operators-to-express-number.py`
+  - Resolvido em: 11:37 - 12/11/26
 
 - [#828 Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/)
   - Question ID: 828
