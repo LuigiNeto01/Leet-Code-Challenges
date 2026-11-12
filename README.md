@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 774
+Total de questoes resolvidas: 775
 
 ### Easy
 
@@ -1061,6 +1061,11 @@ Total de questoes resolvidas: 774
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1045 Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)
+  - Question ID: 1045
+  - Arquivo: `problems/medium/1003_check-if-word-is-valid-after-substitutions.py`
+  - Resolvido em: 18:04 - 12/11/26
 
 - [#1087 Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)
   - Question ID: 1087
