@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 775
+Total de questoes resolvidas: 776
 
 ### Easy
 
@@ -1061,6 +1061,11 @@ Total de questoes resolvidas: 775
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1064 Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)
+  - Question ID: 1064
+  - Arquivo: `problems/medium/1015_smallest-integer-divisible-by-k.py`
+  - Resolvido em: 22:07 - 12/11/26
 
 - [#1045 Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)
   - Question ID: 1045
