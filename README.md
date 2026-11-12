@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 773
+Total de questoes resolvidas: 774
 
 ### Easy
 
@@ -1061,6 +1061,11 @@ Total de questoes resolvidas: 773
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1087 Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/)
+  - Question ID: 1087
+  - Arquivo: `problems/medium/1027_longest-arithmetic-subsequence.py`
+  - Resolvido em: 15:32 - 12/11/26
 
 - [#1104 Coloring A Border](https://leetcode.com/problems/coloring-a-border/)
   - Question ID: 1104
