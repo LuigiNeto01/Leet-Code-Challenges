@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 771
+Total de questoes resolvidas: 772
 
 ### Easy
+
+- [#1086 Divisor Game](https://leetcode.com/problems/divisor-game/)
+  - Question ID: 1086
+  - Arquivo: `problems/easy/1025_divisor-game.py`
+  - Resolvido em: 06:00 - 12/11/26
 
 - [#1019 Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
   - Question ID: 1019
