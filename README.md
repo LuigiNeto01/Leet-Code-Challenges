@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 777
+Total de questoes resolvidas: 778
 
 ### Easy
 
@@ -1061,6 +1061,11 @@ Total de questoes resolvidas: 777
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1030 Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)
+  - Question ID: 1030
+  - Arquivo: `problems/medium/988_smallest-string-starting-from-leaf.py`
+  - Resolvido em: 04:01 - 13/11/26
 
 - [#1064 Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)
   - Question ID: 1064
