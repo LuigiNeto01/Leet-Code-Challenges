@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 776
+Total de questoes resolvidas: 777
 
 ### Easy
 
@@ -3178,6 +3178,11 @@ Total de questoes resolvidas: 776
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1000 Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/)
+  - Question ID: 1000
+  - Arquivo: `problems/hard/960_delete-columns-to-make-sorted-iii.py`
+  - Resolvido em: 00:02 - 13/11/26
 
 - [#1004 Least Operators to Express Number](https://leetcode.com/problems/least-operators-to-express-number/)
   - Question ID: 1004
