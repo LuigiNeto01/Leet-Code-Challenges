@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 778
+Total de questoes resolvidas: 779
 
 ### Easy
+
+- [#1062 Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)
+  - Question ID: 1062
+  - Arquivo: `problems/easy/1013_partition-array-into-three-parts-with-equal-sum.py`
+  - Resolvido em: 08:13 - 13/11/26
 
 - [#1086 Divisor Game](https://leetcode.com/problems/divisor-game/)
   - Question ID: 1086
