@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 782
+Total de questoes resolvidas: 783
 
 ### Easy
 
@@ -1066,6 +1066,11 @@ Total de questoes resolvidas: 782
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1065 Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/)
+  - Question ID: 1065
+  - Arquivo: `problems/medium/1016_binary-string-with-substrings-representing-1-to-n.py`
+  - Resolvido em: 22:03 - 13/11/26
 
 - [#1056 Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
   - Question ID: 1056
