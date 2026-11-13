@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 780
+Total de questoes resolvidas: 781
 
 ### Easy
 
@@ -1066,6 +1066,11 @@ Total de questoes resolvidas: 780
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1009 Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)
+  - Question ID: 1009
+  - Arquivo: `problems/medium/969_pancake-sorting.py`
+  - Resolvido em: 16:08 - 13/11/26
 
 - [#1028 Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
   - Question ID: 1028
