@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 779
+Total de questoes resolvidas: 780
 
 ### Easy
 
@@ -1066,6 +1066,11 @@ Total de questoes resolvidas: 779
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1028 Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+  - Question ID: 1028
+  - Arquivo: `problems/medium/986_interval-list-intersections.py`
+  - Resolvido em: 12:33 - 13/11/26
 
 - [#1030 Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)
   - Question ID: 1030
