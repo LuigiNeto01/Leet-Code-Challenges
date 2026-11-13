@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 781
+Total de questoes resolvidas: 782
 
 ### Easy
 
@@ -1066,6 +1066,11 @@ Total de questoes resolvidas: 781
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1056 Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+  - Question ID: 1056
+  - Arquivo: `problems/medium/1011_capacity-to-ship-packages-within-d-days.py`
+  - Resolvido em: 20:30 - 13/11/26
 
 - [#1009 Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)
   - Question ID: 1009
