@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 785
+Total de questoes resolvidas: 786
 
 ### Easy
 
@@ -1066,6 +1066,11 @@ Total de questoes resolvidas: 785
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1081 Video Stitching](https://leetcode.com/problems/video-stitching/)
+  - Question ID: 1081
+  - Arquivo: `problems/medium/1024_video-stitching.py`
+  - Resolvido em: 10:19 - 14/11/26
 
 - [#1119 Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)
   - Question ID: 1119
