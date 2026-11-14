@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 786
+Total de questoes resolvidas: 787
 
 ### Easy
 
@@ -1066,6 +1066,11 @@ Total de questoes resolvidas: 786
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1025 Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
+  - Question ID: 1025
+  - Arquivo: `problems/medium/983_minimum-cost-for-tickets.py`
+  - Resolvido em: 14:00 - 14/11/26
 
 - [#1081 Video Stitching](https://leetcode.com/problems/video-stitching/)
   - Question ID: 1081
