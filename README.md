@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 787
+Total de questoes resolvidas: 788
 
 ### Easy
 
@@ -1066,6 +1066,11 @@ Total de questoes resolvidas: 787
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1184 Car Pooling](https://leetcode.com/problems/car-pooling/)
+  - Question ID: 1184
+  - Arquivo: `problems/medium/1094_car-pooling.py`
+  - Resolvido em: 18:17 - 14/11/26
 
 - [#1025 Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
   - Question ID: 1025
