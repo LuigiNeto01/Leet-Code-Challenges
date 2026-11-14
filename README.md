@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 788
+Total de questoes resolvidas: 789
 
 ### Easy
 
@@ -1066,6 +1066,11 @@ Total de questoes resolvidas: 788
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1129 Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
+  - Question ID: 1129
+  - Arquivo: `problems/medium/1048_longest-string-chain.py`
+  - Resolvido em: 22:34 - 14/11/26
 
 - [#1184 Car Pooling](https://leetcode.com/problems/car-pooling/)
   - Question ID: 1184
