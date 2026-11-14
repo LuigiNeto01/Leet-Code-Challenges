@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 783
+Total de questoes resolvidas: 784
 
 ### Easy
 
@@ -1066,6 +1066,11 @@ Total de questoes resolvidas: 783
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1046 Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+  - Question ID: 1046
+  - Arquivo: `problems/medium/1004_max-consecutive-ones-iii.py`
+  - Resolvido em: 00:00 - 14/11/26
 
 - [#1065 Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/)
   - Question ID: 1065
