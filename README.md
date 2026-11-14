@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 784
+Total de questoes resolvidas: 785
 
 ### Easy
 
@@ -1066,6 +1066,11 @@ Total de questoes resolvidas: 784
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1119 Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)
+  - Question ID: 1119
+  - Arquivo: `problems/medium/1041_robot-bounded-in-circle.py`
+  - Resolvido em: 06:07 - 14/11/26
 
 - [#1046 Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
   - Question ID: 1046
