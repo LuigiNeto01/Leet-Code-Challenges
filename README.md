@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 790
+Total de questoes resolvidas: 791
 
 ### Easy
 
@@ -3238,6 +3238,11 @@ Total de questoes resolvidas: 790
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1106 Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/)
+  - Question ID: 1106
+  - Arquivo: `problems/hard/1036_escape-a-large-maze.py`
+  - Resolvido em: 12:04 - 15/11/26
 
 - [#1188 Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/)
   - Question ID: 1188
