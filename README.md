@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 791
+Total de questoes resolvidas: 792
 
 ### Easy
 
@@ -1066,6 +1066,11 @@ Total de questoes resolvidas: 791
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1058 Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)
+  - Question ID: 1058
+  - Arquivo: `problems/medium/1061_lexicographically-smallest-equivalent-string.py`
+  - Resolvido em: 15:05 - 15/11/26
 
 - [#1129 Longest String Chain](https://leetcode.com/problems/longest-string-chain/)
   - Question ID: 1129
