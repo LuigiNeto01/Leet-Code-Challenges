@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 793
+Total de questoes resolvidas: 794
 
 ### Easy
 
@@ -1066,6 +1066,11 @@ Total de questoes resolvidas: 793
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1049 Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
+  - Question ID: 1049
+  - Arquivo: `problems/medium/1007_minimum-domino-rotations-for-equal-row.py`
+  - Resolvido em: 21:31 - 15/11/26
 
 - [#1147 Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/)
   - Question ID: 1147
