@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 789
+Total de questoes resolvidas: 790
 
 ### Easy
 
@@ -3238,6 +3238,11 @@ Total de questoes resolvidas: 789
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1188 Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/)
+  - Question ID: 1188
+  - Arquivo: `problems/hard/1096_brace-expansion-ii.py`
+  - Resolvido em: 07:32 - 15/11/26
 
 - [#1000 Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/)
   - Question ID: 1000
