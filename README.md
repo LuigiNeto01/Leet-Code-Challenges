@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 792
+Total de questoes resolvidas: 793
 
 ### Easy
 
@@ -1066,6 +1066,11 @@ Total de questoes resolvidas: 792
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1147 Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/)
+  - Question ID: 1147
+  - Arquivo: `problems/medium/1072_flip-columns-for-maximum-number-of-equal-rows.py`
+  - Resolvido em: 19:05 - 15/11/26
 
 - [#1058 Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)
   - Question ID: 1058
