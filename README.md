@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 796
+Total de questoes resolvidas: 797
 
 ### Easy
+
+- [#919 Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/)
+  - Question ID: 919
+  - Arquivo: `problems/easy/883_projection-area-of-3d-shapes.py`
+  - Resolvido em: 14:00 - 16/11/26
 
 - [#1137 Height Checker](https://leetcode.com/problems/height-checker/)
   - Question ID: 1137
