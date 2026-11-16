@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 795
+Total de questoes resolvidas: 796
 
 ### Easy
+
+- [#1137 Height Checker](https://leetcode.com/problems/height-checker/)
+  - Question ID: 1137
+  - Arquivo: `problems/easy/1051_height-checker.py`
+  - Resolvido em: 10:00 - 16/11/26
 
 - [#1062 Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)
   - Question ID: 1062
