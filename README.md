@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 797
+Total de questoes resolvidas: 798
 
 ### Easy
 
@@ -3268,6 +3268,11 @@ Total de questoes resolvidas: 797
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1185 Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
+  - Question ID: 1185
+  - Arquivo: `problems/hard/1095_find-in-mountain-array.py`
+  - Resolvido em: 17:34 - 16/11/26
 
 - [#1106 Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/)
   - Question ID: 1106
