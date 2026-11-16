@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 794
+Total de questoes resolvidas: 795
 
 ### Easy
 
@@ -1066,6 +1066,11 @@ Total de questoes resolvidas: 794
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1080 Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
+  - Question ID: 1080
+  - Arquivo: `problems/medium/1023_camelcase-matching.py`
+  - Resolvido em: 06:06 - 16/11/26
 
 - [#1049 Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)
   - Question ID: 1049
