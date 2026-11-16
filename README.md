@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 798
+Total de questoes resolvidas: 799
 
 ### Easy
+
+- [#1146 Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
+  - Question ID: 1146
+  - Arquivo: `problems/easy/1071_greatest-common-divisor-of-strings.py`
+  - Resolvido em: 22:45 - 16/11/26
 
 - [#919 Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/)
   - Question ID: 919
