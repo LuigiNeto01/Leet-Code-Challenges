@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 802
+Total de questoes resolvidas: 803
 
 ### Easy
 
@@ -3288,6 +3288,11 @@ Total de questoes resolvidas: 802
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1170 Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)
+  - Question ID: 1170
+  - Arquivo: `problems/hard/1092_shortest-common-supersequence.py`
+  - Resolvido em: 17:11 - 17/11/26
 
 - [#1185 Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
   - Question ID: 1185
