@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 801
+Total de questoes resolvidas: 802
 
 ### Easy
 
@@ -1081,6 +1081,11 @@ Total de questoes resolvidas: 801
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1048 Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/)
+  - Question ID: 1048
+  - Arquivo: `problems/medium/1006_clumsy-factorial.py`
+  - Resolvido em: 14:01 - 17/11/26
 
 - [#1159 Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)
   - Question ID: 1159
