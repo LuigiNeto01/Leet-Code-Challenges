@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 803
+Total de questoes resolvidas: 804
 
 ### Easy
+
+- [#1094 Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)
+  - Question ID: 1094
+  - Arquivo: `problems/easy/1030_matrix-cells-in-distance-order.py`
+  - Resolvido em: 20:00 - 17/11/26
 
 - [#1146 Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
   - Question ID: 1146
