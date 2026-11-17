@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 800
+Total de questoes resolvidas: 801
 
 ### Easy
 
@@ -1081,6 +1081,11 @@ Total de questoes resolvidas: 800
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1159 Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)
+  - Question ID: 1159
+  - Arquivo: `problems/medium/1081_smallest-subsequence-of-distinct-characters.py`
+  - Resolvido em: 12:00 - 17/11/26
 
 - [#1063 Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)
   - Question ID: 1063
