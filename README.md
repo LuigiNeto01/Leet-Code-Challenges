@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 799
+Total de questoes resolvidas: 800
 
 ### Easy
 
@@ -1081,6 +1081,11 @@ Total de questoes resolvidas: 799
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1063 Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)
+  - Question ID: 1063
+  - Arquivo: `problems/medium/1014_best-sightseeing-pair.py`
+  - Resolvido em: 09:00 - 17/11/26
 
 - [#1080 Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
   - Question ID: 1080
