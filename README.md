@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 804
+Total de questoes resolvidas: 805
 
 ### Easy
 
@@ -1086,6 +1086,11 @@ Total de questoes resolvidas: 804
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1027 Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
+  - Question ID: 1027
+  - Arquivo: `problems/medium/985_sum-of-even-numbers-after-queries.py`
+  - Resolvido em: 00:04 - 18/11/26
 
 - [#1048 Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/)
   - Question ID: 1048
