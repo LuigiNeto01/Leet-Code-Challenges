@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 810
+Total de questoes resolvidas: 811
 
 ### Easy
 
@@ -3323,6 +3323,11 @@ Total de questoes resolvidas: 810
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1220 Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)
+  - Question ID: 1220
+  - Arquivo: `problems/hard/1125_smallest-sufficient-team.py`
+  - Resolvido em: 23:02 - 18/11/26
 
 - [#1170 Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)
   - Question ID: 1170
