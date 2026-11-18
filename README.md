@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 809
+Total de questoes resolvidas: 810
 
 ### Easy
 
@@ -1091,6 +1091,11 @@ Total de questoes resolvidas: 809
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1050 Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
+  - Question ID: 1050
+  - Arquivo: `problems/medium/1008_construct-binary-search-tree-from-preorder-traversal.py`
+  - Resolvido em: 19:06 - 18/11/26
 
 - [#1194 Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/)
   - Question ID: 1194
