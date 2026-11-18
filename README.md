@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 808
+Total de questoes resolvidas: 809
 
 ### Easy
 
@@ -1091,6 +1091,11 @@ Total de questoes resolvidas: 808
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1194 Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/)
+  - Question ID: 1194
+  - Arquivo: `problems/medium/1104_path-in-zigzag-labelled-binary-tree.py`
+  - Resolvido em: 16:06 - 18/11/26
 
 - [#1208 Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)
   - Question ID: 1208
