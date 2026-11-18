@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 807
+Total de questoes resolvidas: 808
 
 ### Easy
 
@@ -1091,6 +1091,11 @@ Total de questoes resolvidas: 807
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1208 Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/)
+  - Question ID: 1208
+  - Arquivo: `problems/medium/1111_maximum-nesting-depth-of-two-valid-parentheses-strings.py`
+  - Resolvido em: 13:00 - 18/11/26
 
 - [#1113 Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/)
   - Question ID: 1113
