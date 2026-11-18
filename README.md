@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 805
+Total de questoes resolvidas: 806
 
 ### Easy
+
+- [#1168 Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)
+  - Question ID: 1168
+  - Arquivo: `problems/easy/1089_duplicate-zeros.py`
+  - Resolvido em: 08:01 - 18/11/26
 
 - [#1094 Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)
   - Question ID: 1094
