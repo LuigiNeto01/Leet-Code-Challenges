@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 806
+Total de questoes resolvidas: 807
 
 ### Easy
 
@@ -1091,6 +1091,11 @@ Total de questoes resolvidas: 806
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1113 Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/)
+  - Question ID: 1113
+  - Arquivo: `problems/medium/1040_moving-stones-until-consecutive-ii.py`
+  - Resolvido em: 10:06 - 18/11/26
 
 - [#1027 Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
   - Question ID: 1027
