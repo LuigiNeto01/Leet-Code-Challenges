@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 814
+Total de questoes resolvidas: 815
 
 ### Easy
+
+- [#1227 Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)
+  - Question ID: 1227
+  - Arquivo: `problems/easy/1128_number-of-equivalent-domino-pairs.py`
+  - Resolvido em: 18:18 - 19/11/26
 
 - [#1168 Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)
   - Question ID: 1168
