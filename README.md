@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 812
+Total de questoes resolvidas: 813
 
 ### Easy
 
@@ -1091,6 +1091,11 @@ Total de questoes resolvidas: 812
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1111 Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)
+  - Question ID: 1111
+  - Arquivo: `problems/medium/1039_minimum-score-triangulation-of-polygon.py`
+  - Resolvido em: 11:30 - 19/11/26
 
 - [#1050 Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
   - Question ID: 1050
