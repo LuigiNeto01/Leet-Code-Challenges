@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 811
+Total de questoes resolvidas: 812
 
 ### Easy
 
@@ -3323,6 +3323,11 @@ Total de questoes resolvidas: 811
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1037 Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)
+  - Question ID: 1037
+  - Arquivo: `problems/hard/995_minimum-number-of-k-consecutive-bit-flips.py`
+  - Resolvido em: 06:00 - 19/11/26
 
 - [#1220 Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)
   - Question ID: 1220
