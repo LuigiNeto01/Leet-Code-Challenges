@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 813
+Total de questoes resolvidas: 814
 
 ### Easy
 
@@ -1091,6 +1091,11 @@ Total de questoes resolvidas: 813
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1157 Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/)
+  - Question ID: 1157
+  - Arquivo: `problems/medium/1080_insufficient-nodes-in-root-to-leaf-paths.py`
+  - Resolvido em: 15:31 - 19/11/26
 
 - [#1111 Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)
   - Question ID: 1111
