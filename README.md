@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 815
+Total de questoes resolvidas: 816
 
 ### Easy
+
+- [#1205 Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
+  - Question ID: 1205
+  - Arquivo: `problems/easy/1108_defanging-an-ip-address.py`
+  - Resolvido em: 22:00 - 19/11/26
 
 - [#1227 Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)
   - Question ID: 1227
