@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 822
+Total de questoes resolvidas: 823
 
 ### Easy
 
@@ -1101,6 +1101,11 @@ Total de questoes resolvidas: 822
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1247 Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/)
+  - Question ID: 1247
+  - Arquivo: `problems/medium/1144_decrease-elements-to-make-array-zigzag.py`
+  - Resolvido em: 22:04 - 20/11/26
 
 - [#1187 Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/)
   - Question ID: 1187
