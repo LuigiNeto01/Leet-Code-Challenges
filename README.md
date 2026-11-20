@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 821
+Total de questoes resolvidas: 822
 
 ### Easy
 
@@ -1101,6 +1101,11 @@ Total de questoes resolvidas: 821
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1187 Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/)
+  - Question ID: 1187
+  - Arquivo: `problems/medium/1115_print-foobar-alternately.py`
+  - Resolvido em: 20:30 - 20/11/26
 
 - [#885 Exam Room](https://leetcode.com/problems/exam-room/)
   - Question ID: 885
