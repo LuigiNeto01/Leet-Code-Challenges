@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 817
+Total de questoes resolvidas: 818
 
 ### Easy
 
@@ -1101,6 +1101,11 @@ Total de questoes resolvidas: 817
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1250 Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+  - Question ID: 1250
+  - Arquivo: `problems/medium/1143_longest-common-subsequence.py`
+  - Resolvido em: 04:00 - 20/11/26
 
 - [#1207 Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)
   - Question ID: 1207
