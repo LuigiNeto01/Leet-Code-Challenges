@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 818
+Total de questoes resolvidas: 819
 
 ### Easy
 
@@ -3353,6 +3353,11 @@ Total de questoes resolvidas: 818
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1145 Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
+  - Question ID: 1145
+  - Arquivo: `problems/hard/1074_number-of-submatrices-that-sum-to-target.py`
+  - Resolvido em: 08:01 - 20/11/26
 
 - [#1037 Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)
   - Question ID: 1037
