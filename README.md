@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 819
+Total de questoes resolvidas: 820
 
 ### Easy
 
@@ -1101,6 +1101,11 @@ Total de questoes resolvidas: 819
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1218 Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/)
+  - Question ID: 1218
+  - Arquivo: `problems/medium/1123_lowest-common-ancestor-of-deepest-leaves.py`
+  - Resolvido em: 12:39 - 20/11/26
 
 - [#1250 Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
   - Question ID: 1250
