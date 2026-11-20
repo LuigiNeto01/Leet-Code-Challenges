@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 816
+Total de questoes resolvidas: 817
 
 ### Easy
 
@@ -1101,6 +1101,11 @@ Total de questoes resolvidas: 816
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1207 Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/)
+  - Question ID: 1207
+  - Arquivo: `problems/medium/1110_delete-nodes-and-return-forest.py`
+  - Resolvido em: 00:07 - 20/11/26
 
 - [#1157 Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/)
   - Question ID: 1157
