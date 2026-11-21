@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 825
+Total de questoes resolvidas: 826
 
 ### Easy
+
+- [#1047 Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)
+  - Question ID: 1047
+  - Arquivo: `problems/easy/1005_maximize-sum-of-array-after-k-negations.py`
+  - Resolvido em: 10:01 - 21/11/26
 
 - [#1205 Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
   - Question ID: 1205
