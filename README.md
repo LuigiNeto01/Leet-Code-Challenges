@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 823
+Total de questoes resolvidas: 824
 
 ### Easy
 
@@ -3373,6 +3373,11 @@ Total de questoes resolvidas: 823
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1043 Grid Illumination](https://leetcode.com/problems/grid-illumination/)
+  - Question ID: 1043
+  - Arquivo: `problems/hard/1001_grid-illumination.py`
+  - Resolvido em: 00:03 - 21/11/26
 
 - [#1145 Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)
   - Question ID: 1145
