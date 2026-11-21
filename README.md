@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 826
+Total de questoes resolvidas: 827
 
 ### Easy
 
@@ -1106,6 +1106,11 @@ Total de questoes resolvidas: 826
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1228 Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)
+  - Question ID: 1228
+  - Arquivo: `problems/medium/1130_minimum-cost-tree-from-leaf-values.py`
+  - Resolvido em: 14:01 - 21/11/26
 
 - [#1247 Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/)
   - Question ID: 1247
