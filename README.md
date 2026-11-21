@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 828
+Total de questoes resolvidas: 829
 
 ### Easy
 
@@ -1106,6 +1106,11 @@ Total de questoes resolvidas: 828
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1014 K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+  - Question ID: 1014
+  - Arquivo: `problems/medium/973_k-closest-points-to-origin.py`
+  - Resolvido em: 22:33 - 21/11/26
 
 - [#982 Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)
   - Question ID: 982
