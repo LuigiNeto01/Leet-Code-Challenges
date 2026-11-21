@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 827
+Total de questoes resolvidas: 828
 
 ### Easy
 
@@ -1106,6 +1106,11 @@ Total de questoes resolvidas: 827
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#982 Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)
+  - Question ID: 982
+  - Arquivo: `problems/medium/945_minimum-increment-to-make-array-unique.py`
+  - Resolvido em: 18:00 - 21/11/26
 
 - [#1228 Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)
   - Question ID: 1228
