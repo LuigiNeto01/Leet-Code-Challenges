@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 824
+Total de questoes resolvidas: 825
 
 ### Easy
 
@@ -3373,6 +3373,11 @@ Total de questoes resolvidas: 824
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1017 Odd Even Jump](https://leetcode.com/problems/odd-even-jump/)
+  - Question ID: 1017
+  - Arquivo: `problems/hard/975_odd-even-jump.py`
+  - Resolvido em: 06:01 - 21/11/26
 
 - [#1043 Grid Illumination](https://leetcode.com/problems/grid-illumination/)
   - Question ID: 1043
