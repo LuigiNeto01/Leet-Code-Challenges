@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 831
+Total de questoes resolvidas: 832
 
 ### Easy
 
@@ -1111,6 +1111,11 @@ Total de questoes resolvidas: 831
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1249 Snapshot Array](https://leetcode.com/problems/snapshot-array/)
+  - Question ID: 1249
+  - Arquivo: `problems/medium/1146_snapshot-array.py`
+  - Resolvido em: 15:00 - 22/11/26
 
 - [#1014 K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
   - Question ID: 1014
