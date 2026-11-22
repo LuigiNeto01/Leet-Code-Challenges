@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 830
+Total de questoes resolvidas: 831
 
 ### Easy
 
@@ -3398,6 +3398,11 @@ Total de questoes resolvidas: 830
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1251 Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/)
+  - Question ID: 1251
+  - Arquivo: `problems/hard/1147_longest-chunked-palindrome-decomposition.py`
+  - Resolvido em: 12:25 - 22/11/26
 
 - [#1017 Odd Even Jump](https://leetcode.com/problems/odd-even-jump/)
   - Question ID: 1017
