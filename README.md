@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 829
+Total de questoes resolvidas: 830
 
 ### Easy
+
+- [#1078 Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
+  - Question ID: 1078
+  - Arquivo: `problems/easy/1021_remove-outermost-parentheses.py`
+  - Resolvido em: 07:31 - 22/11/26
 
 - [#1047 Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)
   - Question ID: 1047
