@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 833
+Total de questoes resolvidas: 834
 
 ### Easy
 
@@ -1111,6 +1111,11 @@ Total de questoes resolvidas: 833
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1055 Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
+  - Question ID: 1055
+  - Arquivo: `problems/medium/1010_pairs-of-songs-with-total-durations-divisible-by-60.py`
+  - Resolvido em: 21:20 - 22/11/26
 
 - [#991 Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)
   - Question ID: 991
