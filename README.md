@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 832
+Total de questoes resolvidas: 833
 
 ### Easy
 
@@ -1111,6 +1111,11 @@ Total de questoes resolvidas: 832
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#991 Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)
+  - Question ID: 991
+  - Arquivo: `problems/medium/954_array-of-doubled-pairs.py`
+  - Resolvido em: 19:10 - 22/11/26
 
 - [#1249 Snapshot Array](https://leetcode.com/problems/snapshot-array/)
   - Question ID: 1249
