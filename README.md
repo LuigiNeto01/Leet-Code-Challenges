@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 836
+Total de questoes resolvidas: 837
 
 ### Easy
+
+- [#1289 Day of the Week](https://leetcode.com/problems/day-of-the-week/)
+  - Question ID: 1289
+  - Arquivo: `problems/easy/1185_day-of-the-week.py`
+  - Resolvido em: 14:00 - 23/11/26
 
 - [#1217 Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
   - Question ID: 1217
