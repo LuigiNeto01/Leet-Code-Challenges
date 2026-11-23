@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 834
+Total de questoes resolvidas: 835
 
 ### Easy
+
+- [#1217 Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
+  - Question ID: 1217
+  - Arquivo: `problems/easy/1122_relative-sort-array.py`
+  - Resolvido em: 06:09 - 23/11/26
 
 - [#1078 Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
   - Question ID: 1078
