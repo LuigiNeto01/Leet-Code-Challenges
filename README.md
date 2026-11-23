@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 838
+Total de questoes resolvidas: 839
 
 ### Easy
+
+- [#924 Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
+  - Question ID: 924
+  - Arquivo: `problems/easy/888_fair-candy-swap.py`
+  - Resolvido em: 22:35 - 23/11/26
 
 - [#1279 Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)
   - Question ID: 1279
