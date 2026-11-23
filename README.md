@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 835
+Total de questoes resolvidas: 836
 
 ### Easy
 
@@ -1116,6 +1116,11 @@ Total de questoes resolvidas: 835
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1206 Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/)
+  - Question ID: 1206
+  - Arquivo: `problems/medium/1109_corporate-flight-bookings.py`
+  - Resolvido em: 10:08 - 23/11/26
 
 - [#1055 Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
   - Question ID: 1055
