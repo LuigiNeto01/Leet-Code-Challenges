@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 837
+Total de questoes resolvidas: 838
 
 ### Easy
+
+- [#1279 Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)
+  - Question ID: 1279
+  - Arquivo: `problems/easy/1175_prime-arrangements.py`
+  - Resolvido em: 17:01 - 23/11/26
 
 - [#1289 Day of the Week](https://leetcode.com/problems/day-of-the-week/)
   - Question ID: 1289
