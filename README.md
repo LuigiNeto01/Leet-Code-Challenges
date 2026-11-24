@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 839
+Total de questoes resolvidas: 840
 
 ### Easy
 
@@ -1131,6 +1131,11 @@ Total de questoes resolvidas: 839
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1160 Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)
+  - Question ID: 1160
+  - Arquivo: `problems/medium/1079_letter-tile-possibilities.py`
+  - Resolvido em: 09:22 - 24/11/26
 
 - [#1206 Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/)
   - Question ID: 1206
