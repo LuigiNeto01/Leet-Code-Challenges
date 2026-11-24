@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 843
+Total de questoes resolvidas: 844
 
 ### Easy
 
@@ -3458,6 +3458,11 @@ Total de questoes resolvidas: 843
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1093 Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
+  - Question ID: 1093
+  - Arquivo: `problems/hard/1028_recover-a-tree-from-preorder-traversal.py`
+  - Resolvido em: 20:07 - 24/11/26
 
 - [#1251 Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/)
   - Question ID: 1251
