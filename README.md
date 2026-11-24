@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 842
+Total de questoes resolvidas: 843
 
 ### Easy
 
@@ -1136,6 +1136,11 @@ Total de questoes resolvidas: 842
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1267 Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)
+  - Question ID: 1267
+  - Arquivo: `problems/medium/1171_remove-zero-sum-consecutive-nodes-from-linked-list.py`
+  - Resolvido em: 17:11 - 24/11/26
 
 - [#1288 Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)
   - Question ID: 1288
