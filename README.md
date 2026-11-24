@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 840
+Total de questoes resolvidas: 841
 
 ### Easy
 
@@ -1131,6 +1131,11 @@ Total de questoes resolvidas: 840
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1288 Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)
+  - Question ID: 1288
+  - Arquivo: `problems/medium/1186_maximum-subarray-sum-with-one-deletion.py`
+  - Resolvido em: 12:14 - 24/11/26
 
 - [#1160 Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)
   - Question ID: 1160
