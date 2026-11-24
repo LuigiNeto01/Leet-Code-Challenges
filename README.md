@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 841
+Total de questoes resolvidas: 842
 
 ### Easy
+
+- [#1195 Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)
+  - Question ID: 1195
+  - Arquivo: `problems/easy/1103_distribute-candies-to-people.py`
+  - Resolvido em: 14:03 - 24/11/26
 
 - [#924 Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
   - Question ID: 924
