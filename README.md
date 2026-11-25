@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 850
+Total de questoes resolvidas: 851
 
 ### Easy
+
+- [#1112 Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
+  - Question ID: 1112
+  - Arquivo: `problems/easy/1160_find-words-that-can-be-formed-by-characters.py`
+  - Resolvido em: 23:00 - 25/11/26
 
 - [#1260 Day of the Year](https://leetcode.com/problems/day-of-the-year/)
   - Question ID: 1260
