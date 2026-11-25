@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 848
+Total de questoes resolvidas: 849
 
 ### Easy
 
@@ -1146,6 +1146,11 @@ Total de questoes resolvidas: 848
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1114 Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)
+  - Question ID: 1114
+  - Arquivo: `problems/medium/1038_binary-search-tree-to-greater-sum-tree.py`
+  - Resolvido em: 16:05 - 25/11/26
 
 - [#1263 Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)
   - Question ID: 1263
