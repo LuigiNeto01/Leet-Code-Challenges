@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 846
+Total de questoes resolvidas: 847
 
 ### Easy
+
+- [#1018 Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
+  - Question ID: 1018
+  - Arquivo: `problems/easy/976_largest-perimeter-triangle.py`
+  - Resolvido em: 10:00 - 25/11/26
 
 - [#1195 Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)
   - Question ID: 1195
