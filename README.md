@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 844
+Total de questoes resolvidas: 845
 
 ### Easy
 
@@ -3458,6 +3458,11 @@ Total de questoes resolvidas: 844
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#938 Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)
+  - Question ID: 938
+  - Arquivo: `problems/hard/902_numbers-at-most-n-given-digit-set.py`
+  - Resolvido em: 00:00 - 25/11/26
 
 - [#1093 Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
   - Question ID: 1093
