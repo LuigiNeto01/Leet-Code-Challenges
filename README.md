@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 845
+Total de questoes resolvidas: 846
 
 ### Easy
 
@@ -1136,6 +1136,11 @@ Total de questoes resolvidas: 845
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1263 Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)
+  - Question ID: 1263
+  - Arquivo: `problems/medium/1155_number-of-dice-rolls-with-target-sum.py`
+  - Resolvido em: 08:07 - 25/11/26
 
 - [#1267 Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)
   - Question ID: 1267
