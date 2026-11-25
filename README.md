@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 847
+Total de questoes resolvidas: 848
 
 ### Easy
+
+- [#1260 Day of the Year](https://leetcode.com/problems/day-of-the-year/)
+  - Question ID: 1260
+  - Arquivo: `problems/easy/1154_day-of-the-year.py`
+  - Resolvido em: 13:09 - 25/11/26
 
 - [#1018 Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
   - Question ID: 1018
