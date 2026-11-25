@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 849
+Total de questoes resolvidas: 850
 
 ### Easy
 
@@ -1146,6 +1146,11 @@ Total de questoes resolvidas: 849
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1239 Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/)
+  - Question ID: 1239
+  - Arquivo: `problems/medium/1139_largest-1-bordered-square.py`
+  - Resolvido em: 19:01 - 25/11/26
 
 - [#1114 Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)
   - Question ID: 1114
