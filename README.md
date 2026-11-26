@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 855
+Total de questoes resolvidas: 856
 
 ### Easy
 
@@ -1151,6 +1151,11 @@ Total de questoes resolvidas: 855
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1139 Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/)
+  - Question ID: 1139
+  - Arquivo: `problems/medium/1053_previous-permutation-with-one-swap.py`
+  - Resolvido em: 22:10 - 26/11/26
 
 - [#1096 Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)
   - Question ID: 1096
