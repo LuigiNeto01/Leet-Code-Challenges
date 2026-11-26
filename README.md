@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 852
+Total de questoes resolvidas: 853
 
 ### Easy
 
@@ -1151,6 +1151,11 @@ Total de questoes resolvidas: 852
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#988 Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)
+  - Question ID: 988
+  - Arquivo: `problems/medium/951_flip-equivalent-binary-trees.py`
+  - Resolvido em: 11:34 - 26/11/26
 
 - [#1239 Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/)
   - Question ID: 1239
