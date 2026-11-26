@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 851
+Total de questoes resolvidas: 852
 
 ### Easy
 
@@ -3488,6 +3488,11 @@ Total de questoes resolvidas: 851
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1197 Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/)
+  - Question ID: 1197
+  - Arquivo: `problems/hard/1106_parsing-a-boolean-expression.py`
+  - Resolvido em: 06:03 - 26/11/26
 
 - [#938 Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)
   - Question ID: 938
