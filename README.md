@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 854
+Total de questoes resolvidas: 855
 
 ### Easy
 
@@ -1151,6 +1151,11 @@ Total de questoes resolvidas: 854
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1096 Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)
+  - Question ID: 1096
+  - Arquivo: `problems/medium/1031_maximum-sum-of-two-non-overlapping-subarrays.py`
+  - Resolvido em: 18:01 - 26/11/26
 
 - [#652 Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
   - Question ID: 652
