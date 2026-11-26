@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 853
+Total de questoes resolvidas: 854
 
 ### Easy
 
@@ -1151,6 +1151,11 @@ Total de questoes resolvidas: 853
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#652 Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
+  - Question ID: 652
+  - Arquivo: `problems/medium/652_find-duplicate-subtrees.py`
+  - Resolvido em: 15:32 - 26/11/26
 
 - [#988 Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)
   - Question ID: 988
