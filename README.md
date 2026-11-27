@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 856
+Total de questoes resolvidas: 857
 
 ### Easy
+
+- [#1287 Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)
+  - Question ID: 1287
+  - Arquivo: `problems/easy/1184_distance-between-bus-stops.py`
+  - Resolvido em: 00:06 - 27/11/26
 
 - [#1112 Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
   - Question ID: 1112
