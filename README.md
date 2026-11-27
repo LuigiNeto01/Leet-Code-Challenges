@@ -61,9 +61,14 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 862
+Total de questoes resolvidas: 863
 
 ### Easy
+
+- [#1329 Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
+  - Question ID: 1329
+  - Arquivo: `problems/easy/1217_minimum-cost-to-move-chips-to-the-same-position.py`
+  - Resolvido em: 22:03 - 27/11/26
 
 - [#1287 Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)
   - Question ID: 1287
