@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 861
+Total de questoes resolvidas: 862
 
 ### Easy
 
@@ -1156,6 +1156,11 @@ Total de questoes resolvidas: 861
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#946 Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)
+  - Question ID: 946
+  - Arquivo: `problems/medium/910_smallest-range-ii.py`
+  - Resolvido em: 20:30 - 27/11/26
 
 - [#1140 Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)
   - Question ID: 1140
