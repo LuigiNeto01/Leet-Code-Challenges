@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 860
+Total de questoes resolvidas: 861
 
 ### Easy
 
@@ -1156,6 +1156,11 @@ Total de questoes resolvidas: 860
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1140 Distant Barcodes](https://leetcode.com/problems/distant-barcodes/)
+  - Question ID: 1140
+  - Arquivo: `problems/medium/1054_distant-barcodes.py`
+  - Resolvido em: 16:03 - 27/11/26
 
 - [#1006 Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)
   - Question ID: 1006
