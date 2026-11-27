@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 858
+Total de questoes resolvidas: 859
 
 ### Easy
 
@@ -3518,6 +3518,11 @@ Total de questoes resolvidas: 858
   - Resolvido em: 18:03 - 05/03/26
 
 ### Hard
+
+- [#1300 Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
+  - Question ID: 1300
+  - Arquivo: `problems/hard/1192_critical-connections-in-a-network.py`
+  - Resolvido em: 08:00 - 27/11/26
 
 - [#1197 Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/)
   - Question ID: 1197
