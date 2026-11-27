@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 859
+Total de questoes resolvidas: 860
 
 ### Easy
 
@@ -1156,6 +1156,11 @@ Total de questoes resolvidas: 859
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1006 Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)
+  - Question ID: 1006
+  - Arquivo: `problems/medium/966_vowel-spellchecker.py`
+  - Resolvido em: 12:33 - 27/11/26
 
 - [#1032 Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)
   - Question ID: 1032
