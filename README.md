@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 857
+Total de questoes resolvidas: 858
 
 ### Easy
 
@@ -1156,6 +1156,11 @@ Total de questoes resolvidas: 857
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1032 Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)
+  - Question ID: 1032
+  - Arquivo: `problems/medium/990_satisfiability-of-equality-equations.py`
+  - Resolvido em: 04:00 - 27/11/26
 
 - [#1139 Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/)
   - Question ID: 1139
