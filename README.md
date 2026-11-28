@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 863
+Total de questoes resolvidas: 864
 
 ### Easy
 
@@ -1161,6 +1161,11 @@ Total de questoes resolvidas: 863
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1340 The Dining Philosophers](https://leetcode.com/problems/the-dining-philosophers/)
+  - Question ID: 1340
+  - Arquivo: `problems/medium/1226_the-dining-philosophers.py`
+  - Resolvido em: 00:13 - 28/11/26
 
 - [#946 Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)
   - Question ID: 946
