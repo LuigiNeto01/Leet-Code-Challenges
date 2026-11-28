@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 865
+Total de questoes resolvidas: 866
 
 ### Easy
 
@@ -1161,6 +1161,11 @@ Total de questoes resolvidas: 865
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1299 K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/)
+  - Question ID: 1299
+  - Arquivo: `problems/medium/1191_k-concatenation-maximum-sum.py`
+  - Resolvido em: 10:05 - 28/11/26
 
 - [#1360 Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
   - Question ID: 1360
