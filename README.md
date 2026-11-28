@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 864
+Total de questoes resolvidas: 865
 
 ### Easy
 
@@ -1161,6 +1161,11 @@ Total de questoes resolvidas: 864
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#1360 Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
+  - Question ID: 1360
+  - Arquivo: `problems/medium/1239_maximum-length-of-a-concatenated-string-with-unique-characters.py`
+  - Resolvido em: 06:02 - 28/11/26
 
 - [#1340 The Dining Philosophers](https://leetcode.com/problems/the-dining-philosophers/)
   - Question ID: 1340
