@@ -61,7 +61,7 @@ Praticar algoritmos e estruturas de dados para entrevistas técnicas e aprimoram
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 866
+Total de questoes resolvidas: 867
 
 ### Easy
 
@@ -1161,6 +1161,11 @@ Total de questoes resolvidas: 866
   - Resolvido em: 20:33 - 06/03/26
 
 ### Medium
+
+- [#951 Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)
+  - Question ID: 951
+  - Arquivo: `problems/medium/915_partition-array-into-disjoint-intervals.py`
+  - Resolvido em: 14:08 - 28/11/26
 
 - [#1299 K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/)
   - Question ID: 1299
